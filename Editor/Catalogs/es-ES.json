@@ -1,0 +1,2293 @@
+{
+  "localeCode": "es-ES",
+  "nativeName": "Español (España)",
+  "names": [
+    {
+      "key": "Enable",
+      "value": "Activar",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Enfoque manual",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Advanced",
+      "value": "Avanzado",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zoom",
+      "value": "Zoom",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drone",
+      "value": "Dron",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Settings",
+      "value": "Ajustes",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-07_Set-up_0290.html",
+      "section": "Restablecimiento de la cámara",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus",
+      "value": "Enfoque",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Enfoque manual",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Enfoque"
+    },
+    {
+      "key": "Reset",
+      "value": "Restablecer",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-07_Set-up_0290.html",
+      "section": "Restablecimiento de la cámara",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Restablecer"
+    },
+    {
+      "key": "Exposure",
+      "value": "Exposición",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Compensación manual de la exposición",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Exposición"
+    },
+    {
+      "key": "Filters",
+      "value": "Filtros",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Stabilize",
+      "value": "Estabilizador de imagen",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-03_Shooting-1_0330.html",
+      "section": "Estabilización de imagen (Modo IS)",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Aperture",
+      "value": "Abertura",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: AE con prioridad a la abertura",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Portrait",
+      "value": "Orientación vertical",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Camera orientation, not a portrait picture-style preset. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Portrait means vertical frame orientation here, never the portrait color preset.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Display",
+      "value": "Visualización",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-03_Shooting-1_0430.html",
+      "section": "Visualización de información sobre el disparo",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Visualización"
+    },
+    {
+      "key": "Normal",
+      "value": "Normal",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Depth Cool",
+      "value": "Profundidad fría",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Depth Cute",
+      "value": "Profundidad suave",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Spotlight",
+      "value": "Foco de luz",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Green Back",
+      "value": "Fondo verde",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Blue Back",
+      "value": "Fondo azul",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "RIGHT",
+      "value": "Derecha",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "UP",
+      "value": "Arriba",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "DOWN",
+      "value": "Abajo",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "LEFT",
+      "value": "Izquierda",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show/Hide",
+      "value": "Mostrar/Ocultar",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color",
+      "value": "Color",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Enfoque manual",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Color"
+    },
+    {
+      "key": "Hexagon",
+      "value": "Hexágono",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Octagon",
+      "value": "Octágono",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Square",
+      "value": "Cuadrado",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look At Face",
+      "value": "Apuntar al rostro",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look Up",
+      "value": "Apuntar hacia arriba",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look Down",
+      "value": "Apuntar hacia abajo",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look At Feet",
+      "value": "Apuntar a los pies",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Track Self",
+      "value": "Seguirse a uno mismo",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Track Self...",
+      "value": "Seguirse a uno mismo...",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Infinity",
+      "value": "Infinito",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Enfoque manual",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Auto Focus",
+      "value": "Enfoque automático",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "Operación AF",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Manual Focus",
+      "value": "Enfoque manual",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Enfoque manual",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Enfoque manual"
+    },
+    {
+      "key": "Macro",
+      "value": "Macro",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Picture Style",
+      "value": "Estilo de imagen",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-03_Shooting-1_0110.html",
+      "section": "Selección de estilo de imagen",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Quick Selfie",
+      "value": "Selfie rápido",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Extra...",
+      "value": "Otros...",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Movie Mode",
+      "value": "Modo de vídeo",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Avatar-Drop",
+      "value": "Fijar al avatar",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3D Mode",
+      "value": "Modo 3D",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Mount Swap",
+      "value": "Cambiar el soporte",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hide Lens",
+      "value": "Ocultar el objetivo",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Increase",
+      "value": "Cerrar el diafragma",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: AE con prioridad a la abertura",
+      "basis": "canon-adapted",
+      "note": "Close the diaphragm / increase f-number. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Decrease",
+      "value": "Abrir el diafragma",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: AE con prioridad a la abertura",
+      "basis": "canon-adapted",
+      "note": "Open the diaphragm / decrease f-number. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Sensor Type",
+      "value": "Tamaño del sensor",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "DoF Mode",
+      "value": "Profundidad de campo",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: AE con prioridad a la abertura",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Av Dial",
+      "value": "Valor de abertura",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: AE con prioridad a la abertura",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Bokeh Shape",
+      "value": "Forma del bokeh",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "V. Horizon",
+      "value": "Nivel electrónico",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-03_Shooting-1_0430.html",
+      "section": "Visualización de información sobre el disparo",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Grid",
+      "value": "Retícula",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-03_Shooting-1_0430.html",
+      "section": "Visualización de información sobre el disparo",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Retícula"
+    },
+    {
+      "key": "Monitor",
+      "value": "Monitor",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-07_Set-up_0180.html",
+      "section": "Luminosidad de la pantalla",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move HUD",
+      "value": "Mover el HUD",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Peaking",
+      "value": "Valor máximo de enfoque MF",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Enfoque manual",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hand-Rotate",
+      "value": "Girar con la mano",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Change Angle",
+      "value": "Cambiar la orientación",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Tracking",
+      "value": "Seguimiento",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "Selección de área AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Seguimiento"
+    },
+    {
+      "key": "Move Camera",
+      "value": "Mover la cámara",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drone Speed",
+      "value": "Velocidad del dron",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move Pivot",
+      "value": "Mover el pivote",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Track Pivot",
+      "value": "Seguir el pivote",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smoothing",
+      "value": "Suavizar el seguimiento",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drop Pivot",
+      "value": "Colocar el pivote",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Vertical Lock",
+      "value": "Bloqueo vertical",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "EV Dial",
+      "value": "Compensación de la exposición",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Compensación manual de la exposición",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Auto Exposure",
+      "value": "Exposición automática",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: AE con prioridad a la abertura",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "White Bal.",
+      "value": "Balance de blancos",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-03_Shooting-1_0190.html",
+      "section": "Balance de blancos",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Balance de blancos"
+    },
+    {
+      "key": "Avatar AF",
+      "value": "Enfoque automático del avatar",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move Focus",
+      "value": "Mover el enfoque",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Pro Autofocus",
+      "value": "Enfoque automático avanzado",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Operation",
+      "value": "Operación AF",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "Operación AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "Operación AF"
+    },
+    {
+      "key": "AF Area",
+      "value": "Área AF",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "Selección de área AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "Área AF"
+    },
+    {
+      "key": "Response",
+      "value": "Sensibilidad de seguimiento",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "Características de AF Servo",
+      "basis": "canon-exact",
+      "note": "AF tracking response sensitivity, not application response time. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Sensibilidad de seguimiento"
+    },
+    {
+      "key": "Drive Speed",
+      "value": "Velocidad AF",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0100.html",
+      "section": "Personalización de funciones de AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "Velocidad AF"
+    },
+    {
+      "key": "AF-ON",
+      "value": "Activar el enfoque automático",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "AF Lock",
+      "value": "Bloquear el enfoque",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Guide",
+      "value": "Guía de enfoque",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Enfoque manual",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Guía de enfoque"
+    },
+    {
+      "key": "One-Shot AF",
+      "value": "AF foto a foto",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "Operación AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "AF foto a foto"
+    },
+    {
+      "key": "Servo AF",
+      "value": "AF Servo",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "Operación AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "AF Servo"
+    },
+    {
+      "key": "Spot",
+      "value": "Puntual",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "Selección de área AF",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zone",
+      "value": "Zona",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "Selección de área AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Zona"
+    },
+    {
+      "key": "Avatar Priority",
+      "value": "Prioridad al avatar",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Locked-on",
+      "value": "Mantener el sujeto",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "Características de AF Servo",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Standard",
+      "value": "Estándar",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-03_Shooting-1_0110.html",
+      "section": "Selección de estilo de imagen",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Responsive",
+      "value": "Respuesta rápida",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "Características de AF Servo",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Custom",
+      "value": "Funciones adicionales",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Far Clip Plane",
+      "value": "Plano de recorte lejano",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smooth DoF Edges",
+      "value": "Suavizar bordes de profundidad de campo",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Softness",
+      "value": "Suavidad",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smooth Rotate",
+      "value": "Giro suave",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Anamorphic Bokeh",
+      "value": "Bokeh anamórfico",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Chromatic Aberration",
+      "value": "Aberración cromática",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-03_Shooting-1_0220.html",
+      "section": "Corrección de las aberraciones del objetivo",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Enabled",
+      "value": "Activado",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Enfoque manual",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Transverse CA",
+      "value": "Aberración cromática transversal",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Axial CA",
+      "value": "Aberración cromática axial",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Axial Focus-Aware",
+      "value": "Vinculada al enfoque",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Magenta-Green",
+      "value": "Magenta-Verde",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color Grading",
+      "value": "Gradación de color",
+      "source": "https://helpx.adobe.com/es/lightroom-classic/desktop/process-and-develop-photos/image-tone-color.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Gradación de color"
+    },
+    {
+      "key": "Saturation",
+      "value": "Saturación",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-03_Shooting-1_0120.html",
+      "section": "Personalización del estilo de imagen",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Saturación"
+    },
+    {
+      "key": "Vibrance",
+      "value": "Intensidad",
+      "source": "https://helpx.adobe.com/es/photoshop/using/filter-effects-reference.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Intensidad"
+    },
+    {
+      "key": "Contrast",
+      "value": "Contraste",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-03_Shooting-1_0120.html",
+      "section": "Personalización del estilo de imagen",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Contraste"
+    },
+    {
+      "key": "Shadows",
+      "value": "Sombras",
+      "source": "https://helpx.adobe.com/es/lightroom-classic/desktop/process-and-develop-photos/image-tone-color.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Sombras"
+    },
+    {
+      "key": "Midtones",
+      "value": "Medios tonos",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Highlights",
+      "value": "Iluminaciones",
+      "source": "https://helpx.adobe.com/es/lightroom-classic/desktop/process-and-develop-photos/image-tone-color.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Iluminaciones"
+    },
+    {
+      "key": "Brightness",
+      "value": "Brillo",
+      "source": "https://helpx.adobe.com/es/photoshop/using/filter-effects-reference.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Brillo"
+    },
+    {
+      "key": "Temperature",
+      "value": "Temperatura de color",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-03_Shooting-1_0190.html",
+      "section": "Balance de blancos",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Temperatura de color"
+    },
+    {
+      "key": "Red",
+      "value": "Rojo",
+      "source": "https://helpx.adobe.com/es/lightroom-classic/desktop/process-and-develop-photos/image-tone-color.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Rojo"
+    },
+    {
+      "key": "Green",
+      "value": "Verde",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Corrección del balance de blancos",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Blue",
+      "value": "Azul",
+      "source": "https://helpx.adobe.com/es/photoshop/using/filter-effects-reference.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Azul"
+    },
+    {
+      "key": "Depth Fog",
+      "value": "Niebla de profundidad",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Density",
+      "value": "Densidad",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Start Distance",
+      "value": "Distancia inicial",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color R",
+      "value": "Rojo",
+      "source": "https://helpx.adobe.com/es/lightroom-classic/desktop/process-and-develop-photos/image-tone-color.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Rojo"
+    },
+    {
+      "key": "Color G",
+      "value": "Verde",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Corrección del balance de blancos",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color B",
+      "value": "Azul",
+      "source": "https://helpx.adobe.com/es/photoshop/using/filter-effects-reference.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Azul"
+    },
+    {
+      "key": "Film Grain",
+      "value": "Grano de película",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Intensity",
+      "value": "Intensidad",
+      "source": "https://helpx.adobe.com/es/photoshop/using/filter-effects-reference.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Intensidad"
+    },
+    {
+      "key": "Size",
+      "value": "Tamaño",
+      "source": "https://helpx.adobe.com/es/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Tamaño"
+    },
+    {
+      "key": "Speed",
+      "value": "Velocidad",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Fisheye Lens",
+      "value": "Objetivo ojo de pez",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Strength",
+      "value": "Fuerza",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Roundness",
+      "value": "Redondez",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Lens Size",
+      "value": "Tamaño del objetivo",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Edge Softness",
+      "value": "Desvanecimiento del borde",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Reverse Fisheye",
+      "value": "Ojo de pez inverso",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Center",
+      "value": "Centro",
+      "source": "https://helpx.adobe.com/es/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Centro"
+    },
+    {
+      "key": "X",
+      "value": "Posición horizontal",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Y",
+      "value": "Posición vertical",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Letterbox",
+      "value": "Bandas cinematográficas",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2.39:1 Cinemascope",
+      "value": "2.39:1 Cinemascope",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2.35:1 Anamorphic",
+      "value": "2.35:1 Anamórfico",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2.00:1 Univisium",
+      "value": "2.00:1 Univisium",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1.85:1 Theatrical",
+      "value": "1.85:1 Cine",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "16:9 Widescreen",
+      "value": "16:9 Panorámico",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3:2 DSLR",
+      "value": "3:2 Réflex digital",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4:3 Classic",
+      "value": "4:3 Clásico",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1:1 Square",
+      "value": "1:1 Cuadrado",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4:5 Portrait",
+      "value": "4:5 Retrato",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Portrait means vertical frame orientation here, never the portrait color preset.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "9:16 Vertical",
+      "value": "9:16 Vertical",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Pixelation",
+      "value": "Pixelado",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Block Size",
+      "value": "Tamaño del bloque",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Dither",
+      "value": "Tramado",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Posterize",
+      "value": "Posterizar",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Aspect Ratio",
+      "value": "Formato",
+      "source": "https://helpx.adobe.com/es/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Formato"
+    },
+    {
+      "key": "Tilt-Shift",
+      "value": "Inclinación y desplazamiento",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Depth Mode",
+      "value": "Modo de profundidad",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Blur",
+      "value": "Desenfoque",
+      "source": "https://helpx.adobe.com/es/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Desenfoque"
+    },
+    {
+      "key": "Position",
+      "value": "Posición",
+      "source": "https://helpx.adobe.com/es/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Posición"
+    },
+    {
+      "key": "Width",
+      "value": "Anchura",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Angle",
+      "value": "Ángulo",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Vignette",
+      "value": "Viñeteado",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Radius",
+      "value": "Radio",
+      "source": "https://helpx.adobe.com/es/photoshop/using/filter-effects-reference.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Radio"
+    },
+    {
+      "key": "Zoom Blur",
+      "value": "Desenfoque de zoom",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Center X",
+      "value": "Centro horizontal",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Center Y",
+      "value": "Centro vertical",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Zone",
+      "value": "Zona de enfoque",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Spread",
+      "value": "Extensión",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Distance",
+      "value": "Distancia de enfoque",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Manual Focus Assist",
+      "value": "Ayuda al enfoque manual",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zone Size",
+      "value": "Tamaño de la zona",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zone Softness",
+      "value": "Suavidad de la zona",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Edge Feather",
+      "value": "Desvanecimiento del borde",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Peaking",
+      "value": "Resalte de enfoque",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Enfoque manual",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Max Blur Size",
+      "value": "Tamaño máximo de desenfoque",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Player Visibility",
+      "value": "Visibilidad de los jugadores",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hide Remote Players",
+      "value": "Ocultar a otros jugadores",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hide Self",
+      "value": "Ocultarse",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Avatar Offset",
+      "value": "Desplazamiento del avatar",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Rotate With Avatar",
+      "value": "Girar con el avatar",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drop (Reset to Hand)",
+      "value": "Volver a la mano",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move Drone Vertical",
+      "value": "Mover el dron verticalmente",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Camera Pins & Dolly",
+      "value": "Marcadores de cámara y travelling",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Teleport",
+      "value": "Teletransportar",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Dolly",
+      "value": "Travelling",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Reset to Hand",
+      "value": "Volver a la mano",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show Pins",
+      "value": "Mostrar marcadores",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show Path",
+      "value": "Mostrar trayectoria",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show Numbers",
+      "value": "Mostrar números",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Play",
+      "value": "Reproducir",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-05_Playback_0070.html",
+      "section": "Reproducción de vídeo",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Reproducir"
+    },
+    {
+      "key": "Stop",
+      "value": "Detener",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-05_Playback_0070.html",
+      "section": "Reproducción de vídeo",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Playback",
+      "value": "Posición de reproducción",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Dolly playback position, not the camera image-review menu. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move",
+      "value": "Mover manualmente",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Manual dolly movement. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Go To Pin",
+      "value": "Ir al marcador",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Duration",
+      "value": "Duración",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Loop",
+      "value": "Bucle",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Delay",
+      "value": "Retardo",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Path",
+      "value": "Trayectoria",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hand Rotate (Pins)",
+      "value": "Girar marcadores con la mano",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hand Offset",
+      "value": "Desplazamiento de la mano",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drop Next",
+      "value": "Colocar el siguiente marcador",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Clear All (Hold)",
+      "value": "Borrar todo (mantener pulsado)",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Full",
+      "value": "Todas las direcciones",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Vertical",
+      "value": "Solo vertical",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Teleport Next",
+      "value": "Teletransportarse al siguiente marcador",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Reverse",
+      "value": "Ida y vuelta",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Ping-pong playback, not reversed camera orientation. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Linear",
+      "value": "Lineal",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smooth",
+      "value": "Interpolación de puntos",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Path through control points (interpolation). Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Fitted",
+      "value": "Curva ajustada",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Path approximating control points (fitted curve). Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Preset Saver",
+      "value": "Guardado de ajustes preestablecidos",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Save",
+      "value": "Guardar",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-07_Set-up_0310.html",
+      "section": "Guardar/cargar ajustes de la cámara en tarjeta",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Guardar"
+    },
+    {
+      "key": "Load",
+      "value": "Cargar",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-07_Set-up_0310.html",
+      "section": "Guardar/cargar ajustes de la cámara en tarjeta",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Cargar"
+    },
+    {
+      "key": "Load Defaults",
+      "value": "Cargar valores predeterminados",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Favorites",
+      "value": "Favoritos",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ],
+  "directions": [
+    {
+      "key": "TOP",
+      "value": "Arriba",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "UP",
+      "value": "Arriba",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "RIGHT",
+      "value": "Derecha",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "BOTTOM",
+      "value": "Abajo",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "DOWN",
+      "value": "Abajo",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "LEFT",
+      "value": "Izquierda",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "FORWARD",
+      "value": "Adelante",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "BACK",
+      "value": "Atrás",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ],
+  "dynamic": [
+    {
+      "key": "Next",
+      "value": "Siguiente",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "CameraPin",
+      "value": "Marcador {0}",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Seconds",
+      "value": "{0} s",
+      "source": "https://www.bipm.org/en/publications/si-brochure",
+      "section": "SI Brochure — second (s); non-SI units accepted for use with SI: minute (min)",
+      "basis": "standard-identifier",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. International unit symbols with a space after the numerical value. Not an ad-hoc width abbreviation; number placement remains catalog data.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Minutes",
+      "value": "{0} min",
+      "source": "https://www.bipm.org/en/publications/si-brochure",
+      "section": "SI Brochure — second (s); non-SI units accepted for use with SI: minute (min)",
+      "basis": "standard-identifier",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. International unit symbols with a space after the numerical value. Not an ad-hoc width abbreviation; number placement remains catalog data.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "WorldDrop",
+      "value": "Fijar al mundo",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "CameraPinDrop",
+      "value": "Colocar marcador",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "VignetteSoftness",
+      "value": "Desvanecimiento del borde",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "FisheyeCenterX",
+      "value": "Posición horizontal",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "FisheyeCenterY",
+      "value": "Posición vertical",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "ZoomInSpeed4",
+      "value": "Velocidad de teleobjetivo 4",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "ZoomOutSpeed4",
+      "value": "Velocidad de gran angular 4",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ],
+  "featureBlanks": [
+    {
+      "key": "100",
+      "value": "Velocidad de gran angular 1",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "101",
+      "value": "Velocidad de gran angular 2",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "102",
+      "value": "Velocidad de gran angular 3",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "104",
+      "value": "Velocidad de teleobjetivo 1",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "105",
+      "value": "Velocidad de teleobjetivo 2",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "106",
+      "value": "Velocidad de teleobjetivo 3",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "108",
+      "value": "Compensación de la exposición −1/3 de paso",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Compensación manual de la exposición",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "110",
+      "value": "Compensación de la exposición +1/3 de paso",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Compensación manual de la exposición",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "113",
+      "value": "Corrección del balance de blancos: azul",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Corrección del balance de blancos",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "114",
+      "value": "Corrección del balance de blancos: restablecer",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Corrección del balance de blancos",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "115",
+      "value": "Corrección del balance de blancos: ámbar",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Corrección del balance de blancos",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "117",
+      "value": "Hacia cerca: medio",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Enfoque manual",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "118",
+      "value": "Hacia cerca: pequeño",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Enfoque manual",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "120",
+      "value": "Hacia infinito: pequeño",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Enfoque manual",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "121",
+      "value": "Hacia infinito: medio",
+      "source": "https://cam.start.canon/es/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Enfoque manual",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "129",
+      "value": "Apuntar ligeramente hacia arriba",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "130",
+      "value": "Apuntar ligeramente hacia abajo",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ],
+  "sensorBlanks": [
+    {
+      "key": "0",
+      "value": "Formato completo de 35 mm",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1",
+      "value": "APS-H",
+      "source": "https://asia.canon/en/support/8201524100",
+      "section": "35mm-equivalent focal length — image sensor size table",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2",
+      "value": "APS-C (1.5×)",
+      "source": "https://asia.canon/en/support/8201524100",
+      "section": "35mm-equivalent focal length — image sensor size table",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3",
+      "value": "APS-C (1.6×)",
+      "source": "https://asia.canon/en/support/8201524100",
+      "section": "35mm-equivalent focal length — image sensor size table",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4",
+      "value": "Micro cuatro tercios",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "5",
+      "value": "Tipo 1,0",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ],
+  "tonemapBlanks": [
+    {
+      "key": "0",
+      "value": "Desactivado",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1",
+      "value": "Fílmico 1",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2",
+      "value": "Fílmico 2",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3",
+      "value": "HLG",
+      "source": "https://cam.start.canon/en/C017/manual/html/UG-03_Shooting-1_0390.html",
+      "section": "View Assist Display Conditions — Hybrid Log-Gamma",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4",
+      "value": "Neutro",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ]
+}

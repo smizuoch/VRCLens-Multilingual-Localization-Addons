@@ -2,7 +2,9 @@
 [English (README.en.md)](README.en.md)
 
 VRCLensのExpressions Menuと、導入済みのFree Camera Add-onsをビルド時だけ翻訳する
-VRCFury用アドオンです。日本語、簡体字中国語、繁体字中国語（台湾）、韓国語を収録しています。
+VRCFury用アドオンです。既存4言語に22言語を追加し、26言語・ロケールを収録しています。
+追加22言語には出典・語義の確認が未完了の訳が含まれます。技術的な検証と訳語の確定状況は別です。
+[用語と出典の確認状況](Documentation/TERMINOLOGY.md)を参照してください。
 
 ## 必要環境
 
@@ -29,6 +31,28 @@ UnityがPrefabのコンポーネントを読み込めなくなるため、フォ
 - `[Utility] ChineseSimplifiedLocalization.prefab` — 简体中文 (`zh-Hans-CN`)
 - `[Utility] ChineseTraditionalLocalization.prefab` — 繁體中文・台灣 (`zh-Hant-TW`)
 - `[Utility] KoreanLocalization.prefab` — 한국어 (`ko-KR`)
+- `[Utility] FrenchLocalization.prefab` — Français (`fr-FR`)
+- `[Utility] GermanLocalization.prefab` — Deutsch (`de-DE`)
+- `[Utility] CzechLocalization.prefab` — Čeština (`cs-CZ`)
+- `[Utility] SpanishSpainLocalization.prefab` — Español (España) (`es-ES`)
+- `[Utility] SpanishLatinAmericaLocalization.prefab` — Español (Latinoamérica) (`es-419`)
+- `[Utility] RussianLocalization.prefab` — Русский (`ru-RU`)
+- `[Utility] ItalianLocalization.prefab` — Italiano (`it-IT`)
+- `[Utility] DanishLocalization.prefab` — Dansk (`da-DK`)
+- `[Utility] DutchLocalization.prefab` — Nederlands (`nl-NL`)
+- `[Utility] FinnishLocalization.prefab` — Suomi (`fi-FI`)
+- `[Utility] NorwegianBokmalLocalization.prefab` — Norsk bokmål (`nb-NO`)
+- `[Utility] NorwegianNynorskLocalization.prefab` — Norsk nynorsk (`nn-NO`)
+- `[Utility] PolishLocalization.prefab` — Polski (`pl-PL`)
+- `[Utility] PortuguesePortugalLocalization.prefab` — Português (Portugal) (`pt-PT`)
+- `[Utility] SwedishLocalization.prefab` — Svenska (`sv-SE`)
+- `[Utility] BulgarianLocalization.prefab` — Български (`bg-BG`)
+- `[Utility] GreekLocalization.prefab` — Ελληνικά (`el-GR`)
+- `[Utility] HungarianLocalization.prefab` — Magyar (`hu-HU`)
+- `[Utility] RomanianLocalization.prefab` — Română (`ro-RO`)
+- `[Utility] ThaiLocalization.prefab` — ไทย (`th-TH`)
+- `[Utility] TurkishLocalization.prefab` — Türkçe (`tr-TR`)
+- `[Utility] UkrainianLocalization.prefab` — Українська (`uk-UA`)
 
 Prefabを削除して再ビルドすると英語表示へ戻ります。翻訳Prefabが同一言語の重複を含め2個以上
 ある場合は、VRCFury処理前に全言語・ロケール・Hierarchyパスを表示してビルドを停止します。
@@ -49,9 +73,24 @@ Free Camera Add-onsのC#型は必須依存ではありません。
 ## 検証
 
 Unity Editorで`Tools > VRCLens Localization > Validate Package`を実行できます。
-4カタログ、VRCLens本体の対応メニュー、導入済みならFree Camera Add-ons、共有／循環メニュー、
-Puppetラベル、競合検出、4つのinstaller Prefabと空のVRCFury Full Controllerを検査します。
+登録済みの全カタログ（現在26）、VRCLens本体の対応メニュー、導入済みならFree Camera Add-ons、共有／循環メニュー、
+Puppetラベル、競合検出、登録済みの全installer Prefabと空のVRCFury Full Controllerを検査します。
 さらに、マーカーのruntime assembly所属と、各Prefabを配置したアバターの複製を検査します。
+
+## 言語データと出典
+
+新規言語の辞書は `Editor/Catalogs/<locale>.json` にあります。206個の固定項目、8方向、
+11個の動的・文脈依存表示、28個の機能付き空欄を共通処理へ渡します。番号や時間は言語別の
+`{0}` テンプレートです。レイアウト用の空欄5個はそのままです。追加パッケージは不要です。
+
+ノルウェー語のブークモールとニーノシュク、スペインとラテンアメリカは別のPrefabです。
+ポルトガル語はポルトガル向けです。根拠のない地域差を作らず、公式表記を表示幅のために短縮しません。
+既存4言語は従来の訳語・出力を保持しています。
+
+[出典対応表](Documentation/TranslationSources.csv)は意味を区別するキー、採用表記、出典URL、
+節、採用理由、確認状態を記録しています。[未確定一覧](Documentation/TranslationReviewQueue.csv)
+の項目は翻訳確定済みには数えません。Validate Packageは辞書と出典表の一致も検査します。
+[Unity検証結果](Documentation/VALIDATION.md)にはクライアントで未確認の文字表示も分けて記載しています。
 
 ## ライセンス
 

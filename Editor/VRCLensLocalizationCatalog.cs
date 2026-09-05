@@ -113,6 +113,7 @@ namespace VRCLensCustom
             };
 
             AddChineseCatalogs(result);
+            VRCLensAdditionalCatalogs.AddTo(result);
             return result;
         }
 
@@ -145,6 +146,17 @@ namespace VRCLensCustom
                 ? VRCLensChineseLocalizationCatalogs.CreateTraditionalDirections()
                 : VRCLensChineseLocalizationCatalogs.CreateSimplifiedDirections();
 
+            return CreateDataCatalog(
+                traditional ? VRCLensChineseLocalizationCatalogs.TraditionalLocaleCode
+                            : VRCLensChineseLocalizationCatalogs.SimplifiedLocaleCode,
+                traditional ? "繁體中文" : "简体中文", names, directions, dynamicNames);
+        }
+
+        internal static VRCLensLocalizationCatalog CreateDataCatalog(
+            string localeCode, string nativeName,
+            Dictionary<string, string> names, Dictionary<string, string> directions,
+            VRCLensLocalizationDynamicNames dynamicNames)
+        {
             ContextualNameResolver contextual = delegate(
                 string sourceName,
                 string parameterName,
@@ -269,11 +281,7 @@ namespace VRCLensCustom
                 return true;
             };
 
-            return CreateAdapter(
-                traditional
-                    ? VRCLensChineseLocalizationCatalogs.TraditionalLocaleCode
-                    : VRCLensChineseLocalizationCatalogs.SimplifiedLocaleCode,
-                traditional ? "繁體中文" : "简体中文",
+            return CreateAdapter(localeCode, nativeName,
                 names, directions, dynamicNames.CameraPinDrop, dynamicNames.NextPage,
                 contextual, blank, pivot);
         }

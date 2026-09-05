@@ -510,77 +510,9 @@ namespace VRCLensCustom
         /// replaceable English label. The dictionaries cover all 28 functional icon-only controls;
         /// the five layout spacers deliberately have no entry.
         /// </summary>
-        internal sealed class DynamicNames
+        internal static VRCLensLocalizationDynamicNames CreateSimplifiedDynamicNames()
         {
-            internal readonly string NextPage;
-            internal readonly string CameraPinPrefix;
-            internal readonly string SecondsSuffix;
-            internal readonly string MinutesSuffix;
-            internal readonly string WorldDrop;
-            internal readonly string CameraPinDrop;
-            internal readonly string VignetteSoftness;
-            internal readonly string FisheyeCenterX;
-            internal readonly string FisheyeCenterY;
-            internal readonly string ZoomInSpeed4;
-            internal readonly string ZoomOutSpeed4;
-            internal readonly string[] ImpliedMovePivotDirections;
-            internal readonly Dictionary<int, string> FeatureToggleBlankNames;
-            internal readonly Dictionary<int, string> SensorBlankNames;
-            internal readonly Dictionary<int, string> TonemapBlankNames;
-
-            internal DynamicNames(
-                string nextPage,
-                string cameraPinPrefix,
-                string secondsSuffix,
-                string minutesSuffix,
-                string worldDrop,
-                string cameraPinDrop,
-                string vignetteSoftness,
-                string fisheyeCenterX,
-                string fisheyeCenterY,
-                string zoomInSpeed4,
-                string zoomOutSpeed4,
-                string[] impliedMovePivotDirections,
-                Dictionary<int, string> featureToggleBlankNames,
-                Dictionary<int, string> sensorBlankNames,
-                Dictionary<int, string> tonemapBlankNames)
-            {
-                NextPage = nextPage;
-                CameraPinPrefix = cameraPinPrefix;
-                SecondsSuffix = secondsSuffix;
-                MinutesSuffix = minutesSuffix;
-                WorldDrop = worldDrop;
-                CameraPinDrop = cameraPinDrop;
-                VignetteSoftness = vignetteSoftness;
-                FisheyeCenterX = fisheyeCenterX;
-                FisheyeCenterY = fisheyeCenterY;
-                ZoomInSpeed4 = zoomInSpeed4;
-                ZoomOutSpeed4 = zoomOutSpeed4;
-                ImpliedMovePivotDirections = impliedMovePivotDirections;
-                FeatureToggleBlankNames = featureToggleBlankNames;
-                SensorBlankNames = sensorBlankNames;
-                TonemapBlankNames = tonemapBlankNames;
-            }
-
-            internal string FormatCameraPin(string number)
-            {
-                return CameraPinPrefix + number;
-            }
-
-            internal string FormatSeconds(string number)
-            {
-                return number + SecondsSuffix;
-            }
-
-            internal string FormatMinutes(string number)
-            {
-                return number + MinutesSuffix;
-            }
-        }
-
-        internal static DynamicNames CreateSimplifiedDynamicNames()
-        {
-            return new DynamicNames(
+            return new VRCLensLocalizationDynamicNames(
                 "下一页",
                 "机位",
                 "秒",
@@ -632,9 +564,9 @@ namespace VRCLensCustom
                 });
         }
 
-        internal static DynamicNames CreateTraditionalDynamicNames()
+        internal static VRCLensLocalizationDynamicNames CreateTraditionalDynamicNames()
         {
-            return new DynamicNames(
+            return new VRCLensLocalizationDynamicNames(
                 "下一頁",
                 "機位",
                 "秒",

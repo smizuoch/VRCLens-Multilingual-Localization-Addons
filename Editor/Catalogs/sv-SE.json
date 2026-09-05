@@ -1,0 +1,2293 @@
+{
+  "localeCode": "sv-SE",
+  "nativeName": "Svenska",
+  "names": [
+    {
+      "key": "Enable",
+      "value": "Aktivera",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuell fokusering",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Advanced",
+      "value": "Avancerat",
+      "source": "https://sv.wiktionary.org/w/index.php?title=avancerat&oldid=2661902",
+      "section": "avancerat",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zoom",
+      "value": "Zoom",
+      "source": "https://sv.wiktionary.org/w/index.php?title=zoom&oldid=3950562",
+      "section": "zoom",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drone",
+      "value": "Drönare",
+      "source": "https://sv.wiktionary.org/w/index.php?title=dr%C3%B6nare&oldid=4146184",
+      "section": "drönare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Settings",
+      "value": "Inställningar",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-07_Set-up_0290.html",
+      "section": "Återställ kameran",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Inställningar"
+    },
+    {
+      "key": "Focus",
+      "value": "Fokus",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuell fokusering",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Fokus"
+    },
+    {
+      "key": "Reset",
+      "value": "Återställ",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-07_Set-up_0290.html",
+      "section": "Återställ kameran",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Återställ"
+    },
+    {
+      "key": "Exposure",
+      "value": "Exponering",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Manuell exponeringsinställning",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Exponering"
+    },
+    {
+      "key": "Filters",
+      "value": "Filter",
+      "source": "https://sv.wiktionary.org/w/index.php?title=Filter&oldid=4108098",
+      "section": "Filter",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Stabilize",
+      "value": "Bildstabilisator",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-03_Shooting-1_0330.html",
+      "section": "Image Stabilizer (Bildstabilisator) (IS-läge)",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Bildstabilisator"
+    },
+    {
+      "key": "Aperture",
+      "value": "Bländare",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: Bländarförval AE",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Portrait",
+      "value": "Stående orientering",
+      "source": "https://sv.wiktionary.org/w/index.php?title=orientering&oldid=4102290",
+      "section": "orientering",
+      "basis": "dictionary-candidate",
+      "note": "Camera orientation, not a portrait picture-style preset. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Portrait means vertical frame orientation here, never the portrait color preset.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Display",
+      "value": "Visning",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-03_Shooting-1_0430.html",
+      "section": "Visning av fotograferingsinformation",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Visning"
+    },
+    {
+      "key": "Normal",
+      "value": "Normal",
+      "source": "https://sv.wiktionary.org/w/index.php?title=normal&oldid=4150578",
+      "section": "normal",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Depth Cool",
+      "value": "Kallt djup",
+      "source": "https://sv.wiktionary.org/w/index.php?title=kallt&oldid=3854628",
+      "section": "kallt",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Depth Cute",
+      "value": "Mjukt djup",
+      "source": "https://sv.wiktionary.org/w/index.php?title=mjukt&oldid=2949649",
+      "section": "mjukt",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Spotlight",
+      "value": "Spotljus",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Green Back",
+      "value": "Grön bakgrund",
+      "source": "https://sv.wiktionary.org/w/index.php?title=bakgrund&oldid=3934827",
+      "section": "bakgrund",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Blue Back",
+      "value": "Blå bakgrund",
+      "source": "https://sv.wiktionary.org/w/index.php?title=bakgrund&oldid=3934827",
+      "section": "bakgrund",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "RIGHT",
+      "value": "Höger",
+      "source": "https://sv.wiktionary.org/w/index.php?title=h%C3%B6ger&oldid=3971485",
+      "section": "höger",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "UP",
+      "value": "Upp",
+      "source": "https://sv.wiktionary.org/w/index.php?title=Upp&oldid=2908854",
+      "section": "Upp",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "DOWN",
+      "value": "Ned",
+      "source": "https://sv.wiktionary.org/w/index.php?title=ned&oldid=3721509",
+      "section": "ned",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "LEFT",
+      "value": "Vänster",
+      "source": "https://sv.wiktionary.org/w/index.php?title=v%C3%A4nster&oldid=3980398",
+      "section": "vänster",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show/Hide",
+      "value": "Visa/Dölj",
+      "source": "https://sv.wiktionary.org/w/index.php?title=Visa&oldid=2640199",
+      "section": "Visa",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color",
+      "value": "Färg",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuell fokusering",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Färg"
+    },
+    {
+      "key": "Hexagon",
+      "value": "Sexhörning",
+      "source": "https://sv.wiktionary.org/w/index.php?title=sexh%C3%B6rning&oldid=3703268",
+      "section": "sexhörning",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Octagon",
+      "value": "Åttahörning",
+      "source": "https://sv.wiktionary.org/w/index.php?title=%C3%A5ttah%C3%B6rning&oldid=3862325",
+      "section": "åttahörning",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Square",
+      "value": "Kvadrat",
+      "source": "https://sv.wiktionary.org/w/index.php?title=kvadrat&oldid=4124279",
+      "section": "kvadrat",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look At Face",
+      "value": "Rikta mot ansiktet",
+      "source": "https://sv.wiktionary.org/w/index.php?title=ansiktet&oldid=2656472",
+      "section": "ansiktet",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look Up",
+      "value": "Rikta uppåt",
+      "source": "https://sv.wiktionary.org/w/index.php?title=rikta&oldid=4029135",
+      "section": "rikta",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look Down",
+      "value": "Rikta nedåt",
+      "source": "https://sv.wiktionary.org/w/index.php?title=rikta&oldid=4029135",
+      "section": "rikta",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look At Feet",
+      "value": "Rikta mot fötterna",
+      "source": "https://sv.wiktionary.org/w/index.php?title=f%C3%B6tterna&oldid=2715145",
+      "section": "fötterna",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Track Self",
+      "value": "Följ dig själv",
+      "source": "https://sv.wiktionary.org/w/index.php?title=sj%C3%A4lv&oldid=4096285",
+      "section": "själv",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Track Self...",
+      "value": "Följ dig själv...",
+      "source": "https://sv.wiktionary.org/w/index.php?title=sj%C3%A4lv&oldid=4096285",
+      "section": "själv",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Infinity",
+      "value": "Oändligt",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuell fokusering",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Auto Focus",
+      "value": "Autofokus",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "AF-funktion",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Manual Focus",
+      "value": "Manuell fokusering",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuell fokusering",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Manuell fokusering"
+    },
+    {
+      "key": "Macro",
+      "value": "Makro",
+      "source": "https://sv.wiktionary.org/w/index.php?title=Makro&oldid=3740712",
+      "section": "Makro",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Picture Style",
+      "value": "Bildstil",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-03_Shooting-1_0110.html",
+      "section": "Välja bildstil",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Bildstil"
+    },
+    {
+      "key": "Quick Selfie",
+      "value": "Snabb selfie",
+      "source": "https://sv.wiktionary.org/w/index.php?title=selfie&oldid=4115522",
+      "section": "selfie",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Extra...",
+      "value": "Övrigt...",
+      "source": "https://sv.wiktionary.org/w/index.php?title=%C3%B6vrigt&oldid=2861927",
+      "section": "övrigt",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Movie Mode",
+      "value": "Filmläge",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Avatar-Drop",
+      "value": "Fäst vid avatar",
+      "source": "https://sv.wiktionary.org/w/index.php?title=avatar&oldid=4123850",
+      "section": "avatar",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3D Mode",
+      "value": "3D-läge",
+      "source": "https://sv.wiktionary.org/w/index.php?title=l%C3%A4ge&oldid=4125273",
+      "section": "läge",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Mount Swap",
+      "value": "Byt fäste",
+      "source": "https://sv.wiktionary.org/w/index.php?title=f%C3%A4ste&oldid=4146846",
+      "section": "fäste",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hide Lens",
+      "value": "Dölj objektiv",
+      "source": "https://sv.wiktionary.org/w/index.php?title=objektiv&oldid=4145358",
+      "section": "objektiv",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Increase",
+      "value": "Stäng bländaren",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: Bländarförval AE",
+      "basis": "canon-adapted",
+      "note": "Close the diaphragm / increase f-number. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Decrease",
+      "value": "Öppna bländaren",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: Bländarförval AE",
+      "basis": "canon-adapted",
+      "note": "Open the diaphragm / decrease f-number. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Sensor Type",
+      "value": "Sensorstorlek",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "DoF Mode",
+      "value": "Skärpedjup",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: Bländarförval AE",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Skärpedjup"
+    },
+    {
+      "key": "Av Dial",
+      "value": "Bländarvärde",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: Bländarförval AE",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Bländarvärde"
+    },
+    {
+      "key": "Bokeh Shape",
+      "value": "Bokehform",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "V. Horizon",
+      "value": "Elektronisk nivå",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-03_Shooting-1_0430.html",
+      "section": "Visning av fotograferingsinformation",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Grid",
+      "value": "Rutnät",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-03_Shooting-1_0430.html",
+      "section": "Visning av fotograferingsinformation",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Rutnät"
+    },
+    {
+      "key": "Monitor",
+      "value": "Bildskärm",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-07_Set-up_0180.html",
+      "section": "Skärmljusstyrka",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move HUD",
+      "value": "Flytta HUD",
+      "source": "https://sv.wiktionary.org/w/index.php?title=flytta&oldid=4065639",
+      "section": "flytta",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Peaking",
+      "value": "MF-peaking",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuell fokusering",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "MF-peaking"
+    },
+    {
+      "key": "Hand-Rotate",
+      "value": "Rotera för hand",
+      "source": "https://sv.wiktionary.org/w/index.php?title=rotera&oldid=4057115",
+      "section": "rotera",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Change Angle",
+      "value": "Ändra orientering",
+      "source": "https://sv.wiktionary.org/w/index.php?title=orientering&oldid=4102290",
+      "section": "orientering",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Tracking",
+      "value": "Följning",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "Välja AF-området",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move Camera",
+      "value": "Flytta kamera",
+      "source": "https://sv.wiktionary.org/w/index.php?title=flytta&oldid=4065639",
+      "section": "flytta",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drone Speed",
+      "value": "Drönarhastighet",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move Pivot",
+      "value": "Flytta vridpunkt",
+      "source": "https://sv.wiktionary.org/w/index.php?title=flytta&oldid=4065639",
+      "section": "flytta",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Track Pivot",
+      "value": "Följ vridpunkt",
+      "source": "https://sv.wiktionary.org/w/index.php?title=f%C3%B6lj&oldid=2712989",
+      "section": "följ",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smoothing",
+      "value": "Jämna ut följning",
+      "source": "https://sv.wiktionary.org/w/index.php?title=j%C3%A4mna&oldid=3860541",
+      "section": "jämna",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drop Pivot",
+      "value": "Placera vridpunkt",
+      "source": "https://sv.wiktionary.org/w/index.php?title=placera&oldid=4103331",
+      "section": "placera",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Vertical Lock",
+      "value": "Vertikalt lås",
+      "source": "https://sv.wiktionary.org/w/index.php?title=vertikalt&oldid=3929560",
+      "section": "vertikalt",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "EV Dial",
+      "value": "Exponeringskompensation",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Manuell exponeringsinställning",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Exponeringskompensation"
+    },
+    {
+      "key": "Auto Exposure",
+      "value": "Automatisk exponering",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: Bländarförval AE",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "White Bal.",
+      "value": "Vitbalans",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-03_Shooting-1_0190.html",
+      "section": "Vitbalans",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Vitbalans"
+    },
+    {
+      "key": "Avatar AF",
+      "value": "Autofokus på avatar",
+      "source": "https://sv.wiktionary.org/w/index.php?title=Autofokus&oldid=3761387",
+      "section": "Autofokus",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move Focus",
+      "value": "Flytta fokus",
+      "source": "https://sv.wiktionary.org/w/index.php?title=flytta&oldid=4065639",
+      "section": "flytta",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Pro Autofocus",
+      "value": "Avancerad autofokus",
+      "source": "https://sv.wiktionary.org/w/index.php?title=avancerad&oldid=3480190",
+      "section": "avancerad",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Operation",
+      "value": "AF-funktion",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "AF-funktion",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "AF-funktion"
+    },
+    {
+      "key": "AF Area",
+      "value": "AF-område",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "Välja AF-området",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "AF-område"
+    },
+    {
+      "key": "Response",
+      "value": "Följningskänslighet",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "Servo AF-inställningar",
+      "basis": "canon-adapted",
+      "note": "AF tracking response sensitivity, not application response time. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drive Speed",
+      "value": "AF-hastighet",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0100.html",
+      "section": "Anpassa AF-funktioner",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "AF-hastighet"
+    },
+    {
+      "key": "AF-ON",
+      "value": "Aktivera autofokus",
+      "source": "https://sv.wiktionary.org/w/index.php?title=autofokus&oldid=3871019",
+      "section": "autofokus",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "AF Lock",
+      "value": "Lås fokus",
+      "source": "https://sv.wiktionary.org/w/index.php?title=fokus&oldid=3897315",
+      "section": "fokus",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Guide",
+      "value": "Fokusguide",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuell fokusering",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Fokusguide"
+    },
+    {
+      "key": "One-Shot AF",
+      "value": "One-Shot AF",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "AF-funktion",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "One-Shot AF"
+    },
+    {
+      "key": "Servo AF",
+      "value": "Servo AF",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "AF-funktion",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "Servo AF"
+    },
+    {
+      "key": "Spot",
+      "value": "Spot",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "Välja AF-området",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Spot"
+    },
+    {
+      "key": "Zone",
+      "value": "Zon",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "Välja AF-området",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Zon"
+    },
+    {
+      "key": "Avatar Priority",
+      "value": "Avatarprioritet",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Locked-on",
+      "value": "Behåll motiv",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "Servo AF-inställningar",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Standard",
+      "value": "Standard",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-03_Shooting-1_0110.html",
+      "section": "Välja bildstil",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Standard"
+    },
+    {
+      "key": "Responsive",
+      "value": "Snabb reaktion",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "Servo AF-inställningar",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Custom",
+      "value": "Extrafunktioner",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Far Clip Plane",
+      "value": "Bortre klippningsplan",
+      "source": "https://sv.wiktionary.org/w/index.php?title=bortre&oldid=4130162",
+      "section": "bortre",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smooth DoF Edges",
+      "value": "Mjuka upp skärpedjupskanter",
+      "source": "https://sv.wiktionary.org/w/index.php?title=mjuka&oldid=2766683",
+      "section": "mjuka",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Softness",
+      "value": "Mjukhet",
+      "source": "https://sv.wiktionary.org/w/index.php?title=mjukhet&oldid=3926318",
+      "section": "mjukhet",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smooth Rotate",
+      "value": "Mjuk rotation",
+      "source": "https://sv.wiktionary.org/w/index.php?title=rotation&oldid=3911567",
+      "section": "rotation",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Anamorphic Bokeh",
+      "value": "Anamorfisk bokeh",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Chromatic Aberration",
+      "value": "Kromatisk aberration",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-03_Shooting-1_0220.html",
+      "section": "Korrigering för objektivaberration",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Kromatisk aberration"
+    },
+    {
+      "key": "Enabled",
+      "value": "Aktiverad",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuell fokusering",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Transverse CA",
+      "value": "Tvärgående kromatisk aberration",
+      "source": "https://sv.wiktionary.org/w/index.php?title=tv%C3%A4rg%C3%A5ende&oldid=3973497",
+      "section": "tvärgående",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Axial CA",
+      "value": "Axiell kromatisk aberration",
+      "source": "https://sv.wiktionary.org/w/index.php?title=aberration&oldid=3299718",
+      "section": "aberration",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Axial Focus-Aware",
+      "value": "Fokusberoende",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Magenta-Green",
+      "value": "Magenta-Grön",
+      "source": "https://sv.wiktionary.org/w/index.php?title=Magenta&oldid=2607677",
+      "section": "Magenta",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color Grading",
+      "value": "Färggradering",
+      "source": "https://helpx.adobe.com/se/lightroom-classic/desktop/process-and-develop-photos/image-tone-color.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Färggradering"
+    },
+    {
+      "key": "Saturation",
+      "value": "Mättnad",
+      "source": "https://helpx.adobe.com/se/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Mättnad"
+    },
+    {
+      "key": "Vibrance",
+      "value": "Lyster",
+      "source": "https://helpx.adobe.com/se/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Lyster"
+    },
+    {
+      "key": "Contrast",
+      "value": "Kontrast",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-03_Shooting-1_0120.html",
+      "section": "Anpassa bildstil",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Kontrast"
+    },
+    {
+      "key": "Shadows",
+      "value": "Skuggor",
+      "source": "https://helpx.adobe.com/se/lightroom-classic/desktop/process-and-develop-photos/image-tone-color.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Skuggor"
+    },
+    {
+      "key": "Midtones",
+      "value": "Mellantoner",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Highlights",
+      "value": "Högdagrar",
+      "source": "https://helpx.adobe.com/se/photoshop/using/filter-effects-reference.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Högdagrar"
+    },
+    {
+      "key": "Brightness",
+      "value": "Ljusstyrka",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-07_Set-up_0180.html",
+      "section": "Skärmljusstyrka",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Temperature",
+      "value": "Färgtemperatur",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-03_Shooting-1_0190.html",
+      "section": "Vitbalans",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Färgtemperatur"
+    },
+    {
+      "key": "Red",
+      "value": "Röd",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuell fokusering",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Green",
+      "value": "Grön",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Vitbalanskorrigering",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Grön"
+    },
+    {
+      "key": "Blue",
+      "value": "Blå",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Vitbalanskorrigering",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Blå"
+    },
+    {
+      "key": "Depth Fog",
+      "value": "Djupdimma",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Density",
+      "value": "Täthet",
+      "source": "https://sv.wiktionary.org/w/index.php?title=t%C3%A4thet&oldid=3440874",
+      "section": "täthet",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Start Distance",
+      "value": "Startavstånd",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color R",
+      "value": "Röd",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuell fokusering",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color G",
+      "value": "Grön",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Vitbalanskorrigering",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Grön"
+    },
+    {
+      "key": "Color B",
+      "value": "Blå",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Vitbalanskorrigering",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Blå"
+    },
+    {
+      "key": "Film Grain",
+      "value": "Kornig film",
+      "source": "https://helpx.adobe.com/se/photoshop/using/filter-effects-reference.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Kornig film"
+    },
+    {
+      "key": "Intensity",
+      "value": "Intensitet",
+      "source": "https://helpx.adobe.com/se/lightroom-classic/desktop/process-and-develop-photos/image-tone-color.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Intensitet"
+    },
+    {
+      "key": "Size",
+      "value": "Storlek",
+      "source": "https://helpx.adobe.com/se/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Storlek"
+    },
+    {
+      "key": "Speed",
+      "value": "Hastighet",
+      "source": "https://sv.wiktionary.org/w/index.php?title=hastighet&oldid=4006461",
+      "section": "hastighet",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Fisheye Lens",
+      "value": "Fisheye-objektiv",
+      "source": "https://sv.wiktionary.org/w/index.php?title=objektiv&oldid=4145358",
+      "section": "objektiv",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Strength",
+      "value": "Styrka",
+      "source": "https://helpx.adobe.com/se/photoshop/using/filter-effects-reference.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Styrka"
+    },
+    {
+      "key": "Roundness",
+      "value": "Rundhet",
+      "source": "https://sv.wiktionary.org/w/index.php?title=rundhet&oldid=3644783",
+      "section": "rundhet",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Lens Size",
+      "value": "Objektivstorlek",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Edge Softness",
+      "value": "Kantludd",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Reverse Fisheye",
+      "value": "Omvänd fisheye",
+      "source": "https://sv.wiktionary.org/w/index.php?title=omv%C3%A4nd&oldid=4112432",
+      "section": "omvänd",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Center",
+      "value": "Mittpunkt",
+      "source": "https://sv.wiktionary.org/w/index.php?title=mittpunkt&oldid=4059788",
+      "section": "mittpunkt",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "X",
+      "value": "Vågrät position",
+      "source": "https://sv.wiktionary.org/w/index.php?title=position&oldid=4020953",
+      "section": "position",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Y",
+      "value": "Lodrät position",
+      "source": "https://sv.wiktionary.org/w/index.php?title=position&oldid=4020953",
+      "section": "position",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Letterbox",
+      "value": "Biografbalkar",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2.39:1 Cinemascope",
+      "value": "2.39:1 Cinemascope",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2.35:1 Anamorphic",
+      "value": "2.35:1 Anamorfisk",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2.00:1 Univisium",
+      "value": "2.00:1 Univisium",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1.85:1 Theatrical",
+      "value": "1.85:1 Biograf",
+      "source": "https://sv.wiktionary.org/w/index.php?title=Biograf&oldid=3773916",
+      "section": "Biograf",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "16:9 Widescreen",
+      "value": "16:9 Bredbild",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3:2 DSLR",
+      "value": "3:2 Digital spegelreflex",
+      "source": "https://sv.wiktionary.org/w/index.php?title=digital&oldid=4060633",
+      "section": "digital",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4:3 Classic",
+      "value": "4:3 Klassisk",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1:1 Square",
+      "value": "1:1 Kvadrat",
+      "source": "https://sv.wiktionary.org/w/index.php?title=kvadrat&oldid=4124279",
+      "section": "kvadrat",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4:5 Portrait",
+      "value": "4:5 Stående",
+      "source": "https://sv.wiktionary.org/w/index.php?title=st%C3%A5ende&oldid=4128306",
+      "section": "stående",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Portrait means vertical frame orientation here, never the portrait color preset.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "9:16 Vertical",
+      "value": "9:16 Lodrät",
+      "source": "https://sv.wiktionary.org/w/index.php?title=lodr%C3%A4t&oldid=4090308",
+      "section": "lodrät",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Pixelation",
+      "value": "Pixelering",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Block Size",
+      "value": "Blockstorlek",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Dither",
+      "value": "Gitter",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Posterize",
+      "value": "Färgreduktion",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Aspect Ratio",
+      "value": "Sidförhållande",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-03_Shooting-1_0040.html",
+      "section": "Stillbildsbeskärning/sidförhållande",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Tilt-Shift",
+      "value": "Tilt och shift",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Depth Mode",
+      "value": "Djupläge",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Blur",
+      "value": "Oskärpa",
+      "source": "https://helpx.adobe.com/se/photoshop/using/filter-effects-reference.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Oskärpa"
+    },
+    {
+      "key": "Position",
+      "value": "Position",
+      "source": "https://sv.wiktionary.org/w/index.php?title=position&oldid=4020953",
+      "section": "position",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Width",
+      "value": "Bredd",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Angle",
+      "value": "Vinkel",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Vignette",
+      "value": "Vinjettering",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Radius",
+      "value": "Radie",
+      "source": "https://helpx.adobe.com/se/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Radie"
+    },
+    {
+      "key": "Zoom Blur",
+      "value": "Zoomoskärpa",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Center X",
+      "value": "Vågrät mittpunkt",
+      "source": "https://sv.wiktionary.org/w/index.php?title=mittpunkt&oldid=4059788",
+      "section": "mittpunkt",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Center Y",
+      "value": "Lodrät mittpunkt",
+      "source": "https://sv.wiktionary.org/w/index.php?title=mittpunkt&oldid=4059788",
+      "section": "mittpunkt",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Zone",
+      "value": "Fokuszon",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Spread",
+      "value": "Spridning",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Distance",
+      "value": "Fokuseringsavstånd",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Manual Focus Assist",
+      "value": "Manuell fokushjälp",
+      "source": "https://sv.wiktionary.org/w/index.php?title=manuell&oldid=4144018",
+      "section": "manuell",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zone Size",
+      "value": "Zonstorlek",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zone Softness",
+      "value": "Zonmjukhet",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Edge Feather",
+      "value": "Kantludd",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Peaking",
+      "value": "Konturframhävning",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuell fokusering",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Max Blur Size",
+      "value": "Maximal oskärpestorlek",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Player Visibility",
+      "value": "Spelarsynlighet",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hide Remote Players",
+      "value": "Dölj andra spelare",
+      "source": "https://sv.wiktionary.org/w/index.php?title=d%C3%B6lj&oldid=2694639",
+      "section": "dölj",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hide Self",
+      "value": "Dölj dig själv",
+      "source": "https://sv.wiktionary.org/w/index.php?title=sj%C3%A4lv&oldid=4096285",
+      "section": "själv",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Avatar Offset",
+      "value": "Avatarförskjutning",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Rotate With Avatar",
+      "value": "Rotera med avatar",
+      "source": "https://sv.wiktionary.org/w/index.php?title=rotera&oldid=4057115",
+      "section": "rotera",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drop (Reset to Hand)",
+      "value": "Tillbaka till handen",
+      "source": "https://sv.wiktionary.org/w/index.php?title=tillbaka&oldid=3861699",
+      "section": "tillbaka",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move Drone Vertical",
+      "value": "Flytta drönare lodrätt",
+      "source": "https://sv.wiktionary.org/w/index.php?title=dr%C3%B6nare&oldid=4146184",
+      "section": "drönare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Camera Pins & Dolly",
+      "value": "Kameramarkörer och kameraåkning",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Teleport",
+      "value": "Teleportera",
+      "source": "https://sv.wiktionary.org/w/index.php?title=teleportera&oldid=4144364",
+      "section": "teleportera",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Dolly",
+      "value": "Kameraåkning",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Reset to Hand",
+      "value": "Tillbaka till handen",
+      "source": "https://sv.wiktionary.org/w/index.php?title=tillbaka&oldid=3861699",
+      "section": "tillbaka",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show Pins",
+      "value": "Visa markörer",
+      "source": "https://sv.wiktionary.org/w/index.php?title=mark%C3%B6rer&oldid=2761813",
+      "section": "markörer",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show Path",
+      "value": "Visa bana",
+      "source": "https://sv.wiktionary.org/w/index.php?title=Visa&oldid=2640199",
+      "section": "Visa",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show Numbers",
+      "value": "Visa nummer",
+      "source": "https://sv.wiktionary.org/w/index.php?title=Visa&oldid=2640199",
+      "section": "Visa",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Play",
+      "value": "Spela upp",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-05_Playback_0070.html",
+      "section": "Filmvisning",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Spela upp"
+    },
+    {
+      "key": "Stop",
+      "value": "Stoppa",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-05_Playback_0070.html",
+      "section": "Filmvisning",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Playback",
+      "value": "Uppspelningsposition",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Dolly playback position, not the camera image-review menu. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move",
+      "value": "Flytta manuellt",
+      "source": "https://sv.wiktionary.org/w/index.php?title=flytta&oldid=4065639",
+      "section": "flytta",
+      "basis": "dictionary-candidate",
+      "note": "Manual dolly movement. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Go To Pin",
+      "value": "Gå till markör",
+      "source": "https://sv.wiktionary.org/w/index.php?title=mark%C3%B6r&oldid=3976747",
+      "section": "markör",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Duration",
+      "value": "Varaktighet",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Loop",
+      "value": "Upprepa",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Delay",
+      "value": "Fördröjning",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Path",
+      "value": "Bana",
+      "source": "https://sv.wiktionary.org/w/index.php?title=bana&oldid=4150502",
+      "section": "bana",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hand Rotate (Pins)",
+      "value": "Rotera markörer för hand",
+      "source": "https://sv.wiktionary.org/w/index.php?title=mark%C3%B6rer&oldid=2761813",
+      "section": "markörer",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hand Offset",
+      "value": "Handförskjutning",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drop Next",
+      "value": "Placera nästa markör",
+      "source": "https://sv.wiktionary.org/w/index.php?title=placera&oldid=4103331",
+      "section": "placera",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Clear All (Hold)",
+      "value": "Rensa alla (håll ned)",
+      "source": "https://sv.wiktionary.org/w/index.php?title=alla&oldid=4045006",
+      "section": "alla",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Full",
+      "value": "Alla riktningar",
+      "source": "https://sv.wiktionary.org/w/index.php?title=alla&oldid=4045006",
+      "section": "alla",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Vertical",
+      "value": "Endast lodrätt",
+      "source": "https://sv.wiktionary.org/w/index.php?title=lodr%C3%A4tt&oldid=3929561",
+      "section": "lodrätt",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Teleport Next",
+      "value": "Teleportera till nästa markör",
+      "source": "https://sv.wiktionary.org/w/index.php?title=teleportera&oldid=4144364",
+      "section": "teleportera",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Reverse",
+      "value": "Fram och tillbaka",
+      "source": "https://sv.wiktionary.org/w/index.php?title=tillbaka&oldid=3861699",
+      "section": "tillbaka",
+      "basis": "dictionary-candidate",
+      "note": "Ping-pong playback, not reversed camera orientation. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Linear",
+      "value": "Linjär",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smooth",
+      "value": "Punktinterpolering",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Path through control points (interpolation). Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Fitted",
+      "value": "Anpassad kurva",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Path approximating control points (fitted curve). Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Preset Saver",
+      "value": "Spara förinställningar",
+      "source": "https://sv.wiktionary.org/w/index.php?title=spara&oldid=3986968",
+      "section": "spara",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Save",
+      "value": "Spara",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-07_Set-up_0310.html",
+      "section": "Spara/ladda kamerainställningar på kort",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Spara"
+    },
+    {
+      "key": "Load",
+      "value": "Läs in",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-07_Set-up_0310.html",
+      "section": "Spara/ladda kamerainställningar på kort",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Load Defaults",
+      "value": "Läs in standardvärden",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Favorites",
+      "value": "Favoriter",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ],
+  "directions": [
+    {
+      "key": "TOP",
+      "value": "Upp",
+      "source": "https://sv.wiktionary.org/w/index.php?title=Upp&oldid=2908854",
+      "section": "Upp",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "UP",
+      "value": "Upp",
+      "source": "https://sv.wiktionary.org/w/index.php?title=Upp&oldid=2908854",
+      "section": "Upp",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "RIGHT",
+      "value": "Höger",
+      "source": "https://sv.wiktionary.org/w/index.php?title=h%C3%B6ger&oldid=3971485",
+      "section": "höger",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "BOTTOM",
+      "value": "Ned",
+      "source": "https://sv.wiktionary.org/w/index.php?title=ned&oldid=3721509",
+      "section": "ned",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "DOWN",
+      "value": "Ned",
+      "source": "https://sv.wiktionary.org/w/index.php?title=ned&oldid=3721509",
+      "section": "ned",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "LEFT",
+      "value": "Vänster",
+      "source": "https://sv.wiktionary.org/w/index.php?title=v%C3%A4nster&oldid=3980398",
+      "section": "vänster",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "FORWARD",
+      "value": "Framåt",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "BACK",
+      "value": "Bakåt",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ],
+  "dynamic": [
+    {
+      "key": "Next",
+      "value": "Nästa",
+      "source": "https://sv.wiktionary.org/w/index.php?title=n%C3%A4sta&oldid=3638175",
+      "section": "nästa",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "CameraPin",
+      "value": "Markör {0}",
+      "source": "https://sv.wiktionary.org/w/index.php?title=mark%C3%B6r&oldid=3976747",
+      "section": "markör",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Seconds",
+      "value": "{0} s",
+      "source": "https://www.bipm.org/en/publications/si-brochure",
+      "section": "SI Brochure — second (s); non-SI units accepted for use with SI: minute (min)",
+      "basis": "standard-identifier",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. International unit symbols with a space after the numerical value. Not an ad-hoc width abbreviation; number placement remains catalog data.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Minutes",
+      "value": "{0} min",
+      "source": "https://www.bipm.org/en/publications/si-brochure",
+      "section": "SI Brochure — second (s); non-SI units accepted for use with SI: minute (min)",
+      "basis": "standard-identifier",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. International unit symbols with a space after the numerical value. Not an ad-hoc width abbreviation; number placement remains catalog data.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "WorldDrop",
+      "value": "Fäst i världen",
+      "source": "https://sv.wiktionary.org/w/index.php?title=f%C3%A4st&oldid=4116047",
+      "section": "fäst",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "CameraPinDrop",
+      "value": "Placera markör",
+      "source": "https://sv.wiktionary.org/w/index.php?title=placera&oldid=4103331",
+      "section": "placera",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "VignetteSoftness",
+      "value": "Kantludd",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "FisheyeCenterX",
+      "value": "Vågrät position",
+      "source": "https://sv.wiktionary.org/w/index.php?title=position&oldid=4020953",
+      "section": "position",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "FisheyeCenterY",
+      "value": "Lodrät position",
+      "source": "https://sv.wiktionary.org/w/index.php?title=position&oldid=4020953",
+      "section": "position",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "ZoomInSpeed4",
+      "value": "Telehastighet 4",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "ZoomOutSpeed4",
+      "value": "Vidvinkelhastighet 4",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ],
+  "featureBlanks": [
+    {
+      "key": "100",
+      "value": "Vidvinkelhastighet 1",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "101",
+      "value": "Vidvinkelhastighet 2",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "102",
+      "value": "Vidvinkelhastighet 3",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "104",
+      "value": "Telehastighet 1",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "105",
+      "value": "Telehastighet 2",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "106",
+      "value": "Telehastighet 3",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "108",
+      "value": "Exponeringskompensation −1/3 steg",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Manuell exponeringsinställning",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "110",
+      "value": "Exponeringskompensation +1/3 steg",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Manuell exponeringsinställning",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "113",
+      "value": "Vitbalanskorrigering: blå",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Vitbalanskorrigering",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "114",
+      "value": "Vitbalanskorrigering: återställ",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Vitbalanskorrigering",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "115",
+      "value": "Vitbalanskorrigering: gul",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Vitbalanskorrigering",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "117",
+      "value": "Mot nära: medel",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuell fokusering",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "118",
+      "value": "Mot nära: lite",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuell fokusering",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "120",
+      "value": "Mot oändligt: lite",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuell fokusering",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "121",
+      "value": "Mot oändligt: medel",
+      "source": "https://cam.start.canon/sv/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuell fokusering",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "129",
+      "value": "Rikta lite uppåt",
+      "source": "https://sv.wiktionary.org/w/index.php?title=rikta&oldid=4029135",
+      "section": "rikta",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "130",
+      "value": "Rikta lite nedåt",
+      "source": "https://sv.wiktionary.org/w/index.php?title=rikta&oldid=4029135",
+      "section": "rikta",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    }
+  ],
+  "sensorBlanks": [
+    {
+      "key": "0",
+      "value": "35 mm fullformat",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1",
+      "value": "APS-H",
+      "source": "https://asia.canon/en/support/8201524100",
+      "section": "35mm-equivalent focal length — image sensor size table",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2",
+      "value": "APS-C (1.5×)",
+      "source": "https://asia.canon/en/support/8201524100",
+      "section": "35mm-equivalent focal length — image sensor size table",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3",
+      "value": "APS-C (1.6×)",
+      "source": "https://asia.canon/en/support/8201524100",
+      "section": "35mm-equivalent focal length — image sensor size table",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4",
+      "value": "Micro Four Thirds",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "5",
+      "value": "Typ 1,0",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ],
+  "tonemapBlanks": [
+    {
+      "key": "0",
+      "value": "Inaktiverad",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1",
+      "value": "Filmisk 1",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2",
+      "value": "Filmisk 2",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3",
+      "value": "HLG",
+      "source": "https://cam.start.canon/en/C017/manual/html/UG-03_Shooting-1_0390.html",
+      "section": "View Assist Display Conditions — Hybrid Log-Gamma",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4",
+      "value": "Neutral",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ]
+}

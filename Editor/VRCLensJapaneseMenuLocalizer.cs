@@ -2450,7 +2450,8 @@ namespace VRCLensCustom
             foreach (var profile in VRCLensLocalizationRegistry.Profiles)
             {
                 var catalog = VRCLensLocalizationCatalog.ForLocale(profile.LocaleCode);
-                if (!golden.TryGetValue(profile.LocaleCode, out var expected))
+                if (!golden.TryGetValue(profile.LocaleCode, out var expected)
+                    && !VRCLensAdditionalGolden.Values.TryGetValue(profile.LocaleCode, out expected))
                     throw new InvalidOperationException(
                         "No localization golden set exists for " + profile.LocaleCode);
                 var keys = new[]
@@ -2656,10 +2657,10 @@ namespace VRCLensCustom
                 RestoreFavoriteTokens(avatar, menu, catalog, out restored, out usedBridge);
                 string expected = catalog.KnownNames["Drone"] + " "
                                   + catalog.KnownNames["Move Camera"];
+                var expectedDirections = new[] { "FORWARD", "RIGHT", "BACK", "LEFT" }
+                    .Select(direction => catalog.DirectionLabels[direction]);
                 if (!usedBridge || blankAlias.name != expected
-                    || blankAlias.labels.Any(label =>
-                        string.IsNullOrWhiteSpace(label.name)
-                        || ContainsLatinLetter(label.name)))
+                    || !blankAlias.labels.Select(label => label.name).SequenceEqual(expectedDirections))
                     throw new InvalidOperationException(
                         profile.LocaleCode + " Menu Favorites blank-alias bridge failed");
                 EndFavoriteBridge(avatar);

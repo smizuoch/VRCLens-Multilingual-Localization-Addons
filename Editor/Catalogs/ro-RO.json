@@ -1,0 +1,2293 @@
+{
+  "localeCode": "ro-RO",
+  "nativeName": "Română",
+  "names": [
+    {
+      "key": "Enable",
+      "value": "Activare",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focalizare manuală",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Activare"
+    },
+    {
+      "key": "Advanced",
+      "value": "Avansat",
+      "source": "https://ro.wiktionary.org/w/index.php?title=avansat&oldid=860993",
+      "section": "avansat",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zoom",
+      "value": "Zoom",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drone",
+      "value": "Dronă",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Settings",
+      "value": "Setări",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-07_Set-up_0290.html",
+      "section": "Resetare aparat foto",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Setări"
+    },
+    {
+      "key": "Focus",
+      "value": "Focalizare",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focalizare manuală",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Focalizare"
+    },
+    {
+      "key": "Reset",
+      "value": "Resetare",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-07_Set-up_0290.html",
+      "section": "Resetare aparat foto",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Resetare"
+    },
+    {
+      "key": "Exposure",
+      "value": "Expunere",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Compensare manuală a expunerii",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Expunere"
+    },
+    {
+      "key": "Filters",
+      "value": "Filtre",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Stabilize",
+      "value": "Stabilizator de imagine",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-03_Shooting-1_0330.html",
+      "section": "Image stabilizer (Stabilizator de imagine) (Mod IS)",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Stabilizator de imagine"
+    },
+    {
+      "key": "Aperture",
+      "value": "Diafragmă",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: AE prioritate diafragmă",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Portrait",
+      "value": "Orientare verticală",
+      "source": "https://ro.wiktionary.org/w/index.php?title=orientare&oldid=892804",
+      "section": "orientare",
+      "basis": "dictionary-candidate",
+      "note": "Camera orientation, not a portrait picture-style preset. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Portrait means vertical frame orientation here, never the portrait color preset.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Display",
+      "value": "Afișare",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-03_Shooting-1_0430.html",
+      "section": "Afişare informaţii fotografiere",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Normal",
+      "value": "Normal",
+      "source": "https://ro.wiktionary.org/w/index.php?title=normal&oldid=1001654",
+      "section": "normal",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Depth Cool",
+      "value": "Profunzime rece",
+      "source": "https://ro.wiktionary.org/w/index.php?title=profunzime&oldid=897402",
+      "section": "profunzime",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Depth Cute",
+      "value": "Profunzime delicată",
+      "source": "https://ro.wiktionary.org/w/index.php?title=profunzime&oldid=897402",
+      "section": "profunzime",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Spotlight",
+      "value": "Reflector",
+      "source": "https://ro.wiktionary.org/w/index.php?title=reflector&oldid=1008997",
+      "section": "reflector",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Green Back",
+      "value": "Fundal verde",
+      "source": "https://ro.wiktionary.org/w/index.php?title=fundal&oldid=876848",
+      "section": "fundal",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Blue Back",
+      "value": "Fundal albastru",
+      "source": "https://ro.wiktionary.org/w/index.php?title=albastru&oldid=987069",
+      "section": "albastru",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "RIGHT",
+      "value": "Dreapta",
+      "source": "https://ro.wiktionary.org/w/index.php?title=dreapta&oldid=963076",
+      "section": "dreapta",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "UP",
+      "value": "Sus",
+      "source": "https://ro.wiktionary.org/w/index.php?title=sus&oldid=905557",
+      "section": "sus",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "DOWN",
+      "value": "Jos",
+      "source": "https://ro.wiktionary.org/w/index.php?title=jos&oldid=1007325",
+      "section": "jos",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "LEFT",
+      "value": "Stânga",
+      "source": "https://ro.wiktionary.org/w/index.php?title=st%C3%A2nga&oldid=963077",
+      "section": "stânga",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show/Hide",
+      "value": "Afișare/Ascundere",
+      "source": "https://ro.wiktionary.org/w/index.php?title=afi%C8%99are&oldid=857139",
+      "section": "afișare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color",
+      "value": "Culoare",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focalizare manuală",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Culoare"
+    },
+    {
+      "key": "Hexagon",
+      "value": "Hexagon",
+      "source": "https://ro.wiktionary.org/w/index.php?title=hexagon&oldid=879857",
+      "section": "hexagon",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Octagon",
+      "value": "Octogon",
+      "source": "https://ro.wiktionary.org/w/index.php?title=octogon&oldid=892071",
+      "section": "octogon",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Square",
+      "value": "Pătrat",
+      "source": "https://ro.wiktionary.org/w/index.php?title=p%C4%83trat&oldid=898468",
+      "section": "pătrat",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look At Face",
+      "value": "Orientare spre față",
+      "source": "https://ro.wiktionary.org/w/index.php?title=orientare&oldid=892804",
+      "section": "orientare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look Up",
+      "value": "Orientare în sus",
+      "source": "https://ro.wiktionary.org/w/index.php?title=orientare&oldid=892804",
+      "section": "orientare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look Down",
+      "value": "Orientare în jos",
+      "source": "https://ro.wiktionary.org/w/index.php?title=orientare&oldid=892804",
+      "section": "orientare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look At Feet",
+      "value": "Orientare spre picioare",
+      "source": "https://ro.wiktionary.org/w/index.php?title=orientare&oldid=892804",
+      "section": "orientare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Track Self",
+      "value": "Urmărire proprie",
+      "source": "https://ro.wiktionary.org/w/index.php?title=urm%C4%83rire&oldid=909549",
+      "section": "urmărire",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Track Self...",
+      "value": "Urmărire proprie...",
+      "source": "https://ro.wiktionary.org/w/index.php?title=urm%C4%83rire&oldid=909549",
+      "section": "urmărire",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Infinity",
+      "value": "Infinit",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focalizare manuală",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Auto Focus",
+      "value": "Focalizare automată",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "Funcţionare AF",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Manual Focus",
+      "value": "Focalizare manuală",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focalizare manuală",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Focalizare manuală"
+    },
+    {
+      "key": "Macro",
+      "value": "Macro",
+      "source": "https://ro.wiktionary.org/w/index.php?title=macro&oldid=886686",
+      "section": "macro",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Picture Style",
+      "value": "Stil foto",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-03_Shooting-1_0110.html",
+      "section": "Selectare Stil foto",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Stil foto"
+    },
+    {
+      "key": "Quick Selfie",
+      "value": "Selfie rapid",
+      "source": "https://ro.wiktionary.org/w/index.php?title=rapid&oldid=898994",
+      "section": "rapid",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Extra...",
+      "value": "Altele...",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Movie Mode",
+      "value": "Mod filmare",
+      "source": "https://ro.wiktionary.org/w/index.php?title=filmare&oldid=875669",
+      "section": "filmare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Avatar-Drop",
+      "value": "Fixare pe avatar",
+      "source": "https://ro.wiktionary.org/w/index.php?title=fixare&oldid=1011768",
+      "section": "fixare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3D Mode",
+      "value": "Mod 3D",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Mount Swap",
+      "value": "Schimbare suport",
+      "source": "https://ro.wiktionary.org/w/index.php?title=schimbare&oldid=1009216",
+      "section": "schimbare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hide Lens",
+      "value": "Ascundere obiectiv",
+      "source": "https://ro.wiktionary.org/w/index.php?title=obiectiv&oldid=991509",
+      "section": "obiectiv",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Increase",
+      "value": "Închidere diafragmă",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: AE prioritate diafragmă",
+      "basis": "canon-adapted",
+      "note": "Close the diaphragm / increase f-number. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Decrease",
+      "value": "Deschidere diafragmă",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: AE prioritate diafragmă",
+      "basis": "canon-adapted",
+      "note": "Open the diaphragm / decrease f-number. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Sensor Type",
+      "value": "Dimensiune senzor",
+      "source": "https://ro.wiktionary.org/w/index.php?title=dimensiune&oldid=871453",
+      "section": "dimensiune",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "DoF Mode",
+      "value": "Profunzime de câmp",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: AE prioritate diafragmă",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Av Dial",
+      "value": "Valoarea diafragmei",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: AE prioritate diafragmă",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Valoarea diafragmei"
+    },
+    {
+      "key": "Bokeh Shape",
+      "value": "Forma bokehului",
+      "source": "https://ro.wiktionary.org/w/index.php?title=forma&oldid=985908",
+      "section": "forma",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "V. Horizon",
+      "value": "Nivel electronic",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-03_Shooting-1_0430.html",
+      "section": "Afişare informaţii fotografiere",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Grid",
+      "value": "Grilă",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-03_Shooting-1_0430.html",
+      "section": "Afişare informaţii fotografiere",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Grilă"
+    },
+    {
+      "key": "Monitor",
+      "value": "Monitor",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-07_Set-up_0180.html",
+      "section": "Luminozitatea ecranului",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move HUD",
+      "value": "Mutare HUD",
+      "source": "https://ro.wiktionary.org/w/index.php?title=mutare&oldid=889917",
+      "section": "mutare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Peaking",
+      "value": "Evidențiere MF",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focalizare manuală",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hand-Rotate",
+      "value": "Rotire cu mâna",
+      "source": "https://ro.wiktionary.org/w/index.php?title=rotire&oldid=900577",
+      "section": "rotire",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Change Angle",
+      "value": "Schimbare orientare",
+      "source": "https://ro.wiktionary.org/w/index.php?title=schimbare&oldid=1009216",
+      "section": "schimbare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Tracking",
+      "value": "Urmărire",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "Selectare zonă AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Urmărire"
+    },
+    {
+      "key": "Move Camera",
+      "value": "Mutare cameră",
+      "source": "https://ro.wiktionary.org/w/index.php?title=mutare&oldid=889917",
+      "section": "mutare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drone Speed",
+      "value": "Viteza dronei",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move Pivot",
+      "value": "Mutare pivot",
+      "source": "https://ro.wiktionary.org/w/index.php?title=mutare&oldid=889917",
+      "section": "mutare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Track Pivot",
+      "value": "Urmărire pivot",
+      "source": "https://ro.wiktionary.org/w/index.php?title=urm%C4%83rire&oldid=909549",
+      "section": "urmărire",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smoothing",
+      "value": "Netezire urmărire",
+      "source": "https://ro.wiktionary.org/w/index.php?title=netezire&oldid=416456",
+      "section": "netezire",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drop Pivot",
+      "value": "Amplasare pivot",
+      "source": "https://ro.wiktionary.org/w/index.php?title=amplasare&oldid=1003494",
+      "section": "amplasare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Vertical Lock",
+      "value": "Blocare verticală",
+      "source": "https://ro.wiktionary.org/w/index.php?title=vertical%C4%83&oldid=910420",
+      "section": "verticală",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "EV Dial",
+      "value": "Compensarea expunerii",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Compensare manuală a expunerii",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Compensarea expunerii"
+    },
+    {
+      "key": "Auto Exposure",
+      "value": "Expunere automată",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: AE prioritate diafragmă",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "White Bal.",
+      "value": "Balans de alb",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-03_Shooting-1_0190.html",
+      "section": "Balans de alb",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Balans de alb"
+    },
+    {
+      "key": "Avatar AF",
+      "value": "Focalizare automată pe avatar",
+      "source": "https://ro.wiktionary.org/w/index.php?title=focalizare&oldid=876122",
+      "section": "focalizare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move Focus",
+      "value": "Mutare focalizare",
+      "source": "https://ro.wiktionary.org/w/index.php?title=focalizare&oldid=876122",
+      "section": "focalizare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Pro Autofocus",
+      "value": "Focalizare automată avansată",
+      "source": "https://ro.wiktionary.org/w/index.php?title=focalizare&oldid=876122",
+      "section": "focalizare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Operation",
+      "value": "Funcţionare AF",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "Funcţionare AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "Funcţionare AF"
+    },
+    {
+      "key": "AF Area",
+      "value": "Zonă AF",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "Selectare zonă AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "Zonă AF"
+    },
+    {
+      "key": "Response",
+      "value": "Sensibilitate urmărire",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "Caracteristici AF Servo",
+      "basis": "canon-exact",
+      "note": "AF tracking response sensitivity, not application response time. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Sensibilitate urmărire"
+    },
+    {
+      "key": "Drive Speed",
+      "value": "Viteză AF",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0100.html",
+      "section": "Personalizarea funcţiilor AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "Viteză AF"
+    },
+    {
+      "key": "AF-ON",
+      "value": "Activare focalizare automată",
+      "source": "https://ro.wiktionary.org/w/index.php?title=focalizare&oldid=876122",
+      "section": "focalizare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "AF Lock",
+      "value": "Blocare focalizare",
+      "source": "https://ro.wiktionary.org/w/index.php?title=focalizare&oldid=876122",
+      "section": "focalizare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Guide",
+      "value": "Ghidaj focalizare",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focalizare manuală",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Ghidaj focalizare"
+    },
+    {
+      "key": "One-Shot AF",
+      "value": "AF un cadru",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "Funcţionare AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "AF un cadru"
+    },
+    {
+      "key": "Servo AF",
+      "value": "AF Servo",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "Funcţionare AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "AF Servo"
+    },
+    {
+      "key": "Spot",
+      "value": "Punctual",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "Selectare zonă AF",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zone",
+      "value": "Zonă",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "Selectare zonă AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Zonă"
+    },
+    {
+      "key": "Avatar Priority",
+      "value": "Prioritate avatar",
+      "source": "https://ro.wiktionary.org/w/index.php?title=prioritate&oldid=1001819",
+      "section": "prioritate",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Locked-on",
+      "value": "Păstrare subiect",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "Caracteristici AF Servo",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Standard",
+      "value": "Standard",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-03_Shooting-1_0110.html",
+      "section": "Selectare Stil foto",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Standard"
+    },
+    {
+      "key": "Responsive",
+      "value": "Răspuns rapid",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "Caracteristici AF Servo",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Custom",
+      "value": "Funcții suplimentare",
+      "source": "https://ro.wiktionary.org/w/index.php?title=suplimentare&oldid=742490",
+      "section": "suplimentare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Far Clip Plane",
+      "value": "Plan de decupare îndepărtat",
+      "source": "https://ro.wiktionary.org/w/index.php?title=%C3%AEndep%C4%83rtat&oldid=913582",
+      "section": "îndepărtat",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smooth DoF Edges",
+      "value": "Netezire margini ale profunzimii de câmp",
+      "source": "https://ro.wiktionary.org/w/index.php?title=netezire&oldid=416456",
+      "section": "netezire",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Softness",
+      "value": "Finețe",
+      "source": "https://ro.wiktionary.org/w/index.php?title=fine%C8%9Be&oldid=600202",
+      "section": "finețe",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smooth Rotate",
+      "value": "Rotire lină",
+      "source": "https://ro.wiktionary.org/w/index.php?title=rotire&oldid=900577",
+      "section": "rotire",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Anamorphic Bokeh",
+      "value": "Bokeh anamorfic",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Chromatic Aberration",
+      "value": "Aberație cromatică",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-03_Shooting-1_0220.html",
+      "section": "Corectarea aberaţiilor obiectivului",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Enabled",
+      "value": "Activat",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focalizare manuală",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Transverse CA",
+      "value": "Aberație cromatică transversală",
+      "source": "https://ro.wiktionary.org/w/index.php?title=transversal%C4%83&oldid=741607",
+      "section": "transversală",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Axial CA",
+      "value": "Aberație cromatică axială",
+      "source": "https://ro.wiktionary.org/w/index.php?title=cromatic%C4%83&oldid=686824",
+      "section": "cromatică",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Axial Focus-Aware",
+      "value": "Corelată cu focalizarea",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Magenta-Green",
+      "value": "Magenta-Verde",
+      "source": "https://ro.wiktionary.org/w/index.php?title=magenta&oldid=886764",
+      "section": "magenta",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color Grading",
+      "value": "Gradare a culorilor",
+      "source": "https://ro.wiktionary.org/w/index.php?title=gradare&oldid=878395",
+      "section": "gradare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Saturation",
+      "value": "Saturație",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-03_Shooting-1_0120.html",
+      "section": "Personalizare Stil foto",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Vibrance",
+      "value": "Vibranță",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Contrast",
+      "value": "Contrast",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-03_Shooting-1_0120.html",
+      "section": "Personalizare Stil foto",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Contrast"
+    },
+    {
+      "key": "Shadows",
+      "value": "Umbre",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Midtones",
+      "value": "Tonuri medii",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Highlights",
+      "value": "Zone luminoase",
+      "source": "https://ro.wiktionary.org/w/index.php?title=zone&oldid=949073",
+      "section": "zone",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Brightness",
+      "value": "Luminozitate",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-07_Set-up_0180.html",
+      "section": "Luminozitatea ecranului",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Luminozitate"
+    },
+    {
+      "key": "Temperature",
+      "value": "Temperatura culorii",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-03_Shooting-1_0190.html",
+      "section": "Balans de alb",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Red",
+      "value": "Roșu",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focalizare manuală",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Green",
+      "value": "Verde",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Corectare balans de alb",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Verde"
+    },
+    {
+      "key": "Blue",
+      "value": "Albastru",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Corectare balans de alb",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Depth Fog",
+      "value": "Ceață de profunzime",
+      "source": "https://ro.wiktionary.org/w/index.php?title=profunzime&oldid=897402",
+      "section": "profunzime",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Density",
+      "value": "Densitate",
+      "source": "https://ro.wiktionary.org/w/index.php?title=densitate&oldid=870626",
+      "section": "densitate",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Start Distance",
+      "value": "Distanță de început",
+      "source": "https://ro.wiktionary.org/w/index.php?title=distan%C8%9B%C4%83&oldid=945971",
+      "section": "distanță",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color R",
+      "value": "Roșu",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focalizare manuală",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color G",
+      "value": "Verde",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Corectare balans de alb",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Verde"
+    },
+    {
+      "key": "Color B",
+      "value": "Albastru",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Corectare balans de alb",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Film Grain",
+      "value": "Granulație de film",
+      "source": "https://ro.wiktionary.org/w/index.php?title=granula%C8%9Bie&oldid=603576",
+      "section": "granulație",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Intensity",
+      "value": "Intensitate",
+      "source": "https://ro.wiktionary.org/w/index.php?title=intensitate&oldid=882074",
+      "section": "intensitate",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Size",
+      "value": "Dimensiune",
+      "source": "https://ro.wiktionary.org/w/index.php?title=dimensiune&oldid=871453",
+      "section": "dimensiune",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Speed",
+      "value": "Viteză",
+      "source": "https://ro.wiktionary.org/w/index.php?title=vitez%C4%83&oldid=946008",
+      "section": "viteză",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Fisheye Lens",
+      "value": "Obiectiv ochi de pește",
+      "source": "https://ro.wiktionary.org/w/index.php?title=obiectiv&oldid=991509",
+      "section": "obiectiv",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Strength",
+      "value": "Putere",
+      "source": "https://ro.wiktionary.org/w/index.php?title=putere&oldid=992785",
+      "section": "putere",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Roundness",
+      "value": "Rotunjime",
+      "source": "https://ro.wiktionary.org/w/index.php?title=rotunjime&oldid=900588",
+      "section": "rotunjime",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Lens Size",
+      "value": "Dimensiune obiectiv",
+      "source": "https://ro.wiktionary.org/w/index.php?title=dimensiune&oldid=871453",
+      "section": "dimensiune",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Edge Softness",
+      "value": "Estompare margine",
+      "source": "https://ro.wiktionary.org/w/index.php?title=estompare&oldid=742189",
+      "section": "estompare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Reverse Fisheye",
+      "value": "Ochi de pește inversat",
+      "source": "https://ro.wiktionary.org/w/index.php?title=pe%C8%99te&oldid=957587",
+      "section": "pește",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Center",
+      "value": "Centru",
+      "source": "https://helpx.adobe.com/ro/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Centru"
+    },
+    {
+      "key": "X",
+      "value": "Poziție orizontală",
+      "source": "https://ro.wiktionary.org/w/index.php?title=orizontal%C4%83&oldid=892828",
+      "section": "orizontală",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Y",
+      "value": "Poziție verticală",
+      "source": "https://ro.wiktionary.org/w/index.php?title=vertical%C4%83&oldid=910420",
+      "section": "verticală",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Letterbox",
+      "value": "Benzi cinematografice",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2.39:1 Cinemascope",
+      "value": "2.39:1 Cinemascope",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2.35:1 Anamorphic",
+      "value": "2.35:1 Anamorfic",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2.00:1 Univisium",
+      "value": "2.00:1 Univisium",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1.85:1 Theatrical",
+      "value": "1.85:1 Cinema",
+      "source": "https://ro.wiktionary.org/w/index.php?title=cinema&oldid=1001427",
+      "section": "cinema",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "16:9 Widescreen",
+      "value": "16:9 Ecran lat",
+      "source": "https://ro.wiktionary.org/w/index.php?title=ecran&oldid=955418",
+      "section": "ecran",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3:2 DSLR",
+      "value": "3:2 Reflex digital",
+      "source": "https://ro.wiktionary.org/w/index.php?title=digital&oldid=766176",
+      "section": "digital",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4:3 Classic",
+      "value": "4:3 Clasic",
+      "source": "https://ro.wiktionary.org/w/index.php?title=clasic&oldid=866870",
+      "section": "clasic",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1:1 Square",
+      "value": "1:1 Pătrat",
+      "source": "https://ro.wiktionary.org/w/index.php?title=p%C4%83trat&oldid=898468",
+      "section": "pătrat",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4:5 Portrait",
+      "value": "4:5 Portret",
+      "source": "https://ro.wiktionary.org/w/index.php?title=portret&oldid=896523",
+      "section": "portret",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Portrait means vertical frame orientation here, never the portrait color preset.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "9:16 Vertical",
+      "value": "9:16 Vertical",
+      "source": "https://ro.wiktionary.org/w/index.php?title=vertical&oldid=910418",
+      "section": "vertical",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Pixelation",
+      "value": "Pixelizare",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Block Size",
+      "value": "Dimensiune bloc",
+      "source": "https://ro.wiktionary.org/w/index.php?title=dimensiune&oldid=871453",
+      "section": "dimensiune",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Dither",
+      "value": "Dithering",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Posterize",
+      "value": "Posterizare",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Aspect Ratio",
+      "value": "Raport de aspect",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-03_Shooting-1_0040.html",
+      "section": "Decupare fotografii/Format imagine",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Tilt-Shift",
+      "value": "Înclinare și deplasare",
+      "source": "https://ro.wiktionary.org/w/index.php?title=deplasare&oldid=1002586",
+      "section": "deplasare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Depth Mode",
+      "value": "Mod profunzime",
+      "source": "https://ro.wiktionary.org/w/index.php?title=profunzime&oldid=897402",
+      "section": "profunzime",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Blur",
+      "value": "Estompare",
+      "source": "https://ro.wiktionary.org/w/index.php?title=estompare&oldid=742189",
+      "section": "estompare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Position",
+      "value": "Poziție",
+      "source": "https://ro.wiktionary.org/w/index.php?title=pozi%C8%9Bie&oldid=985923",
+      "section": "poziție",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Width",
+      "value": "Lățime",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Angle",
+      "value": "Unghi",
+      "source": "https://ro.wiktionary.org/w/index.php?title=unghi&oldid=909255",
+      "section": "unghi",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Vignette",
+      "value": "Vignetare",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Radius",
+      "value": "Rază",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zoom Blur",
+      "value": "Estompare prin zoom",
+      "source": "https://ro.wiktionary.org/w/index.php?title=estompare&oldid=742189",
+      "section": "estompare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Center X",
+      "value": "Centru orizontal",
+      "source": "https://ro.wiktionary.org/w/index.php?title=centru&oldid=997904",
+      "section": "centru",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Center Y",
+      "value": "Centru vertical",
+      "source": "https://ro.wiktionary.org/w/index.php?title=vertical&oldid=910418",
+      "section": "vertical",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Zone",
+      "value": "Zonă de focalizare",
+      "source": "https://ro.wiktionary.org/w/index.php?title=focalizare&oldid=876122",
+      "section": "focalizare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Spread",
+      "value": "Răspândire",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Distance",
+      "value": "Distanță de focalizare",
+      "source": "https://ro.wiktionary.org/w/index.php?title=focalizare&oldid=876122",
+      "section": "focalizare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Manual Focus Assist",
+      "value": "Asistență la focalizarea manuală",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zone Size",
+      "value": "Dimensiune zonă",
+      "source": "https://ro.wiktionary.org/w/index.php?title=dimensiune&oldid=871453",
+      "section": "dimensiune",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zone Softness",
+      "value": "Finețe zonă",
+      "source": "https://ro.wiktionary.org/w/index.php?title=fine%C8%9Be&oldid=600202",
+      "section": "finețe",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Edge Feather",
+      "value": "Estompare margine",
+      "source": "https://ro.wiktionary.org/w/index.php?title=estompare&oldid=742189",
+      "section": "estompare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Peaking",
+      "value": "Evidențiere contururi",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focalizare manuală",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Max Blur Size",
+      "value": "Dimensiune maximă a estompării",
+      "source": "https://ro.wiktionary.org/w/index.php?title=dimensiune&oldid=871453",
+      "section": "dimensiune",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Player Visibility",
+      "value": "Vizibilitate jucători",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hide Remote Players",
+      "value": "Ascundere alți jucători",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hide Self",
+      "value": "Ascundere proprie",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Avatar Offset",
+      "value": "Decalaj avatar",
+      "source": "https://ro.wiktionary.org/w/index.php?title=decalaj&oldid=870145",
+      "section": "decalaj",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Rotate With Avatar",
+      "value": "Rotire cu avatarul",
+      "source": "https://ro.wiktionary.org/w/index.php?title=rotire&oldid=900577",
+      "section": "rotire",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drop (Reset to Hand)",
+      "value": "Revenire la mână",
+      "source": "https://ro.wiktionary.org/w/index.php?title=revenire&oldid=900050",
+      "section": "revenire",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move Drone Vertical",
+      "value": "Mutare dronă pe verticală",
+      "source": "https://ro.wiktionary.org/w/index.php?title=vertical%C4%83&oldid=910420",
+      "section": "verticală",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Camera Pins & Dolly",
+      "value": "Marcaje de cameră și travelling",
+      "source": "https://ro.wiktionary.org/w/index.php?title=travelling&oldid=908031",
+      "section": "travelling",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Teleport",
+      "value": "Teleportare",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Dolly",
+      "value": "Travelling",
+      "source": "https://ro.wiktionary.org/w/index.php?title=travelling&oldid=908031",
+      "section": "travelling",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Reset to Hand",
+      "value": "Revenire la mână",
+      "source": "https://ro.wiktionary.org/w/index.php?title=revenire&oldid=900050",
+      "section": "revenire",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show Pins",
+      "value": "Afișare marcaje",
+      "source": "https://ro.wiktionary.org/w/index.php?title=afi%C8%99are&oldid=857139",
+      "section": "afișare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show Path",
+      "value": "Afișare traseu",
+      "source": "https://ro.wiktionary.org/w/index.php?title=afi%C8%99are&oldid=857139",
+      "section": "afișare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show Numbers",
+      "value": "Afișare numere",
+      "source": "https://ro.wiktionary.org/w/index.php?title=afi%C8%99are&oldid=857139",
+      "section": "afișare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Play",
+      "value": "Redare",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-05_Playback_0070.html",
+      "section": "Redare film",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Redare"
+    },
+    {
+      "key": "Stop",
+      "value": "Oprire",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-05_Playback_0070.html",
+      "section": "Redare film",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Playback",
+      "value": "Poziție de redare",
+      "source": "https://ro.wiktionary.org/w/index.php?title=pozi%C8%9Bie&oldid=985923",
+      "section": "poziție",
+      "basis": "dictionary-candidate",
+      "note": "Dolly playback position, not the camera image-review menu. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move",
+      "value": "Mutare manuală",
+      "source": "https://ro.wiktionary.org/w/index.php?title=mutare&oldid=889917",
+      "section": "mutare",
+      "basis": "dictionary-candidate",
+      "note": "Manual dolly movement. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Go To Pin",
+      "value": "Deplasare la marcaj",
+      "source": "https://ro.wiktionary.org/w/index.php?title=deplasare&oldid=1002586",
+      "section": "deplasare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Duration",
+      "value": "Durată",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Loop",
+      "value": "Repetare",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Delay",
+      "value": "Întârziere",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Path",
+      "value": "Traseu",
+      "source": "https://ro.wiktionary.org/w/index.php?title=traseu&oldid=1001940",
+      "section": "traseu",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hand Rotate (Pins)",
+      "value": "Rotire marcaje cu mâna",
+      "source": "https://ro.wiktionary.org/w/index.php?title=rotire&oldid=900577",
+      "section": "rotire",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hand Offset",
+      "value": "Decalaj mână",
+      "source": "https://ro.wiktionary.org/w/index.php?title=decalaj&oldid=870145",
+      "section": "decalaj",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drop Next",
+      "value": "Amplasare marcaj următor",
+      "source": "https://ro.wiktionary.org/w/index.php?title=amplasare&oldid=1003494",
+      "section": "amplasare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Clear All (Hold)",
+      "value": "Ștergere totală (țineți apăsat)",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Full",
+      "value": "Toate direcțiile",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Vertical",
+      "value": "Doar vertical",
+      "source": "https://ro.wiktionary.org/w/index.php?title=vertical&oldid=910418",
+      "section": "vertical",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Teleport Next",
+      "value": "Teleportare la marcajul următor",
+      "source": "https://ro.wiktionary.org/w/index.php?title=urm%C4%83tor&oldid=909550",
+      "section": "următor",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Reverse",
+      "value": "Dus-întors",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Ping-pong playback, not reversed camera orientation. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Linear",
+      "value": "Liniar",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smooth",
+      "value": "Interpolarea punctelor",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Path through control points (interpolation). Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Fitted",
+      "value": "Curbă ajustată",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Path approximating control points (fitted curve). Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Preset Saver",
+      "value": "Salvare presetări",
+      "source": "https://ro.wiktionary.org/w/index.php?title=salvare&oldid=901353",
+      "section": "salvare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Save",
+      "value": "Salvare",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-07_Set-up_0310.html",
+      "section": "Salvare/încărcare setări aparat pe card",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Salvare"
+    },
+    {
+      "key": "Load",
+      "value": "Încărcare",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-07_Set-up_0310.html",
+      "section": "Salvare/încărcare setări aparat pe card",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Încărcare"
+    },
+    {
+      "key": "Load Defaults",
+      "value": "Încărcare valori implicite",
+      "source": "https://ro.wiktionary.org/w/index.php?title=%C3%AEnc%C4%83rcare&oldid=719540",
+      "section": "încărcare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Favorites",
+      "value": "Favorite",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ],
+  "directions": [
+    {
+      "key": "TOP",
+      "value": "Sus",
+      "source": "https://ro.wiktionary.org/w/index.php?title=sus&oldid=905557",
+      "section": "sus",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "UP",
+      "value": "Sus",
+      "source": "https://ro.wiktionary.org/w/index.php?title=sus&oldid=905557",
+      "section": "sus",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "RIGHT",
+      "value": "Dreapta",
+      "source": "https://ro.wiktionary.org/w/index.php?title=dreapta&oldid=963076",
+      "section": "dreapta",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "BOTTOM",
+      "value": "Jos",
+      "source": "https://ro.wiktionary.org/w/index.php?title=jos&oldid=1007325",
+      "section": "jos",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "DOWN",
+      "value": "Jos",
+      "source": "https://ro.wiktionary.org/w/index.php?title=jos&oldid=1007325",
+      "section": "jos",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "LEFT",
+      "value": "Stânga",
+      "source": "https://ro.wiktionary.org/w/index.php?title=st%C3%A2nga&oldid=963077",
+      "section": "stânga",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "FORWARD",
+      "value": "Înainte",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "BACK",
+      "value": "Înapoi",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ],
+  "dynamic": [
+    {
+      "key": "Next",
+      "value": "Următorul",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "CameraPin",
+      "value": "Marcaj {0}",
+      "source": "https://ro.wiktionary.org/w/index.php?title=marcaj&oldid=965125",
+      "section": "marcaj",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Seconds",
+      "value": "{0} s",
+      "source": "https://www.bipm.org/en/publications/si-brochure",
+      "section": "SI Brochure — second (s); non-SI units accepted for use with SI: minute (min)",
+      "basis": "standard-identifier",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. International unit symbols with a space after the numerical value. Not an ad-hoc width abbreviation; number placement remains catalog data.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Minutes",
+      "value": "{0} min",
+      "source": "https://www.bipm.org/en/publications/si-brochure",
+      "section": "SI Brochure — second (s); non-SI units accepted for use with SI: minute (min)",
+      "basis": "standard-identifier",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. International unit symbols with a space after the numerical value. Not an ad-hoc width abbreviation; number placement remains catalog data.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "WorldDrop",
+      "value": "Fixare în lume",
+      "source": "https://ro.wiktionary.org/w/index.php?title=fixare&oldid=1011768",
+      "section": "fixare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "CameraPinDrop",
+      "value": "Amplasare marcaj",
+      "source": "https://ro.wiktionary.org/w/index.php?title=amplasare&oldid=1003494",
+      "section": "amplasare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "VignetteSoftness",
+      "value": "Estompare margine",
+      "source": "https://ro.wiktionary.org/w/index.php?title=estompare&oldid=742189",
+      "section": "estompare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "FisheyeCenterX",
+      "value": "Poziție orizontală",
+      "source": "https://ro.wiktionary.org/w/index.php?title=orizontal%C4%83&oldid=892828",
+      "section": "orizontală",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "FisheyeCenterY",
+      "value": "Poziție verticală",
+      "source": "https://ro.wiktionary.org/w/index.php?title=vertical%C4%83&oldid=910420",
+      "section": "verticală",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "ZoomInSpeed4",
+      "value": "Viteză teleobiectiv 4",
+      "source": "https://ro.wiktionary.org/w/index.php?title=vitez%C4%83&oldid=946008",
+      "section": "viteză",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "ZoomOutSpeed4",
+      "value": "Viteză unghi larg 4",
+      "source": "https://ro.wiktionary.org/w/index.php?title=vitez%C4%83&oldid=946008",
+      "section": "viteză",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    }
+  ],
+  "featureBlanks": [
+    {
+      "key": "100",
+      "value": "Viteză unghi larg 1",
+      "source": "https://ro.wiktionary.org/w/index.php?title=vitez%C4%83&oldid=946008",
+      "section": "viteză",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "101",
+      "value": "Viteză unghi larg 2",
+      "source": "https://ro.wiktionary.org/w/index.php?title=vitez%C4%83&oldid=946008",
+      "section": "viteză",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "102",
+      "value": "Viteză unghi larg 3",
+      "source": "https://ro.wiktionary.org/w/index.php?title=vitez%C4%83&oldid=946008",
+      "section": "viteză",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "104",
+      "value": "Viteză teleobiectiv 1",
+      "source": "https://ro.wiktionary.org/w/index.php?title=vitez%C4%83&oldid=946008",
+      "section": "viteză",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "105",
+      "value": "Viteză teleobiectiv 2",
+      "source": "https://ro.wiktionary.org/w/index.php?title=vitez%C4%83&oldid=946008",
+      "section": "viteză",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "106",
+      "value": "Viteză teleobiectiv 3",
+      "source": "https://ro.wiktionary.org/w/index.php?title=vitez%C4%83&oldid=946008",
+      "section": "viteză",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "108",
+      "value": "Compensarea expunerii −1/3 treaptă",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Compensare manuală a expunerii",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "110",
+      "value": "Compensarea expunerii +1/3 treaptă",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Compensare manuală a expunerii",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "113",
+      "value": "Corectarea balansului de alb: albastru",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Corectare balans de alb",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "114",
+      "value": "Corectarea balansului de alb: resetare",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Corectare balans de alb",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "115",
+      "value": "Corectarea balansului de alb: chihlimbar",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Corectare balans de alb",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "117",
+      "value": "Spre aproape: mediu",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focalizare manuală",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "118",
+      "value": "Spre aproape: mic",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focalizare manuală",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "120",
+      "value": "Spre infinit: mic",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focalizare manuală",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "121",
+      "value": "Spre infinit: mediu",
+      "source": "https://cam.start.canon/ro/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focalizare manuală",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "129",
+      "value": "Orientare ușor în sus",
+      "source": "https://ro.wiktionary.org/w/index.php?title=orientare&oldid=892804",
+      "section": "orientare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "130",
+      "value": "Orientare ușor în jos",
+      "source": "https://ro.wiktionary.org/w/index.php?title=orientare&oldid=892804",
+      "section": "orientare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    }
+  ],
+  "sensorBlanks": [
+    {
+      "key": "0",
+      "value": "Cadru întreg de 35 mm",
+      "source": "https://ro.wiktionary.org/w/index.php?title=cadru&oldid=864377",
+      "section": "cadru",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1",
+      "value": "APS-H",
+      "source": "https://asia.canon/en/support/8201524100",
+      "section": "35mm-equivalent focal length — image sensor size table",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2",
+      "value": "APS-C (1.5×)",
+      "source": "https://asia.canon/en/support/8201524100",
+      "section": "35mm-equivalent focal length — image sensor size table",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3",
+      "value": "APS-C (1.6×)",
+      "source": "https://asia.canon/en/support/8201524100",
+      "section": "35mm-equivalent focal length — image sensor size table",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4",
+      "value": "Micro Four Thirds",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "5",
+      "value": "Tip 1,0",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ],
+  "tonemapBlanks": [
+    {
+      "key": "0",
+      "value": "Dezactivat",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1",
+      "value": "Filmic 1",
+      "source": "https://ro.wiktionary.org/w/index.php?title=filmic&oldid=875670",
+      "section": "filmic",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2",
+      "value": "Filmic 2",
+      "source": "https://ro.wiktionary.org/w/index.php?title=filmic&oldid=875670",
+      "section": "filmic",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3",
+      "value": "HLG",
+      "source": "https://cam.start.canon/en/C017/manual/html/UG-03_Shooting-1_0390.html",
+      "section": "View Assist Display Conditions — Hybrid Log-Gamma",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4",
+      "value": "Neutru",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ]
+}

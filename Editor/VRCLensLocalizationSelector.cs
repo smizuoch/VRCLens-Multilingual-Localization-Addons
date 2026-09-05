@@ -72,6 +72,72 @@ namespace VRCLensCustom
                 "한국어",
                 typeof(VRCLensKoreanLocalization),
                 "Assets/VRCLens_Custom/[Utility] KoreanLocalization.prefab"),
+            new VRCLensLocalizationProfile("fr-FR", "Français",
+                typeof(VRCLensFrenchLocalization),
+                "Assets/VRCLens_Custom/[Utility] FrenchLocalization.prefab"),
+            new VRCLensLocalizationProfile("de-DE", "Deutsch",
+                typeof(VRCLensGermanLocalization),
+                "Assets/VRCLens_Custom/[Utility] GermanLocalization.prefab"),
+            new VRCLensLocalizationProfile("cs-CZ", "Čeština",
+                typeof(VRCLensCzechLocalization),
+                "Assets/VRCLens_Custom/[Utility] CzechLocalization.prefab"),
+            new VRCLensLocalizationProfile("es-ES", "Español (España)",
+                typeof(VRCLensSpanishSpainLocalization),
+                "Assets/VRCLens_Custom/[Utility] SpanishSpainLocalization.prefab"),
+            new VRCLensLocalizationProfile("es-419", "Español (Latinoamérica)",
+                typeof(VRCLensSpanishLatinAmericaLocalization),
+                "Assets/VRCLens_Custom/[Utility] SpanishLatinAmericaLocalization.prefab"),
+            new VRCLensLocalizationProfile("ru-RU", "Русский",
+                typeof(VRCLensRussianLocalization),
+                "Assets/VRCLens_Custom/[Utility] RussianLocalization.prefab"),
+            new VRCLensLocalizationProfile("it-IT", "Italiano",
+                typeof(VRCLensItalianLocalization),
+                "Assets/VRCLens_Custom/[Utility] ItalianLocalization.prefab"),
+            new VRCLensLocalizationProfile("da-DK", "Dansk",
+                typeof(VRCLensDanishLocalization),
+                "Assets/VRCLens_Custom/[Utility] DanishLocalization.prefab"),
+            new VRCLensLocalizationProfile("nl-NL", "Nederlands",
+                typeof(VRCLensDutchLocalization),
+                "Assets/VRCLens_Custom/[Utility] DutchLocalization.prefab"),
+            new VRCLensLocalizationProfile("fi-FI", "Suomi",
+                typeof(VRCLensFinnishLocalization),
+                "Assets/VRCLens_Custom/[Utility] FinnishLocalization.prefab"),
+            new VRCLensLocalizationProfile("nb-NO", "Norsk bokmål",
+                typeof(VRCLensNorwegianBokmalLocalization),
+                "Assets/VRCLens_Custom/[Utility] NorwegianBokmalLocalization.prefab"),
+            new VRCLensLocalizationProfile("nn-NO", "Norsk nynorsk",
+                typeof(VRCLensNorwegianNynorskLocalization),
+                "Assets/VRCLens_Custom/[Utility] NorwegianNynorskLocalization.prefab"),
+            new VRCLensLocalizationProfile("pl-PL", "Polski",
+                typeof(VRCLensPolishLocalization),
+                "Assets/VRCLens_Custom/[Utility] PolishLocalization.prefab"),
+            new VRCLensLocalizationProfile("pt-PT", "Português (Portugal)",
+                typeof(VRCLensPortuguesePortugalLocalization),
+                "Assets/VRCLens_Custom/[Utility] PortuguesePortugalLocalization.prefab"),
+            new VRCLensLocalizationProfile("sv-SE", "Svenska",
+                typeof(VRCLensSwedishLocalization),
+                "Assets/VRCLens_Custom/[Utility] SwedishLocalization.prefab"),
+            new VRCLensLocalizationProfile("bg-BG", "Български",
+                typeof(VRCLensBulgarianLocalization),
+                "Assets/VRCLens_Custom/[Utility] BulgarianLocalization.prefab"),
+            new VRCLensLocalizationProfile("el-GR", "Ελληνικά",
+                typeof(VRCLensGreekLocalization),
+                "Assets/VRCLens_Custom/[Utility] GreekLocalization.prefab"),
+            new VRCLensLocalizationProfile("hu-HU", "Magyar",
+                typeof(VRCLensHungarianLocalization),
+                "Assets/VRCLens_Custom/[Utility] HungarianLocalization.prefab"),
+            new VRCLensLocalizationProfile("ro-RO", "Română",
+                typeof(VRCLensRomanianLocalization),
+                "Assets/VRCLens_Custom/[Utility] RomanianLocalization.prefab"),
+            new VRCLensLocalizationProfile("th-TH", "ไทย",
+                typeof(VRCLensThaiLocalization),
+                "Assets/VRCLens_Custom/[Utility] ThaiLocalization.prefab"),
+            new VRCLensLocalizationProfile("tr-TR", "Türkçe",
+                typeof(VRCLensTurkishLocalization),
+                "Assets/VRCLens_Custom/[Utility] TurkishLocalization.prefab"),
+            new VRCLensLocalizationProfile("uk-UA", "Українська",
+                typeof(VRCLensUkrainianLocalization),
+                "Assets/VRCLens_Custom/[Utility] UkrainianLocalization.prefab"),
         };
 
         private static readonly IReadOnlyList<VRCLensLocalizationProfile> ReadOnlyProfiles =
@@ -192,9 +258,9 @@ namespace VRCLensCustom
             try
             {
                 var profiles = VRCLensLocalizationRegistry.Profiles;
-                if (profiles.Count != 4)
+                if (profiles.Count != 4 + VRCLensAdditionalCatalogs.RequiredLocales.Length)
                     throw new InvalidOperationException(
-                        $"expected four localization profiles, found {profiles.Count}");
+                        $"expected all required localization profiles, found {profiles.Count}");
 
                 WithTemporaryAvatar("LocalizationSelector_Zero", avatar =>
                 {
@@ -227,7 +293,7 @@ namespace VRCLensCustom
                 AssertMultipleConflict(profiles.Take(3).ToArray(),
                     "three different localization markers");
                 AssertMultipleConflict(profiles.ToArray(),
-                    "all four localization markers");
+                    "all registered localization markers");
 
                 // A disabled/inactive installer is still installed: prefab removal, not a checkbox,
                 // is the supported switch. Prove it also participates in a conflict.

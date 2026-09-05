@@ -1,0 +1,2293 @@
+{
+  "localeCode": "ru-RU",
+  "nativeName": "Русский",
+  "names": [
+    {
+      "key": "Enable",
+      "value": "Включить",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Ручная фокусировка",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Advanced",
+      "value": "Дополнительно",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE&oldid=12267634",
+      "section": "дополнительно",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zoom",
+      "value": "Зум",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B7%D1%83%D0%BC&oldid=13799636",
+      "section": "зум",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drone",
+      "value": "Дрон",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B4%D1%80%D0%BE%D0%BD&oldid=13731656",
+      "section": "дрон",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Settings",
+      "value": "Настройки",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-07_Set-up_0290.html",
+      "section": "Сброс настроек камеры",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus",
+      "value": "Фокусировка",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Ручная фокусировка",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Reset",
+      "value": "Сброс",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-07_Set-up_0290.html",
+      "section": "Сброс настроек камеры",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Сброс"
+    },
+    {
+      "key": "Exposure",
+      "value": "Экспозиция",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Ручная компенсация экспозиции",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Filters",
+      "value": "Фильтры",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Stabilize",
+      "value": "Стабилизатор изображения",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-03_Shooting-1_0330.html",
+      "section": "Image Stabilizer (Стабилизатор изображения) (Режим IS)",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Стабилизатор изображения"
+    },
+    {
+      "key": "Aperture",
+      "value": "Диафрагма",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: AE с приоритетом диафрагмы",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Portrait",
+      "value": "Вертикальная ориентация",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B2%D0%B5%D1%80%D1%82%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9&oldid=11695309",
+      "section": "вертикальный",
+      "basis": "dictionary-candidate",
+      "note": "Camera orientation, not a portrait picture-style preset. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Portrait means vertical frame orientation here, never the portrait color preset.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Display",
+      "value": "Отображение",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-03_Shooting-1_0430.html",
+      "section": "Отображение информации о съемке",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Отображение"
+    },
+    {
+      "key": "Normal",
+      "value": "Обычный",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BE%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9&oldid=13263861",
+      "section": "обычный",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Depth Cool",
+      "value": "Холодная глубина",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%A5%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F&oldid=13984687",
+      "section": "Холодная",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Depth Cute",
+      "value": "Мягкая глубина",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B3%D0%BB%D1%83%D0%B1%D0%B8%D0%BD%D0%B0&oldid=13615385",
+      "section": "глубина",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Spotlight",
+      "value": "Прожектор",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BF%D1%80%D0%BE%D0%B6%D0%B5%D0%BA%D1%82%D0%BE%D1%80&oldid=12887095",
+      "section": "прожектор",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Green Back",
+      "value": "Зелёный фон",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B9&oldid=13915190",
+      "section": "Зелёный",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Blue Back",
+      "value": "Синий фон",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%81%D0%B8%D0%BD%D0%B8%D0%B9&oldid=14153077",
+      "section": "синий",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "RIGHT",
+      "value": "Вправо",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B2%D0%BF%D1%80%D0%B0%D0%B2%D0%BE&oldid=11538262",
+      "section": "вправо",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "UP",
+      "value": "Вверх",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B2%D0%B2%D0%B5%D1%80%D1%85&oldid=14193260",
+      "section": "вверх",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "DOWN",
+      "value": "Вниз",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B2%D0%BD%D0%B8%D0%B7&oldid=11349384",
+      "section": "вниз",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "LEFT",
+      "value": "Влево",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B2%D0%BB%D0%B5%D0%B2%D0%BE&oldid=10122973",
+      "section": "влево",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show/Hide",
+      "value": "Показать/Скрыть",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C&oldid=13375090",
+      "section": "показать",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color",
+      "value": "Цвет",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Ручная фокусировка",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Цвет"
+    },
+    {
+      "key": "Hexagon",
+      "value": "Шестиугольник",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%88%D0%B5%D1%81%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA&oldid=13787411",
+      "section": "шестиугольник",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Octagon",
+      "value": "Восьмиугольник",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B2%D0%BE%D1%81%D1%8C%D0%BC%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA&oldid=13578187",
+      "section": "восьмиугольник",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Square",
+      "value": "Квадрат",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82&oldid=14039687",
+      "section": "квадрат",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look At Face",
+      "value": "Направить на лицо",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C&oldid=13622514",
+      "section": "направить",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look Up",
+      "value": "Направить вверх",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C&oldid=13622514",
+      "section": "направить",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look Down",
+      "value": "Направить вниз",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C&oldid=13622514",
+      "section": "направить",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look At Feet",
+      "value": "Направить на ступни",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C&oldid=13622514",
+      "section": "направить",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Track Self",
+      "value": "Следить за собой",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D1%82%D1%8C&oldid=13386142",
+      "section": "следить",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Track Self...",
+      "value": "Следить за собой...",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D1%82%D1%8C&oldid=13386142",
+      "section": "следить",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Infinity",
+      "value": "Бесконечность",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Ручная фокусировка",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Auto Focus",
+      "value": "Автофокусировка",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "Функция AF",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Manual Focus",
+      "value": "Ручная фокусировка",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Ручная фокусировка",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Ручная фокусировка"
+    },
+    {
+      "key": "Macro",
+      "value": "Макро",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Picture Style",
+      "value": "Стиль изображения",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-03_Shooting-1_0110.html",
+      "section": "Выбор стиля изображения",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Quick Selfie",
+      "value": "Быстрое селфи",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9&oldid=14190877",
+      "section": "быстрый",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Extra...",
+      "value": "Прочее...",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BF%D1%80%D0%BE%D1%87%D0%B8%D0%B9&oldid=12159689",
+      "section": "прочий",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Movie Mode",
+      "value": "Режим видеосъёмки",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%80%D0%B5%D0%B6%D0%B8%D0%BC&oldid=13269628",
+      "section": "режим",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Avatar-Drop",
+      "value": "Закрепить на аватаре",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B7%D0%B0%D0%BA%D1%80%D0%B5%D0%BF%D0%B8%D1%82%D1%8C&oldid=12238654",
+      "section": "закрепить",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3D Mode",
+      "value": "Режим 3D",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%80%D0%B5%D0%B6%D0%B8%D0%BC&oldid=13269628",
+      "section": "режим",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Mount Swap",
+      "value": "Сменить крепление",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&oldid=11988248",
+      "section": "крепление",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hide Lens",
+      "value": "Скрыть объектив",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B8%D0%B2&oldid=14214173",
+      "section": "объектив",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Increase",
+      "value": "Закрыть диафрагму",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: AE с приоритетом диафрагмы",
+      "basis": "canon-adapted",
+      "note": "Close the diaphragm / increase f-number. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Decrease",
+      "value": "Открыть диафрагму",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: AE с приоритетом диафрагмы",
+      "basis": "canon-adapted",
+      "note": "Open the diaphragm / decrease f-number. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Sensor Type",
+      "value": "Размер датчика",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80&oldid=14134513",
+      "section": "размер",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "DoF Mode",
+      "value": "Глубина резкости",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: AE с приоритетом диафрагмы",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Av Dial",
+      "value": "Значение диафрагмы",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: AE с приоритетом диафрагмы",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Bokeh Shape",
+      "value": "Форма боке",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%84%D0%BE%D1%80%D0%BC%D0%B0&oldid=13484608",
+      "section": "форма",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "V. Horizon",
+      "value": "Электронный уровень",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-03_Shooting-1_0430.html",
+      "section": "Отображение информации о съемке",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Grid",
+      "value": "Сетка",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-03_Shooting-1_0430.html",
+      "section": "Отображение информации о съемке",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Сетка"
+    },
+    {
+      "key": "Monitor",
+      "value": "Монитор",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-07_Set-up_0180.html",
+      "section": "Яркость экрана",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move HUD",
+      "value": "Переместить HUD",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D1%82%D1%8C&oldid=9840817",
+      "section": "переместить",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Peaking",
+      "value": "Выделение цветом MF",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Ручная фокусировка",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "Выделение цветом MF"
+    },
+    {
+      "key": "Hand-Rotate",
+      "value": "Вращать рукой",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B2%D1%80%D0%B0%D1%89%D0%B0%D1%82%D1%8C&oldid=13556280",
+      "section": "вращать",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Change Angle",
+      "value": "Изменить ориентацию",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F&oldid=11915099",
+      "section": "ориентация",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Tracking",
+      "value": "Отслеживание",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "Выбор области автофокусировки",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Отслеживание"
+    },
+    {
+      "key": "Move Camera",
+      "value": "Переместить камеру",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D1%82%D1%8C&oldid=9840817",
+      "section": "переместить",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drone Speed",
+      "value": "Скорость дрона",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C&oldid=14184402",
+      "section": "скорость",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move Pivot",
+      "value": "Переместить точку вращения",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D1%82%D1%8C&oldid=9840817",
+      "section": "переместить",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Track Pivot",
+      "value": "Следить за точкой вращения",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5&oldid=13081671",
+      "section": "вращение",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smoothing",
+      "value": "Сглаживание отслеживания",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%81%D0%B3%D0%BB%D0%B0%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&oldid=10829491",
+      "section": "сглаживание",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drop Pivot",
+      "value": "Установить точку вращения",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C&oldid=12060520",
+      "section": "установить",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Vertical Lock",
+      "value": "Блокировка по вертикали",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0&oldid=14159371",
+      "section": "блокировка",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "EV Dial",
+      "value": "Компенсация экспозиции",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Ручная компенсация экспозиции",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Компенсация экспозиции"
+    },
+    {
+      "key": "Auto Exposure",
+      "value": "Автоматическая экспозиция",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: AE с приоритетом диафрагмы",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "White Bal.",
+      "value": "Баланс белого",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-03_Shooting-1_0190.html",
+      "section": "Баланс белого",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Баланс белого"
+    },
+    {
+      "key": "Avatar AF",
+      "value": "Автофокусировка на аватаре",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B0%D0%B2%D1%82%D0%BE%D1%84%D0%BE%D0%BA%D1%83%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0&oldid=11977198",
+      "section": "автофокусировка",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move Focus",
+      "value": "Переместить фокус",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D1%82%D1%8C&oldid=9840817",
+      "section": "переместить",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Pro Autofocus",
+      "value": "Расширенная автофокусировка",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B0%D0%B2%D1%82%D0%BE%D1%84%D0%BE%D0%BA%D1%83%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0&oldid=11977198",
+      "section": "автофокусировка",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Operation",
+      "value": "Функция AF",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "Функция AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "Функция AF"
+    },
+    {
+      "key": "AF Area",
+      "value": "Область AF",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "Выбор области автофокусировки",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "Область AF"
+    },
+    {
+      "key": "Response",
+      "value": "Чувствительность слежения",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "Характеристики режима Следящая автофокусировка (Servo AF)",
+      "basis": "canon-exact",
+      "note": "AF tracking response sensitivity, not application response time. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Чувствительность слежения"
+    },
+    {
+      "key": "Drive Speed",
+      "value": "Скорость AF",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0100.html",
+      "section": "Пользовательская настройка функций автофокусировки",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "Скорость AF"
+    },
+    {
+      "key": "AF-ON",
+      "value": "Включить автофокусировку",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B8%D1%82%D1%8C&oldid=13933467",
+      "section": "включить",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "AF Lock",
+      "value": "Зафиксировать фокус",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B7%D0%B0%D1%84%D0%B8%D0%BA%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C&oldid=12008082",
+      "section": "зафиксировать",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Guide",
+      "value": "Помощь в фокусировке",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Ручная фокусировка",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Помощь в фокусировке"
+    },
+    {
+      "key": "One-Shot AF",
+      "value": "Покадровый AF",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "Функция AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "Покадровый AF"
+    },
+    {
+      "key": "Servo AF",
+      "value": "Следящая автофокусировка",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "Функция AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Следящая автофокусировка"
+    },
+    {
+      "key": "Spot",
+      "value": "Точечная",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "Выбор области автофокусировки",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zone",
+      "value": "Зона",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "Выбор области автофокусировки",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Avatar Priority",
+      "value": "Приоритет аватара",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BF%D1%80%D0%B8%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82&oldid=12726592",
+      "section": "приоритет",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Locked-on",
+      "value": "Удерживать объект",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "Характеристики режима Следящая автофокусировка (Servo AF)",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Standard",
+      "value": "Стандартный",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-03_Shooting-1_0110.html",
+      "section": "Выбор стиля изображения",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Responsive",
+      "value": "Быстрая реакция",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "Характеристики режима Следящая автофокусировка (Servo AF)",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Custom",
+      "value": "Дополнительные функции",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9&oldid=13782589",
+      "section": "дополнительный",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Far Clip Plane",
+      "value": "Дальняя плоскость отсечения",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BF%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D1%82%D1%8C&oldid=13138587",
+      "section": "плоскость",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smooth DoF Edges",
+      "value": "Сгладить границы глубины резкости",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%81%D0%B3%D0%BB%D0%B0%D0%B4%D0%B8%D1%82%D1%8C&oldid=13293485",
+      "section": "сгладить",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Softness",
+      "value": "Мягкость",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BC%D1%8F%D0%B3%D0%BA%D0%BE%D1%81%D1%82%D1%8C&oldid=14160934",
+      "section": "мягкость",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smooth Rotate",
+      "value": "Плавное вращение",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5&oldid=13081671",
+      "section": "вращение",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Anamorphic Bokeh",
+      "value": "Анаморфное боке",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B1%D0%BE%D0%BA%D0%B5&oldid=11052082",
+      "section": "боке",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Chromatic Aberration",
+      "value": "Хроматическая аберрация",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-03_Shooting-1_0220.html",
+      "section": "Коррекция аберрации объектива",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Enabled",
+      "value": "Включено",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Ручная фокусировка",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Transverse CA",
+      "value": "Поперечная хроматическая аберрация",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%85%D1%80%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9&oldid=11931975",
+      "section": "хроматический",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Axial CA",
+      "value": "Продольная хроматическая аберрация",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%85%D1%80%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9&oldid=11931975",
+      "section": "хроматический",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Axial Focus-Aware",
+      "value": "Зависимость от фокусировки",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C&oldid=13885088",
+      "section": "зависимость",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Magenta-Green",
+      "value": "Пурпурный-Зелёный",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BF%D1%83%D1%80%D0%BF%D1%83%D1%80%D0%BD%D1%8B%D0%B9&oldid=13980989",
+      "section": "пурпурный",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color Grading",
+      "value": "Цветокоррекция",
+      "source": "https://helpx.adobe.com/ru/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Цветокоррекция"
+    },
+    {
+      "key": "Saturation",
+      "value": "Насыщенность",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-03_Shooting-1_0120.html",
+      "section": "Индивидуальная настройка стиля изображения",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Насыщенность"
+    },
+    {
+      "key": "Vibrance",
+      "value": "Красочность",
+      "source": "https://helpx.adobe.com/ru/lightroom-classic/desktop/process-and-develop-photos/image-tone-color.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Красочность"
+    },
+    {
+      "key": "Contrast",
+      "value": "Контрастность",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-03_Shooting-1_0120.html",
+      "section": "Индивидуальная настройка стиля изображения",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Контрастность"
+    },
+    {
+      "key": "Shadows",
+      "value": "Тени",
+      "source": "https://helpx.adobe.com/ru/photoshop/using/filter-effects-reference.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Тени"
+    },
+    {
+      "key": "Midtones",
+      "value": "Средние тона",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%82%D0%BE%D0%BD%D0%B0&oldid=12468944",
+      "section": "тона",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Highlights",
+      "value": "Светлые области",
+      "source": "https://helpx.adobe.com/ru/lightroom-classic/desktop/process-and-develop-photos/image-tone-color.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Светлые области"
+    },
+    {
+      "key": "Brightness",
+      "value": "Яркость",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-07_Set-up_0180.html",
+      "section": "Яркость экрана",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Яркость"
+    },
+    {
+      "key": "Temperature",
+      "value": "Цветовая температура",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-03_Shooting-1_0190.html",
+      "section": "Баланс белого",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Цветовая температура"
+    },
+    {
+      "key": "Red",
+      "value": "Красный",
+      "source": "https://helpx.adobe.com/ru/lightroom-classic/desktop/process-and-develop-photos/image-tone-color.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Красный"
+    },
+    {
+      "key": "Green",
+      "value": "Зелёный",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Коррекция баланса белого",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Blue",
+      "value": "Синий",
+      "source": "https://helpx.adobe.com/ru/lightroom-classic/desktop/process-and-develop-photos/image-tone-color.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Синий"
+    },
+    {
+      "key": "Depth Fog",
+      "value": "Туман по глубине",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B3%D0%BB%D1%83%D0%B1%D0%B8%D0%BD%D0%B0&oldid=13615385",
+      "section": "глубина",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Density",
+      "value": "Плотность",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C&oldid=11333729",
+      "section": "плотность",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Start Distance",
+      "value": "Начальная дистанция",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9&oldid=14294750",
+      "section": "начальный",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color R",
+      "value": "Красный",
+      "source": "https://helpx.adobe.com/ru/lightroom-classic/desktop/process-and-develop-photos/image-tone-color.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Красный"
+    },
+    {
+      "key": "Color G",
+      "value": "Зелёный",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Коррекция баланса белого",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color B",
+      "value": "Синий",
+      "source": "https://helpx.adobe.com/ru/lightroom-classic/desktop/process-and-develop-photos/image-tone-color.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Синий"
+    },
+    {
+      "key": "Film Grain",
+      "value": "Зернистость фотопленки",
+      "source": "https://helpx.adobe.com/ru/photoshop/using/filter-effects-reference.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Зернистость фотопленки"
+    },
+    {
+      "key": "Intensity",
+      "value": "Интенсивность",
+      "source": "https://helpx.adobe.com/ru/photoshop/using/filter-effects-reference.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Интенсивность"
+    },
+    {
+      "key": "Size",
+      "value": "Размер",
+      "source": "https://helpx.adobe.com/ru/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Размер"
+    },
+    {
+      "key": "Speed",
+      "value": "Скорость",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C&oldid=14184402",
+      "section": "скорость",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Fisheye Lens",
+      "value": "Объектив «рыбий глаз»",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B8%D0%B2&oldid=14214173",
+      "section": "объектив",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Strength",
+      "value": "Сила",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%A1%D0%B8%D0%BB%D0%B0&oldid=14092761",
+      "section": "Сила",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Roundness",
+      "value": "Округлость",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Lens Size",
+      "value": "Размер объектива",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80&oldid=14134513",
+      "section": "размер",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Edge Softness",
+      "value": "Растушёвка края",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%80%D0%B0%D1%81%D1%82%D1%83%D1%88%D1%91%D0%B2%D0%BA%D0%B0&oldid=10824800",
+      "section": "растушёвка",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Reverse Fisheye",
+      "value": "Обратный «рыбий глаз»",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%80%D1%8B%D0%B1%D0%B8%D0%B9&oldid=13980926",
+      "section": "рыбий",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Center",
+      "value": "Центр",
+      "source": "https://helpx.adobe.com/ru/photoshop/using/filter-effects-reference.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Центр"
+    },
+    {
+      "key": "X",
+      "value": "Положение по горизонтали",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B3%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D1%82%D0%B0%D0%BB%D1%8C&oldid=13597897",
+      "section": "горизонталь",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Y",
+      "value": "Положение по вертикали",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5&oldid=13258093",
+      "section": "положение",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Letterbox",
+      "value": "Кинематографические полосы",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2.39:1 Cinemascope",
+      "value": "2.39:1 Синемаскоп",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2.35:1 Anamorphic",
+      "value": "2.35:1 Анаморфный",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2.00:1 Univisium",
+      "value": "2.00:1 Унивизиум",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1.85:1 Theatrical",
+      "value": "1.85:1 Кинотеатральный",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "16:9 Widescreen",
+      "value": "16:9 Широкоэкранный",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3:2 DSLR",
+      "value": "3:2 Цифровая зеркальная камера",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4:3 Classic",
+      "value": "4:3 Классический",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1:1 Square",
+      "value": "1:1 Квадрат",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82&oldid=14039687",
+      "section": "квадрат",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4:5 Portrait",
+      "value": "4:5 Портретный",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Portrait means vertical frame orientation here, never the portrait color preset.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "9:16 Vertical",
+      "value": "9:16 Вертикальный",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Pixelation",
+      "value": "Пикселизация",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Block Size",
+      "value": "Размер блока",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80&oldid=14134513",
+      "section": "размер",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Dither",
+      "value": "Дизеринг",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Posterize",
+      "value": "Постеризация",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Aspect Ratio",
+      "value": "Соотношение сторон",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-03_Shooting-1_0040.html",
+      "section": "Кадрирование/соотношение сторон для фотографий",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Tilt-Shift",
+      "value": "Наклон и сдвиг",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Depth Mode",
+      "value": "Режим глубины",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%80%D0%B5%D0%B6%D0%B8%D0%BC&oldid=13269628",
+      "section": "режим",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Blur",
+      "value": "Размытие",
+      "source": "https://helpx.adobe.com/ru/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Размытие"
+    },
+    {
+      "key": "Position",
+      "value": "Положение",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5&oldid=13258093",
+      "section": "положение",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Width",
+      "value": "Ширина",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Angle",
+      "value": "Угол",
+      "source": "https://helpx.adobe.com/ru/photoshop/using/filter-effects-reference.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Угол"
+    },
+    {
+      "key": "Vignette",
+      "value": "Виньетирование",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Radius",
+      "value": "Радиус",
+      "source": "https://helpx.adobe.com/ru/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Радиус"
+    },
+    {
+      "key": "Zoom Blur",
+      "value": "Размытие зумом",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%80%D0%B0%D0%B7%D0%BC%D1%8B%D1%82%D0%B8%D0%B5&oldid=10823668",
+      "section": "размытие",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Center X",
+      "value": "Центр по горизонтали",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B3%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D1%82%D0%B0%D0%BB%D1%8C&oldid=13597897",
+      "section": "горизонталь",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Center Y",
+      "value": "Центр по вертикали",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B2%D0%B5%D1%80%D1%82%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C&oldid=13565318",
+      "section": "вертикаль",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Zone",
+      "value": "Зона фокусировки",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B7%D0%BE%D0%BD%D0%B0&oldid=14149888",
+      "section": "зона",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Spread",
+      "value": "Рассеивание",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Distance",
+      "value": "Дистанция фокусировки",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B4%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F&oldid=13650473",
+      "section": "дистанция",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Manual Focus Assist",
+      "value": "Помощь при ручной фокусировке",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C&oldid=14100269",
+      "section": "помощь",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zone Size",
+      "value": "Размер зоны",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80&oldid=14134513",
+      "section": "размер",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zone Softness",
+      "value": "Мягкость зоны",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BC%D1%8F%D0%B3%D0%BA%D0%BE%D1%81%D1%82%D1%8C&oldid=14160934",
+      "section": "мягкость",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Edge Feather",
+      "value": "Растушёвка края",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%80%D0%B0%D1%81%D1%82%D1%83%D1%88%D1%91%D0%B2%D0%BA%D0%B0&oldid=10824800",
+      "section": "растушёвка",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Peaking",
+      "value": "Выделение контуров",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Ручная фокусировка",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Max Blur Size",
+      "value": "Максимальный размер размытия",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80&oldid=14134513",
+      "section": "размер",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Player Visibility",
+      "value": "Видимость игроков",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B8%D0%B3%D1%80%D0%BE%D0%BA&oldid=13799581",
+      "section": "игрок",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hide Remote Players",
+      "value": "Скрыть других игроков",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%81%D0%BA%D1%80%D1%8B%D1%82%D1%8C&oldid=14241209",
+      "section": "скрыть",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hide Self",
+      "value": "Скрыть себя",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%81%D0%BA%D1%80%D1%8B%D1%82%D1%8C&oldid=14241209",
+      "section": "скрыть",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Avatar Offset",
+      "value": "Смещение аватара",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%81%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5&oldid=12647710",
+      "section": "смещение",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Rotate With Avatar",
+      "value": "Вращать вместе с аватаром",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B2%D1%80%D0%B0%D1%89%D0%B0%D1%82%D1%8C&oldid=13556280",
+      "section": "вращать",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drop (Reset to Hand)",
+      "value": "Вернуть в руку",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D1%82%D1%8C&oldid=12388954",
+      "section": "вернуть",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move Drone Vertical",
+      "value": "Переместить дрон по вертикали",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D1%82%D1%8C&oldid=9840817",
+      "section": "переместить",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Camera Pins & Dolly",
+      "value": "Метки камеры и операторская тележка",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Teleport",
+      "value": "Телепортация",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Dolly",
+      "value": "Движение на тележке",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Reset to Hand",
+      "value": "Вернуть в руку",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D1%82%D1%8C&oldid=12388954",
+      "section": "вернуть",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show Pins",
+      "value": "Показать метки",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C&oldid=13375090",
+      "section": "показать",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show Path",
+      "value": "Показать траекторию",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C&oldid=13375090",
+      "section": "показать",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show Numbers",
+      "value": "Показать номера",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C&oldid=13375090",
+      "section": "показать",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Play",
+      "value": "Воспроизвести",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-05_Playback_0070.html",
+      "section": "Просмотр видеозаписи",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Stop",
+      "value": "Остановить",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-05_Playback_0070.html",
+      "section": "Просмотр видеозаписи",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Playback",
+      "value": "Позиция воспроизведения",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Dolly playback position, not the camera image-review menu. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move",
+      "value": "Переместить вручную",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D1%82%D1%8C&oldid=9840817",
+      "section": "переместить",
+      "basis": "dictionary-candidate",
+      "note": "Manual dolly movement. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Go To Pin",
+      "value": "Перейти к метке",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BC%D0%B5%D1%82%D0%BA%D0%B0&oldid=13590971",
+      "section": "метка",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Duration",
+      "value": "Длительность",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Loop",
+      "value": "Повтор",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Delay",
+      "value": "Задержка",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Path",
+      "value": "Траектория",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hand Rotate (Pins)",
+      "value": "Вращать метки рукой",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B2%D1%80%D0%B0%D1%89%D0%B0%D1%82%D1%8C&oldid=13556280",
+      "section": "вращать",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hand Offset",
+      "value": "Смещение руки",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%81%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5&oldid=12647710",
+      "section": "смещение",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drop Next",
+      "value": "Установить следующую метку",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C&oldid=12060520",
+      "section": "установить",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Clear All (Hold)",
+      "value": "Очистить всё (удерживать)",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%83%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%B2%D0%B0%D1%82%D1%8C&oldid=13353298",
+      "section": "удерживать",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Full",
+      "value": "Все направления",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Vertical",
+      "value": "Только по вертикали",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B2%D0%B5%D1%80%D1%82%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C&oldid=13565318",
+      "section": "вертикаль",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Teleport Next",
+      "value": "Телепортироваться к следующей метке",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BC%D0%B5%D1%82%D0%BA%D0%B0&oldid=13590971",
+      "section": "метка",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Reverse",
+      "value": "Туда и обратно",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Ping-pong playback, not reversed camera orientation. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Linear",
+      "value": "Линейная",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smooth",
+      "value": "Интерполяция точек",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Path through control points (interpolation). Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Fitted",
+      "value": "Аппроксимирующая кривая",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Path approximating control points (fitted curve). Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Preset Saver",
+      "value": "Сохранение предустановок",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Save",
+      "value": "Сохранить",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-07_Set-up_0310.html",
+      "section": "Сохранение настроек камеры на карту и их загрузка с карты",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Сохранить"
+    },
+    {
+      "key": "Load",
+      "value": "Загрузить",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-07_Set-up_0310.html",
+      "section": "Сохранение настроек камеры на карту и их загрузка с карты",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Загрузить"
+    },
+    {
+      "key": "Load Defaults",
+      "value": "Загрузить значения по умолчанию",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%B8%D1%82%D1%8C&oldid=14091322",
+      "section": "загрузить",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Favorites",
+      "value": "Избранное",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ],
+  "directions": [
+    {
+      "key": "TOP",
+      "value": "Вверх",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B2%D0%B2%D0%B5%D1%80%D1%85&oldid=14193260",
+      "section": "вверх",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "UP",
+      "value": "Вверх",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B2%D0%B2%D0%B5%D1%80%D1%85&oldid=14193260",
+      "section": "вверх",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "RIGHT",
+      "value": "Вправо",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B2%D0%BF%D1%80%D0%B0%D0%B2%D0%BE&oldid=11538262",
+      "section": "вправо",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "BOTTOM",
+      "value": "Вниз",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B2%D0%BD%D0%B8%D0%B7&oldid=11349384",
+      "section": "вниз",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "DOWN",
+      "value": "Вниз",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B2%D0%BD%D0%B8%D0%B7&oldid=11349384",
+      "section": "вниз",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "LEFT",
+      "value": "Влево",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B2%D0%BB%D0%B5%D0%B2%D0%BE&oldid=10122973",
+      "section": "влево",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "FORWARD",
+      "value": "Вперёд",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "BACK",
+      "value": "Назад",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ],
+  "dynamic": [
+    {
+      "key": "Next",
+      "value": "Далее",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "CameraPin",
+      "value": "Метка {0}",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Seconds",
+      "value": "{0} с",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Minutes",
+      "value": "{0} мин",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "WorldDrop",
+      "value": "Закрепить в мире",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B7%D0%B0%D0%BA%D1%80%D0%B5%D0%BF%D0%B8%D1%82%D1%8C&oldid=12238654",
+      "section": "закрепить",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "CameraPinDrop",
+      "value": "Установить метку",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C&oldid=12060520",
+      "section": "установить",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "VignetteSoftness",
+      "value": "Растушёвка края",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%80%D0%B0%D1%81%D1%82%D1%83%D1%88%D1%91%D0%B2%D0%BA%D0%B0&oldid=10824800",
+      "section": "растушёвка",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "FisheyeCenterX",
+      "value": "Положение по горизонтали",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%B3%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D1%82%D0%B0%D0%BB%D1%8C&oldid=13597897",
+      "section": "горизонталь",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "FisheyeCenterY",
+      "value": "Положение по вертикали",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5&oldid=13258093",
+      "section": "положение",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "ZoomInSpeed4",
+      "value": "Скорость в сторону телефото 4",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C&oldid=14184402",
+      "section": "скорость",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "ZoomOutSpeed4",
+      "value": "Скорость в сторону широкого угла 4",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C&oldid=14184402",
+      "section": "скорость",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    }
+  ],
+  "featureBlanks": [
+    {
+      "key": "100",
+      "value": "Скорость в сторону широкого угла 1",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C&oldid=14184402",
+      "section": "скорость",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "101",
+      "value": "Скорость в сторону широкого угла 2",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C&oldid=14184402",
+      "section": "скорость",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "102",
+      "value": "Скорость в сторону широкого угла 3",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C&oldid=14184402",
+      "section": "скорость",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "104",
+      "value": "Скорость в сторону телефото 1",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C&oldid=14184402",
+      "section": "скорость",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "105",
+      "value": "Скорость в сторону телефото 2",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C&oldid=14184402",
+      "section": "скорость",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "106",
+      "value": "Скорость в сторону телефото 3",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C&oldid=14184402",
+      "section": "скорость",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "108",
+      "value": "Компенсация экспозиции −1/3 ступени",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Ручная компенсация экспозиции",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "110",
+      "value": "Компенсация экспозиции +1/3 ступени",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Ручная компенсация экспозиции",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "113",
+      "value": "Коррекция баланса белого: синий",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Коррекция баланса белого",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "114",
+      "value": "Коррекция баланса белого: сброс",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Коррекция баланса белого",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "115",
+      "value": "Коррекция баланса белого: янтарный",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Коррекция баланса белого",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "117",
+      "value": "К ближнему плану: средний шаг",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Ручная фокусировка",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "118",
+      "value": "К ближнему плану: малый шаг",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Ручная фокусировка",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "120",
+      "value": "К бесконечности: малый шаг",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Ручная фокусировка",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "121",
+      "value": "К бесконечности: средний шаг",
+      "source": "https://cam.start.canon/ru/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Ручная фокусировка",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "129",
+      "value": "Направить немного вверх",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C&oldid=13622514",
+      "section": "направить",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "130",
+      "value": "Направить немного вниз",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C&oldid=13622514",
+      "section": "направить",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    }
+  ],
+  "sensorBlanks": [
+    {
+      "key": "0",
+      "value": "Полный кадр 35 мм",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1",
+      "value": "APS-H",
+      "source": "https://asia.canon/en/support/8201524100",
+      "section": "35mm-equivalent focal length — image sensor size table",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2",
+      "value": "APS-C (1.5×)",
+      "source": "https://asia.canon/en/support/8201524100",
+      "section": "35mm-equivalent focal length — image sensor size table",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3",
+      "value": "APS-C (1.6×)",
+      "source": "https://asia.canon/en/support/8201524100",
+      "section": "35mm-equivalent focal length — image sensor size table",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4",
+      "value": "Микро 4/3",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "5",
+      "value": "Тип 1,0",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ],
+  "tonemapBlanks": [
+    {
+      "key": "0",
+      "value": "Выключено",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1",
+      "value": "Плёночный 1",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BF%D0%BB%D1%91%D0%BD%D0%BE%D1%87%D0%BD%D1%8B%D0%B9&oldid=12207767",
+      "section": "плёночный",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2",
+      "value": "Плёночный 2",
+      "source": "https://ru.wiktionary.org/w/index.php?title=%D0%BF%D0%BB%D1%91%D0%BD%D0%BE%D1%87%D0%BD%D1%8B%D0%B9&oldid=12207767",
+      "section": "плёночный",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3",
+      "value": "HLG",
+      "source": "https://cam.start.canon/en/C017/manual/html/UG-03_Shooting-1_0390.html",
+      "section": "View Assist Display Conditions — Hybrid Log-Gamma",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4",
+      "value": "Нейтральное",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ]
+}

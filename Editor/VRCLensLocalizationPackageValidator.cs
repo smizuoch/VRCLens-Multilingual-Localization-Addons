@@ -21,11 +21,13 @@ namespace VRCLensCustom
             var issues = ValidateAll();
             if (issues.Count == 0)
             {
-                Debug.Log(Prefix + " Four catalogs, semantic coverage, selector, menu cloning, " +
-                          "and all four installer prefabs passed validation.");
+                Debug.Log(Prefix + " " + VRCLensLocalizationRegistry.Profiles.Count +
+                          " catalogs and installer prefabs, semantic coverage, selector, " +
+                          "and menu cloning passed validation.");
+                ReportTerminologyReview();
                 if (!Application.isBatchMode)
                     EditorUtility.DisplayDialog(
-                        "VRCLens Localization", "Validation passed.", "OK");
+                        "VRCLens Localization", "Technical validation passed. See Console and Documentation for terminology review status.", "OK");
                 return;
             }
 
@@ -46,10 +48,17 @@ namespace VRCLensCustom
                 VRCLensMenuLocalizer.SelfTest);
             TryValidation("marker selector self-test", issues,
                 VRCLensLocalizationSelector.SelfTest);
+            TryValidation("additional catalog data/provenance/templates", issues,
+                VRCLensAdditionalCatalogs.ValidateData);
 
             var profiles = VRCLensLocalizationRegistry.Profiles;
-            if (profiles.Count != 4)
-                issues.Add($"expected four localization profiles, found {profiles.Count}");
+            var requiredLocales = new[] { "ja-JP", "zh-Hans-CN", "zh-Hant-TW", "ko-KR" }
+                .Concat(VRCLensAdditionalCatalogs.RequiredLocales).ToArray();
+            if (profiles.Count != requiredLocales.Length)
+                issues.Add($"expected {requiredLocales.Length} localization profiles, found {profiles.Count}");
+            foreach (var locale in requiredLocales)
+                if (!profiles.Any(profile => profile.LocaleCode == locale))
+                    issues.Add("missing required locale: " + locale);
             AddDuplicates(issues, profiles.GroupBy(profile => profile.LocaleCode), "locale");
             AddDuplicates(issues, profiles.GroupBy(profile => profile.MarkerType.FullName),
                           "marker type");
@@ -72,7 +81,40 @@ namespace VRCLensCustom
                 ValidateInstaller(profile, vrcfuryType, issues);
                 ValidateInstantiatedInstaller(profile, issues);
             }
+            for (int first = 0; first < profiles.Count; first++)
+                for (int second = first; second < profiles.Count; second++)
+                    ValidateInstallerConflict(profiles[first], profiles[second], issues);
             return issues;
+        }
+
+        private static void ValidateInstallerConflict(VRCLensLocalizationProfile first,
+            VRCLensLocalizationProfile second, List<string> issues)
+        {
+            var firstPrefab = AssetDatabase.LoadAssetAtPath<GameObject>(first.PrefabPath);
+            var secondPrefab = AssetDatabase.LoadAssetAtPath<GameObject>(second.PrefabPath);
+            if (firstPrefab == null || secondPrefab == null) return;
+            var avatar = new GameObject("LocalizationPrefabConflict") { hideFlags = HideFlags.HideAndDontSave };
+            try
+            {
+                UnityEngine.Object.Instantiate(firstPrefab, avatar.transform, false);
+                var other = UnityEngine.Object.Instantiate(secondPrefab, avatar.transform, false);
+                var marker = other.GetComponent<VRCLensLocalizationMarker>();
+                if (marker == null) throw new InvalidOperationException("unloadable conflict marker");
+                foreach (int state in new[] { 0, 1, 2 })
+                {
+                    other.SetActive(state != 1);
+                    marker.enabled = state != 2;
+                    if (VRCLensLocalizationSelector.TrySelect(avatar, out var selection, out var error)
+                        || selection != null || string.IsNullOrWhiteSpace(error)
+                        || !error.Contains(first.LocaleCode) || !error.Contains(second.LocaleCode))
+                        issues.Add($"installer conflict accepted: {first.LocaleCode} + {second.LocaleCode}, state {state}");
+                }
+            }
+            catch (Exception exception)
+            {
+                issues.Add($"installer conflict {first.LocaleCode} + {second.LocaleCode}: {exception.Message}");
+            }
+            finally { UnityEngine.Object.DestroyImmediate(avatar); }
         }
 
         public static void RunValidationForBatchMode()
@@ -82,6 +124,18 @@ namespace VRCLensCustom
                 throw new InvalidOperationException(
                     "VRCLens Localization validation failed:\n" + string.Join("\n", issues));
             Debug.Log(Prefix + " Batch validation passed.");
+            ReportTerminologyReview();
+        }
+
+        private static void ReportTerminologyReview()
+        {
+            int pending = VRCLensAdditionalCatalogs.RequiredLocales
+                .SelectMany(locale => VRCLensAdditionalCatalogs.Load(locale).AllEntries)
+                .Count(entry => entry.basis == "review-required" || entry.basis == "dictionary-candidate"
+                             || entry.basis == "adobe-region-review");
+            if (pending != 0)
+                Debug.LogWarning(Prefix + $" {pending} translation records still require source/sense/region review. " +
+                    "Technical validation does not certify translation accuracy; see Documentation/TranslationReviewQueue.csv.");
         }
 
         private delegate bool Validation(out string error);
@@ -137,9 +191,11 @@ namespace VRCLensCustom
                 // Instantiate the shipped prefab, then clone its avatar as the SDK does.
                 var installer = (GameObject)PrefabUtility.InstantiatePrefab(prefab);
                 installer.transform.SetParent(avatar.transform, false);
-                foreach (bool inactive in new[] { false, true })
+                foreach (int state in new[] { 0, 1, 2 })
                 {
-                    installer.SetActive(!inactive);
+                    installer.SetActive(state != 1);
+                    var marker = installer.GetComponent<VRCLensLocalizationMarker>();
+                    if (marker != null) marker.enabled = state != 2;
                     var clone = UnityEngine.Object.Instantiate(avatar);
                     try
                     {
@@ -147,7 +203,7 @@ namespace VRCLensCustom
                                 clone, out var selection, out var error)
                             || selection == null || selection.Marker == null
                             || selection.Profile.LocaleCode != profile.LocaleCode)
-                            issues.Add(subject + (inactive ? " (inactive)" : " (active)") +
+                            issues.Add(subject + " (state " + state + ")" +
                                        " failed selection: " + error);
                     }
                     finally { UnityEngine.Object.DestroyImmediate(clone); }

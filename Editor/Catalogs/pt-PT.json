@@ -1,0 +1,2293 @@
+{
+  "localeCode": "pt-PT",
+  "nativeName": "Português (Portugal)",
+  "names": [
+    {
+      "key": "Enable",
+      "value": "Ativar",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focagem Manual",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Ativar"
+    },
+    {
+      "key": "Advanced",
+      "value": "Avançado",
+      "source": "https://pt.wiktionary.org/w/index.php?title=avan%C3%A7ado&oldid=3031621",
+      "section": "avançado",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zoom",
+      "value": "Zoom",
+      "source": "https://pt.wiktionary.org/w/index.php?title=zoom&oldid=3213328",
+      "section": "zoom",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drone",
+      "value": "Drone",
+      "source": "https://pt.wiktionary.org/w/index.php?title=drone&oldid=3067749",
+      "section": "drone",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Settings",
+      "value": "Definições",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-07_Set-up_0290.html",
+      "section": "Reposição das Definições da Câmara",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Definições"
+    },
+    {
+      "key": "Focus",
+      "value": "Focagem",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focagem Manual",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Focagem"
+    },
+    {
+      "key": "Reset",
+      "value": "Repor",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-07_Set-up_0290.html",
+      "section": "Reposição das Definições da Câmara",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Exposure",
+      "value": "Exposição",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Compensação da Exposição Manual",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Exposição"
+    },
+    {
+      "key": "Filters",
+      "value": "Filtros",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Stabilize",
+      "value": "Estabilizador de imagem",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-03_Shooting-1_0330.html",
+      "section": "Image Stabilizer (Estabilizador de Imagem) (Modo IS)",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Aperture",
+      "value": "Abertura",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: Prioridade de Abertura AE",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Abertura"
+    },
+    {
+      "key": "Portrait",
+      "value": "Orientação vertical",
+      "source": "https://pt.wiktionary.org/w/index.php?title=orienta%C3%A7%C3%A3o&oldid=3226903",
+      "section": "orientação",
+      "basis": "dictionary-candidate",
+      "note": "Camera orientation, not a portrait picture-style preset. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Portrait means vertical frame orientation here, never the portrait color preset.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Display",
+      "value": "Apresentação",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-03_Shooting-1_0430.html",
+      "section": "Visor de Informações de Disparo",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Apresentação"
+    },
+    {
+      "key": "Normal",
+      "value": "Normal",
+      "source": "https://pt.wiktionary.org/w/index.php?title=normal&oldid=3239325",
+      "section": "normal",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Depth Cool",
+      "value": "Profundidade fria",
+      "source": "https://pt.wiktionary.org/w/index.php?title=profundidade&oldid=2619559",
+      "section": "profundidade",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Depth Cute",
+      "value": "Profundidade suave",
+      "source": "https://pt.wiktionary.org/w/index.php?title=profundidade&oldid=2619559",
+      "section": "profundidade",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Spotlight",
+      "value": "Projetor",
+      "source": "https://pt.wiktionary.org/w/index.php?title=projetor&oldid=2852891",
+      "section": "projetor",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Green Back",
+      "value": "Fundo verde",
+      "source": "https://pt.wiktionary.org/w/index.php?title=fundo&oldid=3257023",
+      "section": "fundo",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Blue Back",
+      "value": "Fundo azul",
+      "source": "https://pt.wiktionary.org/w/index.php?title=fundo&oldid=3257023",
+      "section": "fundo",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "RIGHT",
+      "value": "Direita",
+      "source": "https://pt.wiktionary.org/w/index.php?title=direita&oldid=3192985",
+      "section": "direita",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "UP",
+      "value": "Cima",
+      "source": "https://pt.wiktionary.org/w/index.php?title=cima&oldid=3063221",
+      "section": "cima",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "DOWN",
+      "value": "Baixo",
+      "source": "https://pt.wiktionary.org/w/index.php?title=baixo&oldid=3177452",
+      "section": "baixo",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "LEFT",
+      "value": "Esquerda",
+      "source": "https://pt.wiktionary.org/w/index.php?title=esquerda&oldid=3251060",
+      "section": "esquerda",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show/Hide",
+      "value": "Mostrar/Ocultar",
+      "source": "https://pt.wiktionary.org/w/index.php?title=mostrar&oldid=3156081",
+      "section": "mostrar",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color",
+      "value": "Cor",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focagem Manual",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Cor"
+    },
+    {
+      "key": "Hexagon",
+      "value": "Hexágono",
+      "source": "https://pt.wiktionary.org/w/index.php?title=hex%C3%A1gono&oldid=3148533",
+      "section": "hexágono",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Octagon",
+      "value": "Octógono",
+      "source": "https://pt.wiktionary.org/w/index.php?title=oct%C3%B3gono&oldid=3161007",
+      "section": "octógono",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Square",
+      "value": "Quadrado",
+      "source": "https://pt.wiktionary.org/w/index.php?title=quadrado&oldid=3274307",
+      "section": "quadrado",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look At Face",
+      "value": "Apontar para o rosto",
+      "source": "https://pt.wiktionary.org/w/index.php?title=apontar&oldid=2805180",
+      "section": "apontar",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look Up",
+      "value": "Apontar para cima",
+      "source": "https://pt.wiktionary.org/w/index.php?title=apontar&oldid=2805180",
+      "section": "apontar",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look Down",
+      "value": "Apontar para baixo",
+      "source": "https://pt.wiktionary.org/w/index.php?title=apontar&oldid=2805180",
+      "section": "apontar",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look At Feet",
+      "value": "Apontar para os pés",
+      "source": "https://pt.wiktionary.org/w/index.php?title=apontar&oldid=2805180",
+      "section": "apontar",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Track Self",
+      "value": "Seguir-se a si próprio",
+      "source": "https://pt.wiktionary.org/w/index.php?title=pr%C3%B3prio&oldid=3115977",
+      "section": "próprio",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Track Self...",
+      "value": "Seguir-se a si próprio...",
+      "source": "https://pt.wiktionary.org/w/index.php?title=pr%C3%B3prio&oldid=3115977",
+      "section": "próprio",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Infinity",
+      "value": "Infinito",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focagem Manual",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Auto Focus",
+      "value": "Focagem automática",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "Operação AF",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Manual Focus",
+      "value": "Focagem Manual",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focagem Manual",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Focagem Manual"
+    },
+    {
+      "key": "Macro",
+      "value": "Macro",
+      "source": "https://pt.wiktionary.org/w/index.php?title=macro&oldid=3265818",
+      "section": "macro",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Picture Style",
+      "value": "Estilo Imagem",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-03_Shooting-1_0110.html",
+      "section": "Seleção do Estilo Imagem",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Estilo Imagem"
+    },
+    {
+      "key": "Quick Selfie",
+      "value": "Selfie rápida",
+      "source": "https://pt.wiktionary.org/w/index.php?title=selfie&oldid=3007041",
+      "section": "selfie",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Extra...",
+      "value": "Outros...",
+      "source": "https://pt.wiktionary.org/w/index.php?title=outros&oldid=2920642",
+      "section": "outros",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Movie Mode",
+      "value": "Modo de filme",
+      "source": "https://pt.wiktionary.org/w/index.php?title=filme&oldid=3266973",
+      "section": "filme",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Avatar-Drop",
+      "value": "Fixar ao avatar",
+      "source": "https://pt.wiktionary.org/w/index.php?title=avatar&oldid=2629110",
+      "section": "avatar",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3D Mode",
+      "value": "Modo 3D",
+      "source": "https://pt.wiktionary.org/w/index.php?title=modo&oldid=3160787",
+      "section": "modo",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Mount Swap",
+      "value": "Mudar suporte",
+      "source": "https://pt.wiktionary.org/w/index.php?title=suporte&oldid=2746911",
+      "section": "suporte",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hide Lens",
+      "value": "Ocultar objetiva",
+      "source": "https://pt.wiktionary.org/w/index.php?title=objetiva&oldid=3139741",
+      "section": "objetiva",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Increase",
+      "value": "Fechar o diafragma",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: Prioridade de Abertura AE",
+      "basis": "canon-adapted",
+      "note": "Close the diaphragm / increase f-number. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Decrease",
+      "value": "Abrir o diafragma",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: Prioridade de Abertura AE",
+      "basis": "canon-adapted",
+      "note": "Open the diaphragm / decrease f-number. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Sensor Type",
+      "value": "Tamanho do sensor",
+      "source": "https://pt.wiktionary.org/w/index.php?title=tamanho&oldid=3261574",
+      "section": "tamanho",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "DoF Mode",
+      "value": "Profundidade de campo",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: Prioridade de Abertura AE",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Av Dial",
+      "value": "Valor de abertura",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: Prioridade de Abertura AE",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Bokeh Shape",
+      "value": "Forma do bokeh",
+      "source": "https://pt.wiktionary.org/w/index.php?title=forma&oldid=3267886",
+      "section": "forma",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "V. Horizon",
+      "value": "Nível eletrónico",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-03_Shooting-1_0430.html",
+      "section": "Visor de Informações de Disparo",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Grid",
+      "value": "Grelha",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-03_Shooting-1_0430.html",
+      "section": "Visor de Informações de Disparo",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Grelha"
+    },
+    {
+      "key": "Monitor",
+      "value": "Monitor",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-07_Set-up_0180.html",
+      "section": "Brilho do Ecrã",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move HUD",
+      "value": "Mover HUD",
+      "source": "https://pt.wiktionary.org/w/index.php?title=mover&oldid=3238488",
+      "section": "mover",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Peaking",
+      "value": "MF de Destaque",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focagem Manual",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "MF de Destaque"
+    },
+    {
+      "key": "Hand-Rotate",
+      "value": "Rodar com a mão",
+      "source": "https://pt.wiktionary.org/w/index.php?title=rodar&oldid=2611517",
+      "section": "rodar",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Change Angle",
+      "value": "Alterar orientação",
+      "source": "https://pt.wiktionary.org/w/index.php?title=orienta%C3%A7%C3%A3o&oldid=3226903",
+      "section": "orientação",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Tracking",
+      "value": "Seguimento",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "Selecionar a Área AF",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move Camera",
+      "value": "Mover câmara",
+      "source": "https://pt.wiktionary.org/w/index.php?title=c%C3%A2mara&oldid=3276664",
+      "section": "câmara",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drone Speed",
+      "value": "Velocidade do drone",
+      "source": "https://pt.wiktionary.org/w/index.php?title=velocidade&oldid=3166376",
+      "section": "velocidade",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move Pivot",
+      "value": "Mover pivô",
+      "source": "https://pt.wiktionary.org/w/index.php?title=mover&oldid=3238488",
+      "section": "mover",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Track Pivot",
+      "value": "Seguir pivô",
+      "source": "https://pt.wiktionary.org/w/index.php?title=seguir&oldid=3256031",
+      "section": "seguir",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smoothing",
+      "value": "Suavizar seguimento",
+      "source": "https://pt.wiktionary.org/w/index.php?title=seguimento&oldid=2615325",
+      "section": "seguimento",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drop Pivot",
+      "value": "Colocar pivô",
+      "source": "https://pt.wiktionary.org/w/index.php?title=colocar&oldid=3265460",
+      "section": "colocar",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Vertical Lock",
+      "value": "Bloqueio vertical",
+      "source": "https://pt.wiktionary.org/w/index.php?title=bloqueio&oldid=2308805",
+      "section": "bloqueio",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "EV Dial",
+      "value": "Compensação da exposição",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Compensação da Exposição Manual",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Auto Exposure",
+      "value": "Exposição automática",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: Prioridade de Abertura AE",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "White Bal.",
+      "value": "Balanço de Brancos",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-03_Shooting-1_0190.html",
+      "section": "Balanço de Brancos",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Balanço de Brancos"
+    },
+    {
+      "key": "Avatar AF",
+      "value": "Focagem automática no avatar",
+      "source": "https://pt.wiktionary.org/w/index.php?title=avatar&oldid=2629110",
+      "section": "avatar",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move Focus",
+      "value": "Mover focagem",
+      "source": "https://pt.wiktionary.org/w/index.php?title=mover&oldid=3238488",
+      "section": "mover",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Pro Autofocus",
+      "value": "Focagem automática avançada",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Operation",
+      "value": "Operação AF",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "Operação AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "Operação AF"
+    },
+    {
+      "key": "AF Area",
+      "value": "Área AF",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "Selecionar a Área AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "Área AF"
+    },
+    {
+      "key": "Response",
+      "value": "Sensibilidade de seguimento",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "Características Servo AF",
+      "basis": "canon-adapted",
+      "note": "AF tracking response sensitivity, not application response time. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drive Speed",
+      "value": "Velocidade AF",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0100.html",
+      "section": "Personalizar Funções AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "Velocidade AF"
+    },
+    {
+      "key": "AF-ON",
+      "value": "Ativar focagem automática",
+      "source": "https://pt.wiktionary.org/w/index.php?title=ativar&oldid=3147162",
+      "section": "ativar",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "AF Lock",
+      "value": "Bloquear focagem",
+      "source": "https://pt.wiktionary.org/w/index.php?title=bloquear&oldid=2599655",
+      "section": "bloquear",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Guide",
+      "value": "Guia de Focagem",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focagem Manual",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Guia de Focagem"
+    },
+    {
+      "key": "One-Shot AF",
+      "value": "One-Shot AF",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "Operação AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "One-Shot AF"
+    },
+    {
+      "key": "Servo AF",
+      "value": "Servo AF",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "Operação AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "Servo AF"
+    },
+    {
+      "key": "Spot",
+      "value": "Pontual",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "Selecionar a Área AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Pontual"
+    },
+    {
+      "key": "Zone",
+      "value": "Zona",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "Selecionar a Área AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Zona"
+    },
+    {
+      "key": "Avatar Priority",
+      "value": "Prioridade ao avatar",
+      "source": "https://pt.wiktionary.org/w/index.php?title=prioridade&oldid=3266474",
+      "section": "prioridade",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Locked-on",
+      "value": "Manter motivo",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "Características Servo AF",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Standard",
+      "value": "Standard",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-03_Shooting-1_0110.html",
+      "section": "Seleção do Estilo Imagem",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Responsive",
+      "value": "Resposta rápida",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "Características Servo AF",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Custom",
+      "value": "Funções adicionais",
+      "source": "https://pt.wiktionary.org/w/index.php?title=adicionais&oldid=2289173",
+      "section": "adicionais",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Far Clip Plane",
+      "value": "Plano de recorte distante",
+      "source": "https://pt.wiktionary.org/w/index.php?title=distante&oldid=2918937",
+      "section": "distante",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smooth DoF Edges",
+      "value": "Suavizar contornos da profundidade de campo",
+      "source": "https://pt.wiktionary.org/w/index.php?title=profundidade&oldid=2619559",
+      "section": "profundidade",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Softness",
+      "value": "Suavidade",
+      "source": "https://pt.wiktionary.org/w/index.php?title=suavidade&oldid=2618115",
+      "section": "suavidade",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smooth Rotate",
+      "value": "Rotação suave",
+      "source": "https://pt.wiktionary.org/w/index.php?title=rota%C3%A7%C3%A3o&oldid=3271687",
+      "section": "rotação",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Anamorphic Bokeh",
+      "value": "Bokeh anamórfico",
+      "source": "https://pt.wiktionary.org/w/index.php?title=anam%C3%B3rfico&oldid=3234961",
+      "section": "anamórfico",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Chromatic Aberration",
+      "value": "Aberração cromática",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-03_Shooting-1_0220.html",
+      "section": "Correção de Aberração da Lente",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Enabled",
+      "value": "Ativado",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focagem Manual",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Transverse CA",
+      "value": "Aberração cromática transversal",
+      "source": "https://pt.wiktionary.org/w/index.php?title=transversal&oldid=3221301",
+      "section": "transversal",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Axial CA",
+      "value": "Aberração cromática axial",
+      "source": "https://pt.wiktionary.org/w/index.php?title=aberra%C3%A7%C3%A3o&oldid=3275437",
+      "section": "aberração",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Axial Focus-Aware",
+      "value": "Associada à focagem",
+      "source": "https://pt.wiktionary.org/w/index.php?title=associada&oldid=3237850",
+      "section": "associada",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Magenta-Green",
+      "value": "Magenta-Verde",
+      "source": "https://pt.wiktionary.org/w/index.php?title=Magenta&oldid=3023378",
+      "section": "Magenta",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color Grading",
+      "value": "Gradação de cores",
+      "source": "https://cam.start.canon/pt/C016/manual/html/UG-04_Shooting_0240.html",
+      "section": "Qualidade de Imagem — gradação de cores",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Canon Portuguese post-production color-grading usage checked; initial capitalization adapted for a menu.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Saturation",
+      "value": "Saturação",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-03_Shooting-1_0120.html",
+      "section": "Personalização do Estilo Imagem",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Saturação"
+    },
+    {
+      "key": "Vibrance",
+      "value": "Vibração",
+      "source": "https://pt.wiktionary.org/w/index.php?title=vibra%C3%A7%C3%A3o&oldid=3265110",
+      "section": "vibração",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Contrast",
+      "value": "Contraste",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-03_Shooting-1_0120.html",
+      "section": "Personalização do Estilo Imagem",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Contraste"
+    },
+    {
+      "key": "Shadows",
+      "value": "Sombras",
+      "source": "https://helpx.adobe.com/pt/lightroom-classic/desktop/process-and-develop-photos/image-tone-color.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-region-review",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation. Adobe Portuguese body uses Brazilian terminology despite a pt-PT page shell. Portugal usage requires review and is not counted as verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Midtones",
+      "value": "Tons médios",
+      "source": "https://helpx.adobe.com/pt/lightroom-classic/desktop/process-and-develop-photos/image-tone-color.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-region-review",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation. Adobe Portuguese body uses Brazilian terminology despite a pt-PT page shell. Portugal usage requires review and is not counted as verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Highlights",
+      "value": "Realces",
+      "source": "https://helpx.adobe.com/pt/lightroom-classic/desktop/process-and-develop-photos/image-tone-color.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-region-review",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation. Adobe Portuguese body uses Brazilian terminology despite a pt-PT page shell. Portugal usage requires review and is not counted as verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Brightness",
+      "value": "Brilho",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-07_Set-up_0180.html",
+      "section": "Brilho do Ecrã",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Brilho"
+    },
+    {
+      "key": "Temperature",
+      "value": "Temperatura da Cor",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-03_Shooting-1_0190.html",
+      "section": "Balanço de Brancos",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Temperatura da Cor"
+    },
+    {
+      "key": "Red",
+      "value": "Vermelho",
+      "source": "https://helpx.adobe.com/pt/lightroom-classic/desktop/process-and-develop-photos/image-tone-color.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-region-review",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation. Adobe Portuguese body uses Brazilian terminology despite a pt-PT page shell. Portugal usage requires review and is not counted as verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Green",
+      "value": "Verde",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Correção de Balanço de Brancos",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Verde"
+    },
+    {
+      "key": "Blue",
+      "value": "Azul",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Correção de Balanço de Brancos",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Azul"
+    },
+    {
+      "key": "Depth Fog",
+      "value": "Nevoeiro de profundidade",
+      "source": "https://pt.wiktionary.org/w/index.php?title=profundidade&oldid=2619559",
+      "section": "profundidade",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Density",
+      "value": "Densidade",
+      "source": "https://pt.wiktionary.org/w/index.php?title=densidade&oldid=3147826",
+      "section": "densidade",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Start Distance",
+      "value": "Distância inicial",
+      "source": "https://pt.wiktionary.org/w/index.php?title=dist%C3%A2ncia&oldid=3219043",
+      "section": "distância",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color R",
+      "value": "Vermelho",
+      "source": "https://helpx.adobe.com/pt/lightroom-classic/desktop/process-and-develop-photos/image-tone-color.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-region-review",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation. Adobe Portuguese body uses Brazilian terminology despite a pt-PT page shell. Portugal usage requires review and is not counted as verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color G",
+      "value": "Verde",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Correção de Balanço de Brancos",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Verde"
+    },
+    {
+      "key": "Color B",
+      "value": "Azul",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Correção de Balanço de Brancos",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Azul"
+    },
+    {
+      "key": "Film Grain",
+      "value": "Grão de película",
+      "source": "https://cam.start.canon/pt/C013/manual/html/UG-04_Shooting-2_0030.html",
+      "section": "Filtros criativos — P&B dramático (nível de grão)",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Authored compound: Canon grão plus photographic película, checked at https://www.infopedia.pt/dicionarios/lingua-portuguesa/pel%C3%ADcula sense 3 (Porto Editora). Avoids treating Brazilian Adobe Foto Granulada as Portugal-specific terminology.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Intensity",
+      "value": "Intensidade",
+      "source": "https://helpx.adobe.com/pt/photoshop/using/filter-effects-reference.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-region-review",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation. Adobe Portuguese body uses Brazilian terminology despite a pt-PT page shell. Portugal usage requires review and is not counted as verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Size",
+      "value": "Tamanho",
+      "source": "https://helpx.adobe.com/pt/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-region-review",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation. Adobe Portuguese body uses Brazilian terminology despite a pt-PT page shell. Portugal usage requires review and is not counted as verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Speed",
+      "value": "Velocidade",
+      "source": "https://pt.wiktionary.org/w/index.php?title=velocidade&oldid=3166376",
+      "section": "velocidade",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Fisheye Lens",
+      "value": "Objetiva olho de peixe",
+      "source": "https://pt.wiktionary.org/w/index.php?title=objetiva&oldid=3139741",
+      "section": "objetiva",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Strength",
+      "value": "Força",
+      "source": "https://pt.wiktionary.org/w/index.php?title=for%C3%A7a&oldid=3148302",
+      "section": "força",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Roundness",
+      "value": "Arredondamento",
+      "source": "https://pt.wiktionary.org/w/index.php?title=arredondamento&oldid=2610976",
+      "section": "arredondamento",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Lens Size",
+      "value": "Tamanho da objetiva",
+      "source": "https://pt.wiktionary.org/w/index.php?title=objetiva&oldid=3139741",
+      "section": "objetiva",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Edge Softness",
+      "value": "Suavização do contorno",
+      "source": "https://pt.wiktionary.org/w/index.php?title=contorno&oldid=2618265",
+      "section": "contorno",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Reverse Fisheye",
+      "value": "Olho de peixe inverso",
+      "source": "https://pt.wiktionary.org/w/index.php?title=inverso&oldid=3250155",
+      "section": "inverso",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Center",
+      "value": "Centro",
+      "source": "https://helpx.adobe.com/pt/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-region-review",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation. Adobe Portuguese body uses Brazilian terminology despite a pt-PT page shell. Portugal usage requires review and is not counted as verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "X",
+      "value": "Posição horizontal",
+      "source": "https://pt.wiktionary.org/w/index.php?title=horizontal&oldid=3148590",
+      "section": "horizontal",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Y",
+      "value": "Posição vertical",
+      "source": "https://pt.wiktionary.org/w/index.php?title=vertical&oldid=3249153",
+      "section": "vertical",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Letterbox",
+      "value": "Barras cinematográficas",
+      "source": "https://pt.wiktionary.org/w/index.php?title=Barras&oldid=2944389",
+      "section": "Barras",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2.39:1 Cinemascope",
+      "value": "2.39:1 Cinemascope",
+      "source": "https://pt.wiktionary.org/w/index.php?title=cinemascope&oldid=2722282",
+      "section": "cinemascope",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2.35:1 Anamorphic",
+      "value": "2.35:1 Anamórfico",
+      "source": "https://pt.wiktionary.org/w/index.php?title=anam%C3%B3rfico&oldid=3234961",
+      "section": "anamórfico",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2.00:1 Univisium",
+      "value": "2.00:1 Univisium",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1.85:1 Theatrical",
+      "value": "1.85:1 Cinema",
+      "source": "https://pt.wiktionary.org/w/index.php?title=cinema&oldid=3271422",
+      "section": "cinema",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "16:9 Widescreen",
+      "value": "16:9 Panorâmico",
+      "source": "https://pt.wiktionary.org/w/index.php?title=panor%C3%A2mico&oldid=3264716",
+      "section": "panorâmico",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3:2 DSLR",
+      "value": "3:2 Reflex digital",
+      "source": "https://pt.wiktionary.org/w/index.php?title=digital&oldid=3248790",
+      "section": "digital",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4:3 Classic",
+      "value": "4:3 Clássico",
+      "source": "https://pt.wiktionary.org/w/index.php?title=cl%C3%A1ssico&oldid=3253099",
+      "section": "clássico",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1:1 Square",
+      "value": "1:1 Quadrado",
+      "source": "https://pt.wiktionary.org/w/index.php?title=quadrado&oldid=3274307",
+      "section": "quadrado",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4:5 Portrait",
+      "value": "4:5 Retrato",
+      "source": "https://pt.wiktionary.org/w/index.php?title=retrato&oldid=2472703",
+      "section": "retrato",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Portrait means vertical frame orientation here, never the portrait color preset.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "9:16 Vertical",
+      "value": "9:16 Vertical",
+      "source": "https://pt.wiktionary.org/w/index.php?title=vertical&oldid=3249153",
+      "section": "vertical",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Pixelation",
+      "value": "Pixelização",
+      "source": "https://helpx.adobe.com/pt/photoshop/using/filter-effects-reference.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-region-review",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation. Adobe Portuguese body uses Brazilian terminology despite a pt-PT page shell. Portugal usage requires review and is not counted as verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Block Size",
+      "value": "Tamanho do bloco",
+      "source": "https://pt.wiktionary.org/w/index.php?title=tamanho&oldid=3261574",
+      "section": "tamanho",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Dither",
+      "value": "Pontilhamento",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Posterize",
+      "value": "Posterização",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Aspect Ratio",
+      "value": "Rácio de aspeto",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-03_Shooting-1_0040.html",
+      "section": "Recorte/Rácio de Aspeto de Fotografia",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Tilt-Shift",
+      "value": "Inclinação e desvio",
+      "source": "https://pt.wiktionary.org/w/index.php?title=desvio&oldid=3147851",
+      "section": "desvio",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Depth Mode",
+      "value": "Modo de profundidade",
+      "source": "https://pt.wiktionary.org/w/index.php?title=profundidade&oldid=2619559",
+      "section": "profundidade",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Blur",
+      "value": "Desfoque",
+      "source": "https://helpx.adobe.com/pt/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-region-review",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation. Adobe Portuguese body uses Brazilian terminology despite a pt-PT page shell. Portugal usage requires review and is not counted as verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Position",
+      "value": "Posição",
+      "source": "https://pt.wiktionary.org/w/index.php?title=posi%C3%A7%C3%A3o&oldid=3272768",
+      "section": "posição",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Width",
+      "value": "Largura",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Angle",
+      "value": "Ângulo",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Vignette",
+      "value": "Vinhetagem",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Radius",
+      "value": "Raio",
+      "source": "https://helpx.adobe.com/pt/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-region-review",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation. Adobe Portuguese body uses Brazilian terminology despite a pt-PT page shell. Portugal usage requires review and is not counted as verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zoom Blur",
+      "value": "Desfoque de zoom",
+      "source": "https://pt.wiktionary.org/w/index.php?title=zoom&oldid=3213328",
+      "section": "zoom",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Center X",
+      "value": "Centro horizontal",
+      "source": "https://pt.wiktionary.org/w/index.php?title=horizontal&oldid=3148590",
+      "section": "horizontal",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Center Y",
+      "value": "Centro vertical",
+      "source": "https://pt.wiktionary.org/w/index.php?title=vertical&oldid=3249153",
+      "section": "vertical",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Zone",
+      "value": "Zona de focagem",
+      "source": "https://pt.wiktionary.org/w/index.php?title=zona&oldid=2719061",
+      "section": "zona",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Spread",
+      "value": "Dispersão",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Distance",
+      "value": "Distância de focagem",
+      "source": "https://pt.wiktionary.org/w/index.php?title=dist%C3%A2ncia&oldid=3219043",
+      "section": "distância",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Manual Focus Assist",
+      "value": "Assistência à focagem manual",
+      "source": "https://pt.wiktionary.org/w/index.php?title=manual&oldid=3235892",
+      "section": "manual",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zone Size",
+      "value": "Tamanho da zona",
+      "source": "https://pt.wiktionary.org/w/index.php?title=tamanho&oldid=3261574",
+      "section": "tamanho",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zone Softness",
+      "value": "Suavidade da zona",
+      "source": "https://pt.wiktionary.org/w/index.php?title=suavidade&oldid=2618115",
+      "section": "suavidade",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Edge Feather",
+      "value": "Suavização do contorno",
+      "source": "https://pt.wiktionary.org/w/index.php?title=contorno&oldid=2618265",
+      "section": "contorno",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Peaking",
+      "value": "Realce de contornos",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focagem Manual",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Max Blur Size",
+      "value": "Tamanho máximo do desfoque",
+      "source": "https://pt.wiktionary.org/w/index.php?title=tamanho&oldid=3261574",
+      "section": "tamanho",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Player Visibility",
+      "value": "Visibilidade dos jogadores",
+      "source": "https://pt.wiktionary.org/w/index.php?title=jogadores&oldid=2764360",
+      "section": "jogadores",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hide Remote Players",
+      "value": "Ocultar outros jogadores",
+      "source": "https://pt.wiktionary.org/w/index.php?title=jogadores&oldid=2764360",
+      "section": "jogadores",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hide Self",
+      "value": "Ocultar-se",
+      "source": "https://pt.wiktionary.org/w/index.php?title=ocultar&oldid=2614697",
+      "section": "ocultar",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Avatar Offset",
+      "value": "Desvio do avatar",
+      "source": "https://pt.wiktionary.org/w/index.php?title=desvio&oldid=3147851",
+      "section": "desvio",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Rotate With Avatar",
+      "value": "Rodar com o avatar",
+      "source": "https://pt.wiktionary.org/w/index.php?title=avatar&oldid=2629110",
+      "section": "avatar",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drop (Reset to Hand)",
+      "value": "Voltar à mão",
+      "source": "https://pt.wiktionary.org/w/index.php?title=voltar&oldid=3265498",
+      "section": "voltar",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move Drone Vertical",
+      "value": "Mover drone na vertical",
+      "source": "https://pt.wiktionary.org/w/index.php?title=vertical&oldid=3249153",
+      "section": "vertical",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Camera Pins & Dolly",
+      "value": "Marcadores de câmara e travelling",
+      "source": "https://pt.wiktionary.org/w/index.php?title=c%C3%A2mara&oldid=3276664",
+      "section": "câmara",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Teleport",
+      "value": "Teletransportar",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Dolly",
+      "value": "Travelling",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Reset to Hand",
+      "value": "Voltar à mão",
+      "source": "https://pt.wiktionary.org/w/index.php?title=voltar&oldid=3265498",
+      "section": "voltar",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show Pins",
+      "value": "Mostrar marcadores",
+      "source": "https://pt.wiktionary.org/w/index.php?title=mostrar&oldid=3156081",
+      "section": "mostrar",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show Path",
+      "value": "Mostrar percurso",
+      "source": "https://pt.wiktionary.org/w/index.php?title=percurso&oldid=2617721",
+      "section": "percurso",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show Numbers",
+      "value": "Mostrar números",
+      "source": "https://pt.wiktionary.org/w/index.php?title=mostrar&oldid=3156081",
+      "section": "mostrar",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Play",
+      "value": "Reproduzir",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-05_Playback_0070.html",
+      "section": "Reprodução de Vídeos",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Reproduzir"
+    },
+    {
+      "key": "Stop",
+      "value": "Parar",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-05_Playback_0070.html",
+      "section": "Reprodução de Vídeos",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Playback",
+      "value": "Posição de reprodução",
+      "source": "https://pt.wiktionary.org/w/index.php?title=posi%C3%A7%C3%A3o&oldid=3272768",
+      "section": "posição",
+      "basis": "dictionary-candidate",
+      "note": "Dolly playback position, not the camera image-review menu. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move",
+      "value": "Mover manualmente",
+      "source": "https://pt.wiktionary.org/w/index.php?title=mover&oldid=3238488",
+      "section": "mover",
+      "basis": "dictionary-candidate",
+      "note": "Manual dolly movement. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Go To Pin",
+      "value": "Ir para o marcador",
+      "source": "https://pt.wiktionary.org/w/index.php?title=marcador&oldid=2693398",
+      "section": "marcador",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Duration",
+      "value": "Duração",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Loop",
+      "value": "Repetir",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Delay",
+      "value": "Atraso",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Path",
+      "value": "Percurso",
+      "source": "https://pt.wiktionary.org/w/index.php?title=percurso&oldid=2617721",
+      "section": "percurso",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hand Rotate (Pins)",
+      "value": "Rodar marcadores com a mão",
+      "source": "https://pt.wiktionary.org/w/index.php?title=rodar&oldid=2611517",
+      "section": "rodar",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hand Offset",
+      "value": "Desvio da mão",
+      "source": "https://pt.wiktionary.org/w/index.php?title=desvio&oldid=3147851",
+      "section": "desvio",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drop Next",
+      "value": "Colocar marcador seguinte",
+      "source": "https://pt.wiktionary.org/w/index.php?title=marcador&oldid=2693398",
+      "section": "marcador",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Clear All (Hold)",
+      "value": "Limpar tudo (manter premido)",
+      "source": "https://pt.wiktionary.org/w/index.php?title=manter&oldid=2618221",
+      "section": "manter",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Full",
+      "value": "Todas as direções",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Vertical",
+      "value": "Apenas vertical",
+      "source": "https://pt.wiktionary.org/w/index.php?title=vertical&oldid=3249153",
+      "section": "vertical",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Teleport Next",
+      "value": "Teletransportar para o marcador seguinte",
+      "source": "https://pt.wiktionary.org/w/index.php?title=marcador&oldid=2693398",
+      "section": "marcador",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Reverse",
+      "value": "Ida e volta",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Ping-pong playback, not reversed camera orientation. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Linear",
+      "value": "Linear",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smooth",
+      "value": "Interpolação dos pontos",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Path through control points (interpolation). Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Fitted",
+      "value": "Curva ajustada",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Path approximating control points (fitted curve). Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Preset Saver",
+      "value": "Guardar predefinições",
+      "source": "https://pt.wiktionary.org/w/index.php?title=guardar&oldid=3074763",
+      "section": "guardar",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Save",
+      "value": "Guardar",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-07_Set-up_0310.html",
+      "section": "Gravar/Carregar as Definições da Câmara no Cartão",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Load",
+      "value": "Carregar",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-07_Set-up_0310.html",
+      "section": "Gravar/Carregar as Definições da Câmara no Cartão",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Carregar"
+    },
+    {
+      "key": "Load Defaults",
+      "value": "Carregar valores predefinidos",
+      "source": "https://pt.wiktionary.org/w/index.php?title=carregar&oldid=3240405",
+      "section": "carregar",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Favorites",
+      "value": "Favoritos",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ],
+  "directions": [
+    {
+      "key": "TOP",
+      "value": "Cima",
+      "source": "https://pt.wiktionary.org/w/index.php?title=cima&oldid=3063221",
+      "section": "cima",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "UP",
+      "value": "Cima",
+      "source": "https://pt.wiktionary.org/w/index.php?title=cima&oldid=3063221",
+      "section": "cima",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "RIGHT",
+      "value": "Direita",
+      "source": "https://pt.wiktionary.org/w/index.php?title=direita&oldid=3192985",
+      "section": "direita",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "BOTTOM",
+      "value": "Baixo",
+      "source": "https://pt.wiktionary.org/w/index.php?title=baixo&oldid=3177452",
+      "section": "baixo",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "DOWN",
+      "value": "Baixo",
+      "source": "https://pt.wiktionary.org/w/index.php?title=baixo&oldid=3177452",
+      "section": "baixo",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "LEFT",
+      "value": "Esquerda",
+      "source": "https://pt.wiktionary.org/w/index.php?title=esquerda&oldid=3251060",
+      "section": "esquerda",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "FORWARD",
+      "value": "Frente",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "BACK",
+      "value": "Trás",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ],
+  "dynamic": [
+    {
+      "key": "Next",
+      "value": "Seguinte",
+      "source": "https://pt.wiktionary.org/w/index.php?title=seguinte&oldid=3269097",
+      "section": "seguinte",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "CameraPin",
+      "value": "Marcador {0}",
+      "source": "https://pt.wiktionary.org/w/index.php?title=marcador&oldid=2693398",
+      "section": "marcador",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Seconds",
+      "value": "{0} s",
+      "source": "https://www.bipm.org/en/publications/si-brochure",
+      "section": "SI Brochure — second (s); non-SI units accepted for use with SI: minute (min)",
+      "basis": "standard-identifier",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. International unit symbols with a space after the numerical value. Not an ad-hoc width abbreviation; number placement remains catalog data.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Minutes",
+      "value": "{0} min",
+      "source": "https://www.bipm.org/en/publications/si-brochure",
+      "section": "SI Brochure — second (s); non-SI units accepted for use with SI: minute (min)",
+      "basis": "standard-identifier",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. International unit symbols with a space after the numerical value. Not an ad-hoc width abbreviation; number placement remains catalog data.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "WorldDrop",
+      "value": "Fixar ao mundo",
+      "source": "https://pt.wiktionary.org/w/index.php?title=fixar&oldid=2918997",
+      "section": "fixar",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "CameraPinDrop",
+      "value": "Colocar marcador",
+      "source": "https://pt.wiktionary.org/w/index.php?title=marcador&oldid=2693398",
+      "section": "marcador",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "VignetteSoftness",
+      "value": "Suavização do contorno",
+      "source": "https://pt.wiktionary.org/w/index.php?title=contorno&oldid=2618265",
+      "section": "contorno",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "FisheyeCenterX",
+      "value": "Posição horizontal",
+      "source": "https://pt.wiktionary.org/w/index.php?title=horizontal&oldid=3148590",
+      "section": "horizontal",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "FisheyeCenterY",
+      "value": "Posição vertical",
+      "source": "https://pt.wiktionary.org/w/index.php?title=vertical&oldid=3249153",
+      "section": "vertical",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "ZoomInSpeed4",
+      "value": "Velocidade de teleobjetiva 4",
+      "source": "https://pt.wiktionary.org/w/index.php?title=velocidade&oldid=3166376",
+      "section": "velocidade",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "ZoomOutSpeed4",
+      "value": "Velocidade de grande angular 4",
+      "source": "https://pt.wiktionary.org/w/index.php?title=velocidade&oldid=3166376",
+      "section": "velocidade",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    }
+  ],
+  "featureBlanks": [
+    {
+      "key": "100",
+      "value": "Velocidade de grande angular 1",
+      "source": "https://pt.wiktionary.org/w/index.php?title=velocidade&oldid=3166376",
+      "section": "velocidade",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "101",
+      "value": "Velocidade de grande angular 2",
+      "source": "https://pt.wiktionary.org/w/index.php?title=velocidade&oldid=3166376",
+      "section": "velocidade",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "102",
+      "value": "Velocidade de grande angular 3",
+      "source": "https://pt.wiktionary.org/w/index.php?title=velocidade&oldid=3166376",
+      "section": "velocidade",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "104",
+      "value": "Velocidade de teleobjetiva 1",
+      "source": "https://pt.wiktionary.org/w/index.php?title=velocidade&oldid=3166376",
+      "section": "velocidade",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "105",
+      "value": "Velocidade de teleobjetiva 2",
+      "source": "https://pt.wiktionary.org/w/index.php?title=velocidade&oldid=3166376",
+      "section": "velocidade",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "106",
+      "value": "Velocidade de teleobjetiva 3",
+      "source": "https://pt.wiktionary.org/w/index.php?title=velocidade&oldid=3166376",
+      "section": "velocidade",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "108",
+      "value": "Compensação da exposição −1/3 ponto",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Compensação da Exposição Manual",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "110",
+      "value": "Compensação da exposição +1/3 ponto",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Compensação da Exposição Manual",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "113",
+      "value": "Correção do balanço de brancos: azul",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Correção de Balanço de Brancos",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "114",
+      "value": "Correção do balanço de brancos: repor",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Correção de Balanço de Brancos",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "115",
+      "value": "Correção do balanço de brancos: âmbar",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Correção de Balanço de Brancos",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "117",
+      "value": "Para perto: médio",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focagem Manual",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "118",
+      "value": "Para perto: pequeno",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focagem Manual",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "120",
+      "value": "Para infinito: pequeno",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focagem Manual",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "121",
+      "value": "Para infinito: médio",
+      "source": "https://cam.start.canon/pt/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Focagem Manual",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "129",
+      "value": "Apontar ligeiramente para cima",
+      "source": "https://pt.wiktionary.org/w/index.php?title=ligeiramente&oldid=2973278",
+      "section": "ligeiramente",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "130",
+      "value": "Apontar ligeiramente para baixo",
+      "source": "https://pt.wiktionary.org/w/index.php?title=ligeiramente&oldid=2973278",
+      "section": "ligeiramente",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    }
+  ],
+  "sensorBlanks": [
+    {
+      "key": "0",
+      "value": "Formato completo de 35 mm",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1",
+      "value": "APS-H",
+      "source": "https://asia.canon/en/support/8201524100",
+      "section": "35mm-equivalent focal length — image sensor size table",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2",
+      "value": "APS-C (1.5×)",
+      "source": "https://asia.canon/en/support/8201524100",
+      "section": "35mm-equivalent focal length — image sensor size table",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3",
+      "value": "APS-C (1.6×)",
+      "source": "https://asia.canon/en/support/8201524100",
+      "section": "35mm-equivalent focal length — image sensor size table",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4",
+      "value": "Micro Quatro Terços",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "5",
+      "value": "Tipo 1,0",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ],
+  "tonemapBlanks": [
+    {
+      "key": "0",
+      "value": "Desativado",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1",
+      "value": "Fílmico 1",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2",
+      "value": "Fílmico 2",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3",
+      "value": "HLG",
+      "source": "https://cam.start.canon/en/C017/manual/html/UG-03_Shooting-1_0390.html",
+      "section": "View Assist Display Conditions — Hybrid Log-Gamma",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4",
+      "value": "Neutro",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ]
+}

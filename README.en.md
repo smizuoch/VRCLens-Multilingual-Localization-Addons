@@ -2,8 +2,9 @@
 [日本語版 (README.md)](README.md)
 
 This VRCFury add-on translates the VRCLens Expressions Menu and any installed
-Free Camera Add-ons at build time only. It includes Japanese, Simplified Chinese,
-Traditional Chinese (Taiwan), and Korean localizations.
+Free Camera Add-ons at build time only. It now includes 26 locales: the original four plus 22 additional catalogs.
+The new catalogs contain provisional wording whose source, sense, or regional usage still needs review.
+Technical validation and terminology sign-off are separate; see [terminology status](Documentation/TERMINOLOGY.md).
 
 ## Requirements
 
@@ -33,6 +34,28 @@ object:
 - `[Utility] ChineseSimplifiedLocalization.prefab` — Simplified Chinese (`zh-Hans-CN`)
 - `[Utility] ChineseTraditionalLocalization.prefab` — Traditional Chinese, Taiwan (`zh-Hant-TW`)
 - `[Utility] KoreanLocalization.prefab` — Korean (`ko-KR`)
+- `[Utility] FrenchLocalization.prefab` — Français (`fr-FR`)
+- `[Utility] GermanLocalization.prefab` — Deutsch (`de-DE`)
+- `[Utility] CzechLocalization.prefab` — Čeština (`cs-CZ`)
+- `[Utility] SpanishSpainLocalization.prefab` — Español (España) (`es-ES`)
+- `[Utility] SpanishLatinAmericaLocalization.prefab` — Español (Latinoamérica) (`es-419`)
+- `[Utility] RussianLocalization.prefab` — Русский (`ru-RU`)
+- `[Utility] ItalianLocalization.prefab` — Italiano (`it-IT`)
+- `[Utility] DanishLocalization.prefab` — Dansk (`da-DK`)
+- `[Utility] DutchLocalization.prefab` — Nederlands (`nl-NL`)
+- `[Utility] FinnishLocalization.prefab` — Suomi (`fi-FI`)
+- `[Utility] NorwegianBokmalLocalization.prefab` — Norsk bokmål (`nb-NO`)
+- `[Utility] NorwegianNynorskLocalization.prefab` — Norsk nynorsk (`nn-NO`)
+- `[Utility] PolishLocalization.prefab` — Polski (`pl-PL`)
+- `[Utility] PortuguesePortugalLocalization.prefab` — Português (Portugal) (`pt-PT`)
+- `[Utility] SwedishLocalization.prefab` — Svenska (`sv-SE`)
+- `[Utility] BulgarianLocalization.prefab` — Български (`bg-BG`)
+- `[Utility] GreekLocalization.prefab` — Ελληνικά (`el-GR`)
+- `[Utility] HungarianLocalization.prefab` — Magyar (`hu-HU`)
+- `[Utility] RomanianLocalization.prefab` — Română (`ro-RO`)
+- `[Utility] ThaiLocalization.prefab` — ไทย (`th-TH`)
+- `[Utility] TurkishLocalization.prefab` — Türkçe (`tr-TR`)
+- `[Utility] UkrainianLocalization.prefab` — Українська (`uk-UA`)
 
 Remove the prefab and rebuild to restore the English labels. If two or more
 localization prefabs are present, including duplicates for the same language, the
@@ -58,9 +81,25 @@ required dependencies.
 ## Validation
 
 In the Unity Editor, run `Tools > VRCLens Localization > Validate Package`. This
-checks the four catalogs, the supported VRCLens menus, installed Free Camera
+checks all registered catalogs (currently 26), the supported VRCLens menus, installed Free Camera
 Add-ons when present, shared and circular menus, Puppet labels, conflict
-detection, the four installer prefabs, and the empty VRCFury Full Controller.
+detection, all registered installer prefabs, and the empty VRCFury Full Controller.
+
+## Catalogs and sources
+
+Additional dictionaries live in `Editor/Catalogs/<locale>.json`. The shared resolver consumes 206 fixed
+labels, 8 directions, 11 contextual/dynamic records, and 28 functional blank buttons per locale.
+Number and time labels use locale-specific `{0}` templates. Five layout spacers remain blank.
+No additional package dependencies are introduced. Legacy four-locale output is preserved.
+
+Bokmål and Nynorsk have separate dictionaries and prefabs, as do Spain and Latin American Spanish.
+Portuguese targets Portugal. Shared regional terms are not artificially differentiated. Official
+spellings are never shortened for display width.
+
+[TranslationSources.csv](Documentation/TranslationSources.csv) maps semantic keys to actual strings,
+URLs, sections, rationale, and verification status. Entries in the [review queue](Documentation/TranslationReviewQueue.csv)
+are not counted as completed translations. Validate Package also verifies table/catalog agreement.
+See [Unity validation](Documentation/VALIDATION.md) for tested behavior and unverified client rendering.
 
 ## License
 

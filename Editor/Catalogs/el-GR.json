@@ -1,0 +1,2293 @@
+{
+  "localeCode": "el-GR",
+  "nativeName": "Ελληνικά",
+  "names": [
+    {
+      "key": "Enable",
+      "value": "Ενεργοποίηση",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Χειροκίνητη εστίαση",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Advanced",
+      "value": "Για προχωρημένους",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zoom",
+      "value": "Ζουμ",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drone",
+      "value": "Drone",
+      "source": "https://el.wiktionary.org/w/index.php?title=drone&oldid=7351331",
+      "section": "drone",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Settings",
+      "value": "Ρυθμίσεις",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-07_Set-up_0290.html",
+      "section": "Επαναφορά της μηχανής",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus",
+      "value": "Εστίαση",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Χειροκίνητη εστίαση",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Reset",
+      "value": "Επαναφορά",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-07_Set-up_0290.html",
+      "section": "Επαναφορά της μηχανής",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Επαναφορά"
+    },
+    {
+      "key": "Exposure",
+      "value": "Έκθεση",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Χειροκίνητη διόρθωση έκθεσης",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Filters",
+      "value": "Φίλτρα",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Stabilize",
+      "value": "Σταθεροποιητής εικόνας",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-03_Shooting-1_0330.html",
+      "section": "Image Stabilizer (Σταθεροποιητής εικόνας) (κατάσταση IS)",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Σταθεροποιητής εικόνας"
+    },
+    {
+      "key": "Aperture",
+      "value": "Διάφραγμα",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: AE με προτεραιότητα διαφράγματος",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Portrait",
+      "value": "Κατακόρυφος προσανατολισμός",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%80%CF%81%CE%BF%CF%83%CE%B1%CE%BD%CE%B1%CF%84%CE%BF%CE%BB%CE%B9%CF%83%CE%BC%CF%8C%CF%82&oldid=5508654",
+      "section": "προσανατολισμός",
+      "basis": "dictionary-candidate",
+      "note": "Camera orientation, not a portrait picture-style preset. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Portrait means vertical frame orientation here, never the portrait color preset.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Display",
+      "value": "Εμφάνιση",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-03_Shooting-1_0430.html",
+      "section": "Εμφάνιση πληροφοριών λήψης",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Εμφάνιση"
+    },
+    {
+      "key": "Normal",
+      "value": "Κανονικό",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Depth Cool",
+      "value": "Ψυχρό βάθος",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B2%CE%AC%CE%B8%CE%BF%CF%82&oldid=7348057",
+      "section": "βάθος",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Depth Cute",
+      "value": "Απαλό βάθος",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B2%CE%AC%CE%B8%CE%BF%CF%82&oldid=7348057",
+      "section": "βάθος",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Spotlight",
+      "value": "Προβολέας",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%80%CF%81%CE%BF%CE%B2%CE%BF%CE%BB%CE%AD%CE%B1%CF%82&oldid=6528416",
+      "section": "προβολέας",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Green Back",
+      "value": "Πράσινο φόντο",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%80%CF%81%CE%AC%CF%83%CE%B9%CE%BD%CE%BF&oldid=7321163",
+      "section": "πράσινο",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Blue Back",
+      "value": "Μπλε φόντο",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%86%CF%8C%CE%BD%CF%84%CE%BF&oldid=5229086",
+      "section": "φόντο",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "RIGHT",
+      "value": "Δεξιά",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B4%CE%B5%CE%BE%CE%B9%CE%AC&oldid=7275425",
+      "section": "δεξιά",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "UP",
+      "value": "Πάνω",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%80%CE%AC%CE%BD%CF%89&oldid=6978206",
+      "section": "πάνω",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "DOWN",
+      "value": "Κάτω",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%BA%CE%AC%CF%84%CF%89&oldid=7296745",
+      "section": "κάτω",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "LEFT",
+      "value": "Αριστερά",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B1%CF%81%CE%B9%CF%83%CF%84%CE%B5%CF%81%CE%AC&oldid=7124164",
+      "section": "αριστερά",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show/Hide",
+      "value": "Εμφάνιση/Απόκρυψη",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B5%CE%BC%CF%86%CE%AC%CE%BD%CE%B9%CF%83%CE%B7&oldid=7364084",
+      "section": "εμφάνιση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color",
+      "value": "Χρώμα",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Χειροκίνητη εστίαση",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Χρώμα"
+    },
+    {
+      "key": "Hexagon",
+      "value": "Εξάγωνο",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Octagon",
+      "value": "Οκτάγωνο",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Square",
+      "value": "Τετράγωνο",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%84%CE%B5%CF%84%CF%81%CE%AC%CE%B3%CF%89%CE%BD%CE%BF&oldid=7375500",
+      "section": "τετράγωνο",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look At Face",
+      "value": "Στόχευση στο πρόσωπο",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%83%CF%84%CF%8C%CF%87%CE%B5%CF%85%CF%83%CE%B7&oldid=5515918",
+      "section": "στόχευση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look Up",
+      "value": "Στόχευση προς τα πάνω",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%83%CF%84%CF%8C%CF%87%CE%B5%CF%85%CF%83%CE%B7&oldid=5515918",
+      "section": "στόχευση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look Down",
+      "value": "Στόχευση προς τα κάτω",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%83%CF%84%CF%8C%CF%87%CE%B5%CF%85%CF%83%CE%B7&oldid=5515918",
+      "section": "στόχευση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look At Feet",
+      "value": "Στόχευση στα πέλματα",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%83%CF%84%CF%8C%CF%87%CE%B5%CF%85%CF%83%CE%B7&oldid=5515918",
+      "section": "στόχευση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Track Self",
+      "value": "Παρακολούθηση του εαυτού",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%80%CE%B1%CF%81%CE%B1%CE%BA%CE%BF%CE%BB%CE%BF%CF%8D%CE%B8%CE%B7%CF%83%CE%B7&oldid=7082656",
+      "section": "παρακολούθηση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Track Self...",
+      "value": "Παρακολούθηση του εαυτού...",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%80%CE%B1%CF%81%CE%B1%CE%BA%CE%BF%CE%BB%CE%BF%CF%8D%CE%B8%CE%B7%CF%83%CE%B7&oldid=7082656",
+      "section": "παρακολούθηση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Infinity",
+      "value": "Άπειρο",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Χειροκίνητη εστίαση",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Auto Focus",
+      "value": "Αυτόματη εστίαση",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "Λειτουργία AF",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Manual Focus",
+      "value": "Χειροκίνητη εστίαση",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Χειροκίνητη εστίαση",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Χειροκίνητη εστίαση"
+    },
+    {
+      "key": "Macro",
+      "value": "Μάκρο",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Picture Style",
+      "value": "Στυλ εικόνας",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-03_Shooting-1_0110.html",
+      "section": "Επιλογή Στυλ Εικόνας",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Στυλ εικόνας"
+    },
+    {
+      "key": "Quick Selfie",
+      "value": "Γρήγορη selfie",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Extra...",
+      "value": "Άλλα...",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%86%CE%BB%CE%BB%CE%B1&oldid=6964968",
+      "section": "Άλλα",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Movie Mode",
+      "value": "Κατάσταση ταινίας",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7&oldid=7334699",
+      "section": "κατάσταση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Avatar-Drop",
+      "value": "Στερέωση στο avatar",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%83%CF%84%CE%B5%CF%81%CE%AD%CF%89%CF%83%CE%B7&oldid=7368960",
+      "section": "στερέωση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3D Mode",
+      "value": "Κατάσταση 3D",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7&oldid=7334699",
+      "section": "κατάσταση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Mount Swap",
+      "value": "Αλλαγή βάσης",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B1%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE&oldid=7336558",
+      "section": "αλλαγή",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hide Lens",
+      "value": "Απόκρυψη φακού",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B1%CF%80%CF%8C%CE%BA%CF%81%CF%85%CF%88%CE%B7&oldid=6934246",
+      "section": "απόκρυψη",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Increase",
+      "value": "Κλείσιμο διαφράγματος",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: AE με προτεραιότητα διαφράγματος",
+      "basis": "canon-adapted",
+      "note": "Close the diaphragm / increase f-number. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Decrease",
+      "value": "Άνοιγμα διαφράγματος",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: AE με προτεραιότητα διαφράγματος",
+      "basis": "canon-adapted",
+      "note": "Open the diaphragm / decrease f-number. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Sensor Type",
+      "value": "Μέγεθος αισθητήρα",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%BC%CE%AD%CE%B3%CE%B5%CE%B8%CE%BF%CF%82&oldid=7343685",
+      "section": "μέγεθος",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "DoF Mode",
+      "value": "Βάθος πεδίου",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: AE με προτεραιότητα διαφράγματος",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Av Dial",
+      "value": "Τιμή διαφράγματος",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: AE με προτεραιότητα διαφράγματος",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Τιμή διαφράγματος"
+    },
+    {
+      "key": "Bokeh Shape",
+      "value": "Σχήμα bokeh",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%83%CF%87%CE%AE%CE%BC%CE%B1&oldid=7317849",
+      "section": "σχήμα",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "V. Horizon",
+      "value": "Ηλεκτρονικό επίπεδο",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-03_Shooting-1_0430.html",
+      "section": "Εμφάνιση πληροφοριών λήψης",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Grid",
+      "value": "Πλέγμα",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-03_Shooting-1_0430.html",
+      "section": "Εμφάνιση πληροφοριών λήψης",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Πλέγμα"
+    },
+    {
+      "key": "Monitor",
+      "value": "Οθόνη",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-07_Set-up_0180.html",
+      "section": "Φωτεινότητα οθόνης",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move HUD",
+      "value": "Μετακίνηση HUD",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Peaking",
+      "value": "Κορύφωση MF",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Χειροκίνητη εστίαση",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hand-Rotate",
+      "value": "Περιστροφή με το χέρι",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%80%CE%B5%CF%81%CE%B9%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%AE&oldid=7344844",
+      "section": "περιστροφή",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Change Angle",
+      "value": "Αλλαγή προσανατολισμού",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B1%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE&oldid=7336558",
+      "section": "αλλαγή",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Tracking",
+      "value": "Παρακολούθηση",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "Επιλογή της περιοχής AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Παρακολούθηση"
+    },
+    {
+      "key": "Move Camera",
+      "value": "Μετακίνηση κάμερας",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drone Speed",
+      "value": "Ταχύτητα drone",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%84%CE%B1%CF%87%CF%8D%CF%84%CE%B7%CF%84%CE%B1&oldid=7329113",
+      "section": "ταχύτητα",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move Pivot",
+      "value": "Μετακίνηση σημείου περιστροφής",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Track Pivot",
+      "value": "Παρακολούθηση σημείου περιστροφής",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%80%CE%B1%CF%81%CE%B1%CE%BA%CE%BF%CE%BB%CE%BF%CF%8D%CE%B8%CE%B7%CF%83%CE%B7&oldid=7082656",
+      "section": "παρακολούθηση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smoothing",
+      "value": "Εξομάλυνση παρακολούθησης",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drop Pivot",
+      "value": "Τοποθέτηση σημείου περιστροφής",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Vertical Lock",
+      "value": "Κατακόρυφο κλείδωμα",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "EV Dial",
+      "value": "Διόρθωση έκθεσης",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Χειροκίνητη διόρθωση έκθεσης",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Auto Exposure",
+      "value": "Αυτόματη έκθεση",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: AE με προτεραιότητα διαφράγματος",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "White Bal.",
+      "value": "Ισορροπία λευκού",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-03_Shooting-1_0190.html",
+      "section": "Ισορροπία λευκού",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Ισορροπία λευκού"
+    },
+    {
+      "key": "Avatar AF",
+      "value": "Αυτόματη εστίαση στο avatar",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B5%CF%83%CF%84%CE%AF%CE%B1%CF%83%CE%B7&oldid=7340473",
+      "section": "εστίαση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move Focus",
+      "value": "Μετακίνηση εστίασης",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Pro Autofocus",
+      "value": "Προηγμένη αυτόματη εστίαση",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B5%CF%83%CF%84%CE%AF%CE%B1%CF%83%CE%B7&oldid=7340473",
+      "section": "εστίαση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Operation",
+      "value": "Λειτουργία AF",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "Λειτουργία AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "Λειτουργία AF"
+    },
+    {
+      "key": "AF Area",
+      "value": "Περιοχή AF",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "Επιλογή της περιοχής AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "Περιοχή AF"
+    },
+    {
+      "key": "Response",
+      "value": "Ευαισθησία παρακολούθησης",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "Χαρακτηριστικά Servo AF",
+      "basis": "canon-adapted",
+      "note": "AF tracking response sensitivity, not application response time. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drive Speed",
+      "value": "Ταχύτητα AF",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0100.html",
+      "section": "Προσαρμογή των λειτουργιών AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "Ταχύτητα AF"
+    },
+    {
+      "key": "AF-ON",
+      "value": "Ενεργοποίηση αυτόματης εστίασης",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "AF Lock",
+      "value": "Κλείδωμα εστίασης",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Guide",
+      "value": "Οδηγός εστίασης",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Χειροκίνητη εστίαση",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Οδηγός εστίασης"
+    },
+    {
+      "key": "One-Shot AF",
+      "value": "One-Shot AF",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "Λειτουργία AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "One-Shot AF"
+    },
+    {
+      "key": "Servo AF",
+      "value": "Servo AF",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "Λειτουργία AF",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "Servo AF"
+    },
+    {
+      "key": "Spot",
+      "value": "Σημειακή",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "Επιλογή της περιοχής AF",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zone",
+      "value": "Ζώνη",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "Επιλογή της περιοχής AF",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Avatar Priority",
+      "value": "Προτεραιότητα avatar",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%80%CF%81%CE%BF%CF%84%CE%B5%CF%81%CE%B1%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B1&oldid=7279078",
+      "section": "προτεραιότητα",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Locked-on",
+      "value": "Διατήρηση θέματος",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "Χαρακτηριστικά Servo AF",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Standard",
+      "value": "Τυπικό",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-03_Shooting-1_0110.html",
+      "section": "Επιλογή Στυλ Εικόνας",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Responsive",
+      "value": "Γρήγορη απόκριση",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "Χαρακτηριστικά Servo AF",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Custom",
+      "value": "Πρόσθετες λειτουργίες",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Far Clip Plane",
+      "value": "Μακρινό επίπεδο αποκοπής",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B5%CF%80%CE%AF%CF%80%CE%B5%CE%B4%CE%BF&oldid=7344366",
+      "section": "επίπεδο",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smooth DoF Edges",
+      "value": "Εξομάλυνση ορίων βάθους πεδίου",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Softness",
+      "value": "Απαλότητα",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smooth Rotate",
+      "value": "Ομαλή περιστροφή",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%80%CE%B5%CF%81%CE%B9%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%AE&oldid=7344844",
+      "section": "περιστροφή",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Anamorphic Bokeh",
+      "value": "Αναμορφικό bokeh",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Chromatic Aberration",
+      "value": "Χρωματική εκτροπή",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-03_Shooting-1_0220.html",
+      "section": "Διόρθωση παρέκκλισης του φακού",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Enabled",
+      "value": "Ενεργό",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Χειροκίνητη εστίαση",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Transverse CA",
+      "value": "Εγκάρσια χρωματική εκτροπή",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B5%CE%BA%CF%84%CF%81%CE%BF%CF%80%CE%AE&oldid=7354655",
+      "section": "εκτροπή",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Axial CA",
+      "value": "Αξονική χρωματική εκτροπή",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B5%CE%BA%CF%84%CF%81%CE%BF%CF%80%CE%AE&oldid=7354655",
+      "section": "εκτροπή",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Axial Focus-Aware",
+      "value": "Σύνδεση με την εστίαση",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%83%CF%8D%CE%BD%CE%B4%CE%B5%CF%83%CE%B7&oldid=5517287",
+      "section": "σύνδεση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Magenta-Green",
+      "value": "Ματζέντα-Πράσινο",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%80%CF%81%CE%AC%CF%83%CE%B9%CE%BD%CE%BF&oldid=7321163",
+      "section": "πράσινο",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color Grading",
+      "value": "Χρωματική διαβάθμιση",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B4%CE%B9%CE%B1%CE%B2%CE%AC%CE%B8%CE%BC%CE%B9%CF%83%CE%B7&oldid=7338237",
+      "section": "διαβάθμιση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Saturation",
+      "value": "Κορεσμός",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-03_Shooting-1_0120.html",
+      "section": "Προσαρμογή στυλ εικόνας",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Κορεσμός"
+    },
+    {
+      "key": "Vibrance",
+      "value": "Ζωντάνια",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B6%CF%89%CE%BD%CF%84%CE%AC%CE%BD%CE%B9%CE%B1&oldid=7377707",
+      "section": "ζωντάνια",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Contrast",
+      "value": "Αντίθεση",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-03_Shooting-1_0120.html",
+      "section": "Προσαρμογή στυλ εικόνας",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Αντίθεση"
+    },
+    {
+      "key": "Shadows",
+      "value": "Σκιές",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Midtones",
+      "value": "Μεσαίοι τόνοι",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%BC%CE%B5%CF%83%CE%B1%CE%AF%CE%BF%CE%B9&oldid=2981547",
+      "section": "μεσαίοι",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Highlights",
+      "value": "Φωτεινά σημεία",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%83%CE%B7%CE%BC%CE%B5%CE%AF%CE%B1&oldid=7356890",
+      "section": "σημεία",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Brightness",
+      "value": "Φωτεινότητα",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-07_Set-up_0180.html",
+      "section": "Φωτεινότητα οθόνης",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Φωτεινότητα"
+    },
+    {
+      "key": "Temperature",
+      "value": "Θερμοκρασία χρώματος",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-03_Shooting-1_0190.html",
+      "section": "Ισορροπία λευκού",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Θερμοκρασία χρώματος"
+    },
+    {
+      "key": "Red",
+      "value": "Κόκκινο",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Χειροκίνητη εστίαση",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Green",
+      "value": "Πράσινο",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Διόρθωση ισορροπίας λευκού",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Blue",
+      "value": "Μπλε",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Διόρθωση ισορροπίας λευκού",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Depth Fog",
+      "value": "Ομίχλη βάθους",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Density",
+      "value": "Πυκνότητα",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Start Distance",
+      "value": "Αρχική απόσταση",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B1%CF%80%CF%8C%CF%83%CF%84%CE%B1%CF%83%CE%B7&oldid=7124664",
+      "section": "απόσταση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color R",
+      "value": "Κόκκινο",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Χειροκίνητη εστίαση",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color G",
+      "value": "Πράσινο",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Διόρθωση ισορροπίας λευκού",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color B",
+      "value": "Μπλε",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Διόρθωση ισορροπίας λευκού",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Film Grain",
+      "value": "Κόκκος φιλμ",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%BA%CF%8C%CE%BA%CE%BA%CE%BF%CF%82&oldid=7361747",
+      "section": "κόκκος",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Intensity",
+      "value": "Ένταση",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%AD%CE%BD%CF%84%CE%B1%CF%83%CE%B7&oldid=7354511",
+      "section": "ένταση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Size",
+      "value": "Μέγεθος",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%BC%CE%AD%CE%B3%CE%B5%CE%B8%CE%BF%CF%82&oldid=7343685",
+      "section": "μέγεθος",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Speed",
+      "value": "Ταχύτητα",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%84%CE%B1%CF%87%CF%8D%CF%84%CE%B7%CF%84%CE%B1&oldid=7329113",
+      "section": "ταχύτητα",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Fisheye Lens",
+      "value": "Φακός fisheye",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%86%CE%B1%CE%BA%CF%8C%CF%82&oldid=7370069",
+      "section": "φακός",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Strength",
+      "value": "Ισχύς",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B9%CF%83%CF%87%CF%8D%CF%82&oldid=7332968",
+      "section": "ισχύς",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Roundness",
+      "value": "Στρογγυλότητα",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Lens Size",
+      "value": "Μέγεθος φακού",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%BC%CE%AD%CE%B3%CE%B5%CE%B8%CE%BF%CF%82&oldid=7343685",
+      "section": "μέγεθος",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Edge Softness",
+      "value": "Απαλότητα άκρων",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Reverse Fisheye",
+      "value": "Αντίστροφο fisheye",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Center",
+      "value": "Κέντρο",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%BA%CE%AD%CE%BD%CF%84%CF%81%CE%BF&oldid=7332763",
+      "section": "κέντρο",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "X",
+      "value": "Οριζόντια θέση",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B8%CE%AD%CF%83%CE%B7&oldid=7369249",
+      "section": "θέση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Y",
+      "value": "Κατακόρυφη θέση",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B8%CE%AD%CF%83%CE%B7&oldid=7369249",
+      "section": "θέση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Letterbox",
+      "value": "Κινηματογραφικές λωρίδες",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2.39:1 Cinemascope",
+      "value": "2.39:1 Cinemascope",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2.35:1 Anamorphic",
+      "value": "2.35:1 Αναμορφικό",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2.00:1 Univisium",
+      "value": "2.00:1 Univisium",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1.85:1 Theatrical",
+      "value": "1.85:1 Κινηματογράφος",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%BA%CE%B9%CE%BD%CE%B7%CE%BC%CE%B1%CF%84%CE%BF%CE%B3%CF%81%CE%AC%CF%86%CE%BF%CF%82&oldid=7356137",
+      "section": "κινηματογράφος",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "16:9 Widescreen",
+      "value": "16:9 Ευρεία οθόνη",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7&oldid=7345109",
+      "section": "οθόνη",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3:2 DSLR",
+      "value": "3:2 Ψηφιακή μονοοπτική ρεφλέξ",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4:3 Classic",
+      "value": "4:3 Κλασικό",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1:1 Square",
+      "value": "1:1 Τετράγωνο",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%84%CE%B5%CF%84%CF%81%CE%AC%CE%B3%CF%89%CE%BD%CE%BF&oldid=7375500",
+      "section": "τετράγωνο",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4:5 Portrait",
+      "value": "4:5 Πορτρέτο",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Portrait means vertical frame orientation here, never the portrait color preset.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "9:16 Vertical",
+      "value": "9:16 Κατακόρυφο",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Pixelation",
+      "value": "Εικονοστοιχειοποίηση",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Block Size",
+      "value": "Μέγεθος μπλοκ",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%BC%CE%AD%CE%B3%CE%B5%CE%B8%CE%BF%CF%82&oldid=7343685",
+      "section": "μέγεθος",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Dither",
+      "value": "Διάχυση χρώματος",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Posterize",
+      "value": "Αφισοποίηση",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Aspect Ratio",
+      "value": "Αναλογίες",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-03_Shooting-1_0040.html",
+      "section": "Κοπή/αναλογίες στατικών εικόνων",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Tilt-Shift",
+      "value": "Κλίση και μετατόπιση",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%BC%CE%B5%CF%84%CE%B1%CF%84%CF%8C%CF%80%CE%B9%CF%83%CE%B7&oldid=7371825",
+      "section": "μετατόπιση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Depth Mode",
+      "value": "Κατάσταση βάθους",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7&oldid=7334699",
+      "section": "κατάσταση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Blur",
+      "value": "Θόλωση",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Position",
+      "value": "Θέση",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B8%CE%AD%CF%83%CE%B7&oldid=7369249",
+      "section": "θέση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Width",
+      "value": "Πλάτος",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Angle",
+      "value": "Γωνία",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Vignette",
+      "value": "Βινιετάρισμα",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Radius",
+      "value": "Ακτίνα",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zoom Blur",
+      "value": "Θόλωση ζουμ",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Center X",
+      "value": "Οριζόντιο κέντρο",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%BA%CE%AD%CE%BD%CF%84%CF%81%CE%BF&oldid=7332763",
+      "section": "κέντρο",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Center Y",
+      "value": "Κατακόρυφο κέντρο",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%BA%CE%AD%CE%BD%CF%84%CF%81%CE%BF&oldid=7332763",
+      "section": "κέντρο",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Zone",
+      "value": "Ζώνη εστίασης",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B6%CF%8E%CE%BD%CE%B7&oldid=7331220",
+      "section": "ζώνη",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Spread",
+      "value": "Διασπορά",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Distance",
+      "value": "Απόσταση εστίασης",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B1%CF%80%CF%8C%CF%83%CF%84%CE%B1%CF%83%CE%B7&oldid=7124664",
+      "section": "απόσταση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Manual Focus Assist",
+      "value": "Βοήθεια χειροκίνητης εστίασης",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zone Size",
+      "value": "Μέγεθος ζώνης",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%BC%CE%AD%CE%B3%CE%B5%CE%B8%CE%BF%CF%82&oldid=7343685",
+      "section": "μέγεθος",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zone Softness",
+      "value": "Απαλότητα ζώνης",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Edge Feather",
+      "value": "Απαλότητα άκρων",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Peaking",
+      "value": "Επισήμανση περιγραμμάτων",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Χειροκίνητη εστίαση",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Max Blur Size",
+      "value": "Μέγιστο μέγεθος θόλωσης",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%BC%CE%AD%CE%B3%CE%B5%CE%B8%CE%BF%CF%82&oldid=7343685",
+      "section": "μέγεθος",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Player Visibility",
+      "value": "Ορατότητα παικτών",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hide Remote Players",
+      "value": "Απόκρυψη άλλων παικτών",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B1%CF%80%CF%8C%CE%BA%CF%81%CF%85%CF%88%CE%B7&oldid=6934246",
+      "section": "απόκρυψη",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hide Self",
+      "value": "Απόκρυψη εαυτού",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B1%CF%80%CF%8C%CE%BA%CF%81%CF%85%CF%88%CE%B7&oldid=6934246",
+      "section": "απόκρυψη",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Avatar Offset",
+      "value": "Μετατόπιση avatar",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%BC%CE%B5%CF%84%CE%B1%CF%84%CF%8C%CF%80%CE%B9%CF%83%CE%B7&oldid=7371825",
+      "section": "μετατόπιση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Rotate With Avatar",
+      "value": "Περιστροφή με το avatar",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%80%CE%B5%CF%81%CE%B9%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%AE&oldid=7344844",
+      "section": "περιστροφή",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drop (Reset to Hand)",
+      "value": "Επιστροφή στο χέρι",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%87%CE%AD%CF%81%CE%B9&oldid=7347958",
+      "section": "χέρι",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move Drone Vertical",
+      "value": "Κατακόρυφη μετακίνηση drone",
+      "source": "https://el.wiktionary.org/w/index.php?title=drone&oldid=7351331",
+      "section": "drone",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Camera Pins & Dolly",
+      "value": "Σημεία κάμερας και κίνηση τράβελινγκ",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%83%CE%B7%CE%BC%CE%B5%CE%AF%CE%B1&oldid=7356890",
+      "section": "σημεία",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Teleport",
+      "value": "Τηλεμεταφορά",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Dolly",
+      "value": "Τράβελινγκ",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Reset to Hand",
+      "value": "Επιστροφή στο χέρι",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%87%CE%AD%CF%81%CE%B9&oldid=7347958",
+      "section": "χέρι",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show Pins",
+      "value": "Εμφάνιση σημείων",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B5%CE%BC%CF%86%CE%AC%CE%BD%CE%B9%CF%83%CE%B7&oldid=7364084",
+      "section": "εμφάνιση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show Path",
+      "value": "Εμφάνιση διαδρομής",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B5%CE%BC%CF%86%CE%AC%CE%BD%CE%B9%CF%83%CE%B7&oldid=7364084",
+      "section": "εμφάνιση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show Numbers",
+      "value": "Εμφάνιση αριθμών",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B5%CE%BC%CF%86%CE%AC%CE%BD%CE%B9%CF%83%CE%B7&oldid=7364084",
+      "section": "εμφάνιση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Play",
+      "value": "Αναπαραγωγή",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-05_Playback_0070.html",
+      "section": "Αναπαραγωγή ταινίας",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Αναπαραγωγή"
+    },
+    {
+      "key": "Stop",
+      "value": "Διακοπή",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-05_Playback_0070.html",
+      "section": "Αναπαραγωγή ταινίας",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Playback",
+      "value": "Θέση αναπαραγωγής",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B8%CE%AD%CF%83%CE%B7&oldid=7369249",
+      "section": "θέση",
+      "basis": "dictionary-candidate",
+      "note": "Dolly playback position, not the camera image-review menu. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move",
+      "value": "Χειροκίνητη μετακίνηση",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Manual dolly movement. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Go To Pin",
+      "value": "Μετάβαση στο σημείο",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%83%CE%B7%CE%BC%CE%B5%CE%AF%CE%BF&oldid=7306417",
+      "section": "σημείο",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Duration",
+      "value": "Διάρκεια",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Loop",
+      "value": "Επανάληψη",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Delay",
+      "value": "Καθυστέρηση",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Path",
+      "value": "Διαδρομή",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hand Rotate (Pins)",
+      "value": "Περιστροφή σημείων με το χέρι",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%80%CE%B5%CF%81%CE%B9%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%AE&oldid=7344844",
+      "section": "περιστροφή",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hand Offset",
+      "value": "Μετατόπιση χεριού",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%BC%CE%B5%CF%84%CE%B1%CF%84%CF%8C%CF%80%CE%B9%CF%83%CE%B7&oldid=7371825",
+      "section": "μετατόπιση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drop Next",
+      "value": "Τοποθέτηση επόμενου σημείου",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Clear All (Hold)",
+      "value": "Εκκαθάριση όλων (παρατεταμένο πάτημα)",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Full",
+      "value": "Όλες οι κατευθύνσεις",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Vertical",
+      "value": "Μόνο κατακόρυφα",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Teleport Next",
+      "value": "Τηλεμεταφορά στο επόμενο σημείο",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B5%CF%80%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF&oldid=5309538",
+      "section": "επόμενο",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Reverse",
+      "value": "Μπρος και πίσω",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%80%CE%AF%CF%83%CF%89&oldid=5562200",
+      "section": "πίσω",
+      "basis": "dictionary-candidate",
+      "note": "Ping-pong playback, not reversed camera orientation. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Linear",
+      "value": "Γραμμική",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smooth",
+      "value": "Παρεμβολή σημείων",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Path through control points (interpolation). Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Fitted",
+      "value": "Προσαρμοσμένη καμπύλη",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Path approximating control points (fitted curve). Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Preset Saver",
+      "value": "Αποθήκευση προεπιλογών",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B1%CF%80%CE%BF%CE%B8%CE%AE%CE%BA%CE%B5%CF%85%CF%83%CE%B7&oldid=7341914",
+      "section": "αποθήκευση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Save",
+      "value": "Αποθήκευση",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-07_Set-up_0310.html",
+      "section": "Αποθήκευση/φόρτωση ρυθμίσεων μηχανής σε κάρτα",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Αποθήκευση"
+    },
+    {
+      "key": "Load",
+      "value": "Φόρτωση",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-07_Set-up_0310.html",
+      "section": "Αποθήκευση/φόρτωση ρυθμίσεων μηχανής σε κάρτα",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Φόρτωση"
+    },
+    {
+      "key": "Load Defaults",
+      "value": "Φόρτωση προεπιλεγμένων τιμών",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%86%CF%8C%CF%81%CF%84%CF%89%CF%83%CE%B7&oldid=7124810",
+      "section": "φόρτωση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Favorites",
+      "value": "Αγαπημένα",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ],
+  "directions": [
+    {
+      "key": "TOP",
+      "value": "Πάνω",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%80%CE%AC%CE%BD%CF%89&oldid=6978206",
+      "section": "πάνω",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "UP",
+      "value": "Πάνω",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%80%CE%AC%CE%BD%CF%89&oldid=6978206",
+      "section": "πάνω",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "RIGHT",
+      "value": "Δεξιά",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B4%CE%B5%CE%BE%CE%B9%CE%AC&oldid=7275425",
+      "section": "δεξιά",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "BOTTOM",
+      "value": "Κάτω",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%BA%CE%AC%CF%84%CF%89&oldid=7296745",
+      "section": "κάτω",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "DOWN",
+      "value": "Κάτω",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%BA%CE%AC%CF%84%CF%89&oldid=7296745",
+      "section": "κάτω",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "LEFT",
+      "value": "Αριστερά",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B1%CF%81%CE%B9%CF%83%CF%84%CE%B5%CF%81%CE%AC&oldid=7124164",
+      "section": "αριστερά",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "FORWARD",
+      "value": "Εμπρός",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "BACK",
+      "value": "Πίσω",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%80%CE%AF%CF%83%CF%89&oldid=5562200",
+      "section": "πίσω",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    }
+  ],
+  "dynamic": [
+    {
+      "key": "Next",
+      "value": "Επόμενο",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B5%CF%80%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF&oldid=5309538",
+      "section": "επόμενο",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "CameraPin",
+      "value": "Σημείο {0}",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%83%CE%B7%CE%BC%CE%B5%CE%AF%CE%BF&oldid=7306417",
+      "section": "σημείο",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Seconds",
+      "value": "{0} s",
+      "source": "https://www.bipm.org/en/publications/si-brochure",
+      "section": "SI Brochure — second (s); non-SI units accepted for use with SI: minute (min)",
+      "basis": "standard-identifier",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. International unit symbols with a space after the numerical value. Not an ad-hoc width abbreviation; number placement remains catalog data.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Minutes",
+      "value": "{0} min",
+      "source": "https://www.bipm.org/en/publications/si-brochure",
+      "section": "SI Brochure — second (s); non-SI units accepted for use with SI: minute (min)",
+      "basis": "standard-identifier",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. International unit symbols with a space after the numerical value. Not an ad-hoc width abbreviation; number placement remains catalog data.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "WorldDrop",
+      "value": "Στερέωση στον κόσμο",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%83%CF%84%CE%B5%CF%81%CE%AD%CF%89%CF%83%CE%B7&oldid=7368960",
+      "section": "στερέωση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "CameraPinDrop",
+      "value": "Τοποθέτηση σημείου",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "VignetteSoftness",
+      "value": "Απαλότητα άκρων",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "FisheyeCenterX",
+      "value": "Οριζόντια θέση",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B8%CE%AD%CF%83%CE%B7&oldid=7369249",
+      "section": "θέση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "FisheyeCenterY",
+      "value": "Κατακόρυφη θέση",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CE%B8%CE%AD%CF%83%CE%B7&oldid=7369249",
+      "section": "θέση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "ZoomInSpeed4",
+      "value": "Ταχύτητα τηλεφακού 4",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%84%CE%B1%CF%87%CF%8D%CF%84%CE%B7%CF%84%CE%B1&oldid=7329113",
+      "section": "ταχύτητα",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "ZoomOutSpeed4",
+      "value": "Ταχύτητα ευρυγώνιου 4",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%84%CE%B1%CF%87%CF%8D%CF%84%CE%B7%CF%84%CE%B1&oldid=7329113",
+      "section": "ταχύτητα",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    }
+  ],
+  "featureBlanks": [
+    {
+      "key": "100",
+      "value": "Ταχύτητα ευρυγώνιου 1",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%84%CE%B1%CF%87%CF%8D%CF%84%CE%B7%CF%84%CE%B1&oldid=7329113",
+      "section": "ταχύτητα",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "101",
+      "value": "Ταχύτητα ευρυγώνιου 2",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%84%CE%B1%CF%87%CF%8D%CF%84%CE%B7%CF%84%CE%B1&oldid=7329113",
+      "section": "ταχύτητα",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "102",
+      "value": "Ταχύτητα ευρυγώνιου 3",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%84%CE%B1%CF%87%CF%8D%CF%84%CE%B7%CF%84%CE%B1&oldid=7329113",
+      "section": "ταχύτητα",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "104",
+      "value": "Ταχύτητα τηλεφακού 1",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%84%CE%B1%CF%87%CF%8D%CF%84%CE%B7%CF%84%CE%B1&oldid=7329113",
+      "section": "ταχύτητα",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "105",
+      "value": "Ταχύτητα τηλεφακού 2",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%84%CE%B1%CF%87%CF%8D%CF%84%CE%B7%CF%84%CE%B1&oldid=7329113",
+      "section": "ταχύτητα",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "106",
+      "value": "Ταχύτητα τηλεφακού 3",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%84%CE%B1%CF%87%CF%8D%CF%84%CE%B7%CF%84%CE%B1&oldid=7329113",
+      "section": "ταχύτητα",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "108",
+      "value": "Διόρθωση έκθεσης −1/3 στοπ",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Χειροκίνητη διόρθωση έκθεσης",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "110",
+      "value": "Διόρθωση έκθεσης +1/3 στοπ",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Χειροκίνητη διόρθωση έκθεσης",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "113",
+      "value": "Διόρθωση ισορροπίας λευκού: μπλε",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Διόρθωση ισορροπίας λευκού",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "114",
+      "value": "Διόρθωση ισορροπίας λευκού: επαναφορά",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Διόρθωση ισορροπίας λευκού",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "115",
+      "value": "Διόρθωση ισορροπίας λευκού: κεχριμπαρί",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Διόρθωση ισορροπίας λευκού",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "117",
+      "value": "Προς τα κοντά: μεσαίο βήμα",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Χειροκίνητη εστίαση",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "118",
+      "value": "Προς τα κοντά: μικρό βήμα",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Χειροκίνητη εστίαση",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "120",
+      "value": "Προς το άπειρο: μικρό βήμα",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Χειροκίνητη εστίαση",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "121",
+      "value": "Προς το άπειρο: μεσαίο βήμα",
+      "source": "https://cam.start.canon/el/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Χειροκίνητη εστίαση",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "129",
+      "value": "Στόχευση λίγο προς τα πάνω",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%83%CF%84%CF%8C%CF%87%CE%B5%CF%85%CF%83%CE%B7&oldid=5515918",
+      "section": "στόχευση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "130",
+      "value": "Στόχευση λίγο προς τα κάτω",
+      "source": "https://el.wiktionary.org/w/index.php?title=%CF%83%CF%84%CF%8C%CF%87%CE%B5%CF%85%CF%83%CE%B7&oldid=5515918",
+      "section": "στόχευση",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    }
+  ],
+  "sensorBlanks": [
+    {
+      "key": "0",
+      "value": "Πλήρες καρέ 35 mm",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1",
+      "value": "APS-H",
+      "source": "https://asia.canon/en/support/8201524100",
+      "section": "35mm-equivalent focal length — image sensor size table",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2",
+      "value": "APS-C (1.5×)",
+      "source": "https://asia.canon/en/support/8201524100",
+      "section": "35mm-equivalent focal length — image sensor size table",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3",
+      "value": "APS-C (1.6×)",
+      "source": "https://asia.canon/en/support/8201524100",
+      "section": "35mm-equivalent focal length — image sensor size table",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4",
+      "value": "Micro Four Thirds",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "5",
+      "value": "Τύπος 1,0",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ],
+  "tonemapBlanks": [
+    {
+      "key": "0",
+      "value": "Ανενεργό",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1",
+      "value": "Κινηματογραφικό 1",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2",
+      "value": "Κινηματογραφικό 2",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3",
+      "value": "HLG",
+      "source": "https://cam.start.canon/en/C017/manual/html/UG-03_Shooting-1_0390.html",
+      "section": "View Assist Display Conditions — Hybrid Log-Gamma",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4",
+      "value": "Ουδέτερο",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ]
+}

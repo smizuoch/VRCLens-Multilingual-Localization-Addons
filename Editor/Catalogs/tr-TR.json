@@ -1,0 +1,2293 @@
+{
+  "localeCode": "tr-TR",
+  "nativeName": "Türkçe",
+  "names": [
+    {
+      "key": "Enable",
+      "value": "Etkinleştir",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuel Odak",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Advanced",
+      "value": "Gelişmiş",
+      "source": "https://tr.wiktionary.org/w/index.php?title=geli%C5%9Fmi%C5%9F&oldid=3944931",
+      "section": "gelişmiş",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zoom",
+      "value": "Zum",
+      "source": "https://tr.wiktionary.org/w/index.php?title=zum&oldid=5258601",
+      "section": "zum",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drone",
+      "value": "Dron",
+      "source": "https://tr.wiktionary.org/w/index.php?title=Dron&oldid=4578819",
+      "section": "Dron",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Settings",
+      "value": "Ayarlar",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-07_Set-up_0290.html",
+      "section": "Kamerayı Sıfırlama",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Ayarlar"
+    },
+    {
+      "key": "Focus",
+      "value": "Odak",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuel Odak",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Odak"
+    },
+    {
+      "key": "Reset",
+      "value": "Sıfırla",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-07_Set-up_0290.html",
+      "section": "Kamerayı Sıfırlama",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Sıfırla"
+    },
+    {
+      "key": "Exposure",
+      "value": "Pozlama",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Manuel Poz Telafisi",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Filters",
+      "value": "Filtreler",
+      "source": "https://tr.wiktionary.org/w/index.php?title=filtreler&oldid=5602850",
+      "section": "filtreler",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Stabilize",
+      "value": "Görüntü Sabitleyici",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-03_Shooting-1_0330.html",
+      "section": "Görüntü Sabitleyici (IS Modu)",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Görüntü Sabitleyici"
+    },
+    {
+      "key": "Aperture",
+      "value": "Diyafram",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: Diyafram Öncelikli AE",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Diyafram"
+    },
+    {
+      "key": "Portrait",
+      "value": "Dikey yönlendirme",
+      "source": "https://tr.wiktionary.org/w/index.php?title=y%C3%B6nlendirme&oldid=4251417",
+      "section": "yönlendirme",
+      "basis": "dictionary-candidate",
+      "note": "Camera orientation, not a portrait picture-style preset. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Portrait means vertical frame orientation here, never the portrait color preset.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Display",
+      "value": "Görüntüleme",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-03_Shooting-1_0430.html",
+      "section": "Çekim Bilgileri Ekranı",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Görüntüleme"
+    },
+    {
+      "key": "Normal",
+      "value": "Normal",
+      "source": "https://tr.wiktionary.org/w/index.php?title=normal&oldid=5253781",
+      "section": "normal",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Depth Cool",
+      "value": "Soğuk derinlik",
+      "source": "https://tr.wiktionary.org/w/index.php?title=derinlik&oldid=5685494",
+      "section": "derinlik",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Depth Cute",
+      "value": "Yumuşak derinlik",
+      "source": "https://tr.wiktionary.org/w/index.php?title=derinlik&oldid=5685494",
+      "section": "derinlik",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Spotlight",
+      "value": "Spot ışığı",
+      "source": "https://tr.wiktionary.org/w/index.php?title=%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1&oldid=5178795",
+      "section": "ışığı",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Green Back",
+      "value": "Yeşil arka plan",
+      "source": "https://tr.wiktionary.org/w/index.php?title=ye%C5%9Fil&oldid=5692291",
+      "section": "yeşil",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Blue Back",
+      "value": "Mavi arka plan",
+      "source": "https://tr.wiktionary.org/w/index.php?title=mavi&oldid=5692293",
+      "section": "mavi",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "RIGHT",
+      "value": "Sağ",
+      "source": "https://tr.wiktionary.org/w/index.php?title=sa%C4%9F&oldid=5704432",
+      "section": "sağ",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "UP",
+      "value": "Yukarı",
+      "source": "https://tr.wiktionary.org/w/index.php?title=yukar%C4%B1&oldid=5707618",
+      "section": "yukarı",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "DOWN",
+      "value": "Aşağı",
+      "source": "https://tr.wiktionary.org/w/index.php?title=a%C5%9Fa%C4%9F%C4%B1&oldid=5684745",
+      "section": "aşağı",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "LEFT",
+      "value": "Sol",
+      "source": "https://tr.wiktionary.org/w/index.php?title=Sol&oldid=4371407",
+      "section": "Sol",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show/Hide",
+      "value": "Göster/Gizle",
+      "source": "https://tr.wiktionary.org/w/index.php?title=g%C3%B6ster&oldid=4248475",
+      "section": "göster",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color",
+      "value": "Renk",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuel Odak",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Renk"
+    },
+    {
+      "key": "Hexagon",
+      "value": "Altıgen",
+      "source": "https://tr.wiktionary.org/w/index.php?title=alt%C4%B1gen&oldid=3983282",
+      "section": "altıgen",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Octagon",
+      "value": "Sekizgen",
+      "source": "https://tr.wiktionary.org/w/index.php?title=sekizgen&oldid=4302069",
+      "section": "sekizgen",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Square",
+      "value": "Kare",
+      "source": "https://tr.wiktionary.org/w/index.php?title=Kare&oldid=4592807",
+      "section": "Kare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look At Face",
+      "value": "Yüze yönelt",
+      "source": "https://tr.wiktionary.org/w/index.php?title=y%C3%B6nelt&oldid=5391253",
+      "section": "yönelt",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look Up",
+      "value": "Yukarı yönelt",
+      "source": "https://tr.wiktionary.org/w/index.php?title=yukar%C4%B1&oldid=5707618",
+      "section": "yukarı",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look Down",
+      "value": "Aşağı yönelt",
+      "source": "https://tr.wiktionary.org/w/index.php?title=y%C3%B6nelt&oldid=5391253",
+      "section": "yönelt",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Look At Feet",
+      "value": "Ayaklara yönelt",
+      "source": "https://tr.wiktionary.org/w/index.php?title=y%C3%B6nelt&oldid=5391253",
+      "section": "yönelt",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Track Self",
+      "value": "Kendini takip et",
+      "source": "https://tr.wiktionary.org/w/index.php?title=takip&oldid=5245880",
+      "section": "takip",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Track Self...",
+      "value": "Kendini takip et...",
+      "source": "https://tr.wiktionary.org/w/index.php?title=takip&oldid=5245880",
+      "section": "takip",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Infinity",
+      "value": "Sonsuz",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuel Odak",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Sonsuz"
+    },
+    {
+      "key": "Auto Focus",
+      "value": "Otomatik odak",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "AF İşlemi",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Manual Focus",
+      "value": "Manuel Odak",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuel Odak",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Manuel Odak"
+    },
+    {
+      "key": "Macro",
+      "value": "Makro",
+      "source": "https://tr.wiktionary.org/w/index.php?title=makro&oldid=5710906",
+      "section": "makro",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Picture Style",
+      "value": "Resim Stili",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-03_Shooting-1_0110.html",
+      "section": "Fotoğraf Stili Seçimi",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Quick Selfie",
+      "value": "Hızlı özçekim",
+      "source": "https://tr.wiktionary.org/w/index.php?title=%C3%B6z%C3%A7ekim&oldid=3796489",
+      "section": "özçekim",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Extra...",
+      "value": "Diğer...",
+      "source": "https://tr.wiktionary.org/w/index.php?title=di%C4%9Fer&oldid=5258721",
+      "section": "diğer",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Movie Mode",
+      "value": "Video modu",
+      "source": "https://tr.wiktionary.org/w/index.php?title=Video&oldid=5228257",
+      "section": "Video",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Avatar-Drop",
+      "value": "Avatara sabitle",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3D Mode",
+      "value": "3D modu",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Mount Swap",
+      "value": "Bağlantı yerini değiştir",
+      "source": "https://tr.wiktionary.org/w/index.php?title=ba%C4%9Flant%C4%B1&oldid=5684211",
+      "section": "bağlantı",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hide Lens",
+      "value": "Lensi gizle",
+      "source": "https://tr.wiktionary.org/w/index.php?title=Lensi&oldid=4606124",
+      "section": "Lensi",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Increase",
+      "value": "Diyaframı kapat",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: Diyafram Öncelikli AE",
+      "basis": "canon-adapted",
+      "note": "Close the diaphragm / increase f-number. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Decrease",
+      "value": "Diyaframı aç",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: Diyafram Öncelikli AE",
+      "basis": "canon-adapted",
+      "note": "Open the diaphragm / decrease f-number. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Sensor Type",
+      "value": "Sensör boyutu",
+      "source": "https://tr.wiktionary.org/w/index.php?title=sens%C3%B6r&oldid=5668446",
+      "section": "sensör",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "DoF Mode",
+      "value": "Alan derinliği",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: Diyafram Öncelikli AE",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Alan derinliği"
+    },
+    {
+      "key": "Av Dial",
+      "value": "Diyafram değeri",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: Diyafram Öncelikli AE",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Diyafram değeri"
+    },
+    {
+      "key": "Bokeh Shape",
+      "value": "Bokeh şekli",
+      "source": "https://tr.wiktionary.org/w/index.php?title=%C5%9Fekli&oldid=4518691",
+      "section": "şekli",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "V. Horizon",
+      "value": "Elektronik seviye",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-03_Shooting-1_0430.html",
+      "section": "Çekim Bilgileri Ekranı",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Elektronik seviye"
+    },
+    {
+      "key": "Grid",
+      "value": "Kılavuz",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-03_Shooting-1_0430.html",
+      "section": "Çekim Bilgileri Ekranı",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Kılavuz"
+    },
+    {
+      "key": "Monitor",
+      "value": "Monitör",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-07_Set-up_0180.html",
+      "section": "Ekran Parlaklığı",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move HUD",
+      "value": "HUD'ı taşı",
+      "source": "https://tr.wiktionary.org/w/index.php?title=ta%C5%9F%C4%B1&oldid=4315631",
+      "section": "taşı",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Peaking",
+      "value": "MF Artırma",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuel Odak",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "MF Artırma"
+    },
+    {
+      "key": "Hand-Rotate",
+      "value": "Elle döndür",
+      "source": "https://tr.wiktionary.org/w/index.php?title=d%C3%B6nd%C3%BCr&oldid=4248501",
+      "section": "döndür",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Change Angle",
+      "value": "Yönlendirmeyi değiştir",
+      "source": "https://tr.wiktionary.org/w/index.php?title=y%C3%B6nlendirmeyi&oldid=4875980",
+      "section": "yönlendirmeyi",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Tracking",
+      "value": "Takip",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "AF Alanını Seçme",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Takip"
+    },
+    {
+      "key": "Move Camera",
+      "value": "Kamerayı taşı",
+      "source": "https://tr.wiktionary.org/w/index.php?title=kameray%C4%B1&oldid=4767993",
+      "section": "kamerayı",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drone Speed",
+      "value": "Dron hızı",
+      "source": "https://tr.wiktionary.org/w/index.php?title=Dron&oldid=4578819",
+      "section": "Dron",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move Pivot",
+      "value": "Dönme noktasını taşı",
+      "source": "https://tr.wiktionary.org/w/index.php?title=D%C3%B6nme&oldid=3868715",
+      "section": "Dönme",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Track Pivot",
+      "value": "Dönme noktasını takip et",
+      "source": "https://tr.wiktionary.org/w/index.php?title=D%C3%B6nme&oldid=3868715",
+      "section": "Dönme",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smoothing",
+      "value": "Takibi yumuşat",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drop Pivot",
+      "value": "Dönme noktası yerleştir",
+      "source": "https://tr.wiktionary.org/w/index.php?title=yerle%C5%9Ftir&oldid=4879102",
+      "section": "yerleştir",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Vertical Lock",
+      "value": "Dikey kilit",
+      "source": "https://tr.wiktionary.org/w/index.php?title=dikey&oldid=5618690",
+      "section": "dikey",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "EV Dial",
+      "value": "Poz Telafisi",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Manuel Poz Telafisi",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Poz Telafisi"
+    },
+    {
+      "key": "Auto Exposure",
+      "value": "Otomatik pozlama",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "Av: Diyafram Öncelikli AE",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "White Bal.",
+      "value": "Beyaz Ayarı",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-03_Shooting-1_0190.html",
+      "section": "Beyaz Ayarı",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Beyaz Ayarı"
+    },
+    {
+      "key": "Avatar AF",
+      "value": "Avatara otomatik odak",
+      "source": "https://tr.wiktionary.org/w/index.php?title=otomatik&oldid=5259406",
+      "section": "otomatik",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move Focus",
+      "value": "Odağı taşı",
+      "source": "https://tr.wiktionary.org/w/index.php?title=ta%C5%9F%C4%B1&oldid=4315631",
+      "section": "taşı",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Pro Autofocus",
+      "value": "Gelişmiş otomatik odak",
+      "source": "https://tr.wiktionary.org/w/index.php?title=geli%C5%9Fmi%C5%9F&oldid=3944931",
+      "section": "gelişmiş",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Operation",
+      "value": "AF İşlemi",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "AF İşlemi",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "AF İşlemi"
+    },
+    {
+      "key": "AF Area",
+      "value": "AF Alanı",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "AF Alanını Seçme",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "AF Alanı"
+    },
+    {
+      "key": "Response",
+      "value": "Takip hassasiyeti",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "Servo AF Karakteristikleri",
+      "basis": "canon-exact",
+      "note": "AF tracking response sensitivity, not application response time. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Takip hassasiyeti"
+    },
+    {
+      "key": "Drive Speed",
+      "value": "AF Hızı",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0100.html",
+      "section": "AF İşlevlerini Özelleştirme",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "AF-ON",
+      "value": "Otomatik odağı etkinleştir",
+      "source": "https://tr.wiktionary.org/w/index.php?title=otomatik&oldid=5259406",
+      "section": "otomatik",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "AF Lock",
+      "value": "Odağı kilitle",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Guide",
+      "value": "Odak Rehberi",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuel Odak",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Odak Rehberi"
+    },
+    {
+      "key": "One-Shot AF",
+      "value": "Tek Çekim AF",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "AF İşlemi",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "Tek Çekim AF"
+    },
+    {
+      "key": "Servo AF",
+      "value": "Servo AF",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "AF İşlemi",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": "Servo AF"
+    },
+    {
+      "key": "Spot",
+      "value": "Nokta",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "AF Alanını Seçme",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Nokta"
+    },
+    {
+      "key": "Zone",
+      "value": "Bölge",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0060.html",
+      "section": "AF Alanını Seçme",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Bölge"
+    },
+    {
+      "key": "Avatar Priority",
+      "value": "Avatar önceliği",
+      "source": "https://tr.wiktionary.org/w/index.php?title=avatar&oldid=3832352",
+      "section": "avatar",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Locked-on",
+      "value": "Konuyu koru",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "Servo AF Karakteristikleri",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Standard",
+      "value": "Standart",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-03_Shooting-1_0110.html",
+      "section": "Fotoğraf Stili Seçimi",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Standart"
+    },
+    {
+      "key": "Responsive",
+      "value": "Hızlı tepki",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "Servo AF Karakteristikleri",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Custom",
+      "value": "Ek işlevler",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Far Clip Plane",
+      "value": "Uzak kırpma düzlemi",
+      "source": "https://tr.wiktionary.org/w/index.php?title=k%C4%B1rpma&oldid=4450572",
+      "section": "kırpma",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smooth DoF Edges",
+      "value": "Alan derinliği kenarlarını yumuşat",
+      "source": "https://tr.wiktionary.org/w/index.php?title=Alan&oldid=4214994",
+      "section": "Alan",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Softness",
+      "value": "Yumuşaklık",
+      "source": "https://tr.wiktionary.org/w/index.php?title=yumu%C5%9Fakl%C4%B1k&oldid=4327823",
+      "section": "yumuşaklık",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smooth Rotate",
+      "value": "Yumuşak döndürme",
+      "source": "https://tr.wiktionary.org/w/index.php?title=d%C3%B6nd%C3%BCrme&oldid=4175002",
+      "section": "döndürme",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Anamorphic Bokeh",
+      "value": "Anamorfik bokeh",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Chromatic Aberration",
+      "value": "Renk sapması",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-03_Shooting-1_0220.html",
+      "section": "Lens Bozulma Düzeltmesi",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Enabled",
+      "value": "Etkin",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuel Odak",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Transverse CA",
+      "value": "Enine renk sapması",
+      "source": "https://tr.wiktionary.org/w/index.php?title=sapmas%C4%B1&oldid=4675547",
+      "section": "sapması",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Axial CA",
+      "value": "Boyuna renk sapması",
+      "source": "https://tr.wiktionary.org/w/index.php?title=sapmas%C4%B1&oldid=4675547",
+      "section": "sapması",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Axial Focus-Aware",
+      "value": "Odağa bağlı",
+      "source": "https://tr.wiktionary.org/w/index.php?title=ba%C4%9Fl%C4%B1&oldid=5684679",
+      "section": "bağlı",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Magenta-Green",
+      "value": "Macenta-Yeşil",
+      "source": "https://tr.wiktionary.org/w/index.php?title=ye%C5%9Fil&oldid=5692291",
+      "section": "yeşil",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color Grading",
+      "value": "Renk derecelendirme",
+      "source": "https://tr.wiktionary.org/w/index.php?title=Renk&oldid=4624336",
+      "section": "Renk",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Saturation",
+      "value": "Doygunluk",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-03_Shooting-1_0120.html",
+      "section": "Fotoğraf Stilini Özelleştirme",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Doygunluk"
+    },
+    {
+      "key": "Vibrance",
+      "value": "Canlılık",
+      "source": "https://tr.wiktionary.org/w/index.php?title=canl%C4%B1l%C4%B1k&oldid=5243269",
+      "section": "canlılık",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Contrast",
+      "value": "Kontrast",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-03_Shooting-1_0120.html",
+      "section": "Fotoğraf Stilini Özelleştirme",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Kontrast"
+    },
+    {
+      "key": "Shadows",
+      "value": "Gölgeler",
+      "source": "https://tr.wiktionary.org/w/index.php?title=g%C3%B6lgeler&oldid=4279247",
+      "section": "gölgeler",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Midtones",
+      "value": "Orta tonlar",
+      "source": "https://tr.wiktionary.org/w/index.php?title=Orta&oldid=5655086",
+      "section": "Orta",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Highlights",
+      "value": "Açık tonlar",
+      "source": "https://tr.wiktionary.org/w/index.php?title=A%C3%A7%C4%B1k&oldid=5702123",
+      "section": "Açık",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Brightness",
+      "value": "Parlaklık",
+      "source": "https://helpx.adobe.com/tr/photoshop/using/filter-effects-reference.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Parlaklık"
+    },
+    {
+      "key": "Temperature",
+      "value": "Renk Sıcaklığı",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-03_Shooting-1_0190.html",
+      "section": "Beyaz Ayarı",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Renk Sıcaklığı"
+    },
+    {
+      "key": "Red",
+      "value": "Kırmızı",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuel Odak",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Green",
+      "value": "Yeşil",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Beyaz Ayarı Düzeltmesi",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Yeşil"
+    },
+    {
+      "key": "Blue",
+      "value": "Mavi",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Beyaz Ayarı Düzeltmesi",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Mavi"
+    },
+    {
+      "key": "Depth Fog",
+      "value": "Derinlik sisi",
+      "source": "https://tr.wiktionary.org/w/index.php?title=derinlik&oldid=5685494",
+      "section": "derinlik",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Density",
+      "value": "Yoğunluk",
+      "source": "https://tr.wiktionary.org/w/index.php?title=yo%C4%9Funluk&oldid=5604122",
+      "section": "yoğunluk",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Start Distance",
+      "value": "Başlangıç uzaklığı",
+      "source": "https://tr.wiktionary.org/w/index.php?title=ba%C5%9Flang%C4%B1%C3%A7&oldid=5684783",
+      "section": "başlangıç",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color R",
+      "value": "Kırmızı",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuel Odak",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Color G",
+      "value": "Yeşil",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Beyaz Ayarı Düzeltmesi",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Yeşil"
+    },
+    {
+      "key": "Color B",
+      "value": "Mavi",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Beyaz Ayarı Düzeltmesi",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Mavi"
+    },
+    {
+      "key": "Film Grain",
+      "value": "Film Greni",
+      "source": "https://helpx.adobe.com/tr/photoshop/using/filter-effects-reference.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Film Greni"
+    },
+    {
+      "key": "Intensity",
+      "value": "Yoğunluk",
+      "source": "https://tr.wiktionary.org/w/index.php?title=yo%C4%9Funluk&oldid=5604122",
+      "section": "yoğunluk",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Size",
+      "value": "Boyut",
+      "source": "https://helpx.adobe.com/tr/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Boyut"
+    },
+    {
+      "key": "Speed",
+      "value": "Hız",
+      "source": "https://helpx.adobe.com/tr/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Hız"
+    },
+    {
+      "key": "Fisheye Lens",
+      "value": "Balıkgözü lens",
+      "source": "https://tr.wiktionary.org/w/index.php?title=bal%C4%B1kg%C3%B6z%C3%BC&oldid=5241047",
+      "section": "balıkgözü",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Strength",
+      "value": "Güç",
+      "source": "https://tr.wiktionary.org/w/index.php?title=g%C3%BC%C3%A7&oldid=5245212",
+      "section": "güç",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Roundness",
+      "value": "Yuvarlaklık",
+      "source": "https://tr.wiktionary.org/w/index.php?title=yuvarlakl%C4%B1k&oldid=4327995",
+      "section": "yuvarlaklık",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Lens Size",
+      "value": "Lens boyutu",
+      "source": "https://tr.wiktionary.org/w/index.php?title=lens&oldid=5262278",
+      "section": "lens",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Edge Softness",
+      "value": "Kenar yumuşatma",
+      "source": "https://helpx.adobe.com/tr/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": "Kenar yumuşatma"
+    },
+    {
+      "key": "Reverse Fisheye",
+      "value": "Ters balıkgözü",
+      "source": "https://tr.wiktionary.org/w/index.php?title=bal%C4%B1kg%C3%B6z%C3%BC&oldid=5241047",
+      "section": "balıkgözü",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Center",
+      "value": "Merkez",
+      "source": "https://helpx.adobe.com/tr/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Merkez"
+    },
+    {
+      "key": "X",
+      "value": "Yatay konum",
+      "source": "https://tr.wiktionary.org/w/index.php?title=yatay&oldid=5618689",
+      "section": "yatay",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Y",
+      "value": "Dikey konum",
+      "source": "https://tr.wiktionary.org/w/index.php?title=dikey&oldid=5618690",
+      "section": "dikey",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Letterbox",
+      "value": "Sinema şeritleri",
+      "source": "https://tr.wiktionary.org/w/index.php?title=%C5%9Feritleri&oldid=4127502",
+      "section": "şeritleri",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2.39:1 Cinemascope",
+      "value": "2.39:1 Sinemaskop",
+      "source": "https://tr.wiktionary.org/w/index.php?title=sinemaskop&oldid=5636013",
+      "section": "sinemaskop",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2.35:1 Anamorphic",
+      "value": "2.35:1 Anamorfik",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2.00:1 Univisium",
+      "value": "2.00:1 Univisium",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1.85:1 Theatrical",
+      "value": "1.85:1 Sinema",
+      "source": "https://tr.wiktionary.org/w/index.php?title=Sinema&oldid=4628117",
+      "section": "Sinema",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "16:9 Widescreen",
+      "value": "16:9 Geniş ekran",
+      "source": "https://tr.wiktionary.org/w/index.php?title=Geni%C5%9F&oldid=4345410",
+      "section": "Geniş",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3:2 DSLR",
+      "value": "3:2 Dijital tek lensli refleks",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4:3 Classic",
+      "value": "4:3 Klasik",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1:1 Square",
+      "value": "1:1 Kare",
+      "source": "https://tr.wiktionary.org/w/index.php?title=Kare&oldid=4592807",
+      "section": "Kare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4:5 Portrait",
+      "value": "4:5 Portre",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Portrait means vertical frame orientation here, never the portrait color preset.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "9:16 Vertical",
+      "value": "9:16 Dikey",
+      "source": "https://tr.wiktionary.org/w/index.php?title=dikey&oldid=5618690",
+      "section": "dikey",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Pixelation",
+      "value": "Pikselleştirme",
+      "source": "https://helpx.adobe.com/tr/photoshop/using/filter-effects-reference.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Pikselleştirme"
+    },
+    {
+      "key": "Block Size",
+      "value": "Blok boyutu",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Dither",
+      "value": "Titreme",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Posterize",
+      "value": "Posterleştir",
+      "source": "https://helpx.adobe.com/tr/photoshop/using/filter-effects-reference.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Posterleştir"
+    },
+    {
+      "key": "Aspect Ratio",
+      "value": "En/Boy Oranı",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-03_Shooting-1_0040.html",
+      "section": "Fotoğraf Kırpma/En-Boy Oranı",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Tilt-Shift",
+      "value": "Eğme ve kaydırma",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Depth Mode",
+      "value": "Derinlik modu",
+      "source": "https://tr.wiktionary.org/w/index.php?title=derinlik&oldid=5685494",
+      "section": "derinlik",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Blur",
+      "value": "Bulanıklaştırma",
+      "source": "https://helpx.adobe.com/tr/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Bulanıklaştırma"
+    },
+    {
+      "key": "Position",
+      "value": "Konum",
+      "source": "https://tr.wiktionary.org/w/index.php?title=konum&oldid=5699708",
+      "section": "konum",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Width",
+      "value": "Genişlik",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Angle",
+      "value": "Açı",
+      "source": "https://helpx.adobe.com/tr/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Açı"
+    },
+    {
+      "key": "Vignette",
+      "value": "Vinyet",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Radius",
+      "value": "Yarıçap",
+      "source": "https://helpx.adobe.com/tr/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation.",
+      "sourceTerm": "Yarıçap"
+    },
+    {
+      "key": "Zoom Blur",
+      "value": "Zum bulanıklığı",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Center X",
+      "value": "Yatay merkez",
+      "source": "https://tr.wiktionary.org/w/index.php?title=merkez&oldid=5711198",
+      "section": "merkez",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Center Y",
+      "value": "Dikey merkez",
+      "source": "https://tr.wiktionary.org/w/index.php?title=merkez&oldid=5711198",
+      "section": "merkez",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Zone",
+      "value": "Odak bölgesi",
+      "source": "https://tr.wiktionary.org/w/index.php?title=odak&oldid=4178245",
+      "section": "odak",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Spread",
+      "value": "Yayılma",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Focus Distance",
+      "value": "Odaklama mesafesi",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Manual Focus Assist",
+      "value": "Manuel odak yardımı",
+      "source": "https://tr.wiktionary.org/w/index.php?title=Manuel&oldid=4555634",
+      "section": "Manuel",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zone Size",
+      "value": "Bölge boyutu",
+      "source": "https://tr.wiktionary.org/w/index.php?title=b%C3%B6lge&oldid=5660702",
+      "section": "bölge",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Zone Softness",
+      "value": "Bölge yumuşaklığı",
+      "source": "https://tr.wiktionary.org/w/index.php?title=b%C3%B6lge&oldid=5660702",
+      "section": "bölge",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Edge Feather",
+      "value": "Kenar yumuşatma",
+      "source": "https://helpx.adobe.com/tr/photoshop/desktop/effects-filters/smart-filters/sharpen-controls-with-smart-sharpen.html",
+      "section": "Localized feature description / control terminology",
+      "basis": "adobe-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in localized Adobe documentation. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": "Kenar yumuşatma"
+    },
+    {
+      "key": "Peaking",
+      "value": "Kontur vurgusu",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuel Odak",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Max Blur Size",
+      "value": "En büyük bulanıklık boyutu",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Player Visibility",
+      "value": "Oyuncu görünürlüğü",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hide Remote Players",
+      "value": "Diğer oyuncuları gizle",
+      "source": "https://tr.wiktionary.org/w/index.php?title=di%C4%9Fer&oldid=5258721",
+      "section": "diğer",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hide Self",
+      "value": "Kendini gizle",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Avatar Offset",
+      "value": "Avatar kaydırması",
+      "source": "https://tr.wiktionary.org/w/index.php?title=avatar&oldid=3832352",
+      "section": "avatar",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Rotate With Avatar",
+      "value": "Avatarla döndür",
+      "source": "https://tr.wiktionary.org/w/index.php?title=d%C3%B6nd%C3%BCr&oldid=4248501",
+      "section": "döndür",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drop (Reset to Hand)",
+      "value": "Ele geri dön",
+      "source": "https://tr.wiktionary.org/w/index.php?title=geri&oldid=5684602",
+      "section": "geri",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move Drone Vertical",
+      "value": "Dronu dikey taşı",
+      "source": "https://tr.wiktionary.org/w/index.php?title=dikey&oldid=5618690",
+      "section": "dikey",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Camera Pins & Dolly",
+      "value": "Kamera işaretleri ve kaydırmalı çekim",
+      "source": "https://tr.wiktionary.org/w/index.php?title=i%C5%9Faretleri&oldid=4420687",
+      "section": "işaretleri",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Teleport",
+      "value": "Işınlan",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Dolly",
+      "value": "Kaydırmalı çekim",
+      "source": "https://tr.wiktionary.org/w/index.php?title=%C3%A7ekim&oldid=5343402",
+      "section": "çekim",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Reset to Hand",
+      "value": "Ele geri dön",
+      "source": "https://tr.wiktionary.org/w/index.php?title=geri&oldid=5684602",
+      "section": "geri",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show Pins",
+      "value": "İşaretleri göster",
+      "source": "https://tr.wiktionary.org/w/index.php?title=i%C5%9Faretleri&oldid=4420687",
+      "section": "işaretleri",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show Path",
+      "value": "Yolu göster",
+      "source": "https://tr.wiktionary.org/w/index.php?title=g%C3%B6ster&oldid=4248475",
+      "section": "göster",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Show Numbers",
+      "value": "Numaraları göster",
+      "source": "https://tr.wiktionary.org/w/index.php?title=g%C3%B6ster&oldid=4248475",
+      "section": "göster",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Play",
+      "value": "Oynat",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-05_Playback_0070.html",
+      "section": "Video Oynatma",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Oynat"
+    },
+    {
+      "key": "Stop",
+      "value": "Durdur",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-05_Playback_0070.html",
+      "section": "Video Oynatma",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Playback",
+      "value": "Oynatma konumu",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Dolly playback position, not the camera image-review menu. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Move",
+      "value": "Elle taşı",
+      "source": "https://tr.wiktionary.org/w/index.php?title=Elle&oldid=4745430",
+      "section": "Elle",
+      "basis": "dictionary-candidate",
+      "note": "Manual dolly movement. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Go To Pin",
+      "value": "İşarete git",
+      "source": "https://tr.wiktionary.org/w/index.php?title=i%C5%9Farete&oldid=4420592",
+      "section": "işarete",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Duration",
+      "value": "Süre",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Loop",
+      "value": "Döngü",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Delay",
+      "value": "Gecikme",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Path",
+      "value": "Yol",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hand Rotate (Pins)",
+      "value": "İşaretleri elle döndür",
+      "source": "https://tr.wiktionary.org/w/index.php?title=i%C5%9Faretleri&oldid=4420687",
+      "section": "işaretleri",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Hand Offset",
+      "value": "El kaydırması",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Drop Next",
+      "value": "Sonraki işareti yerleştir",
+      "source": "https://tr.wiktionary.org/w/index.php?title=yerle%C5%9Ftir&oldid=4879102",
+      "section": "yerleştir",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Clear All (Hold)",
+      "value": "Tümünü temizle (basılı tut)",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Full",
+      "value": "Tüm yönler",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Vertical",
+      "value": "Yalnızca dikey",
+      "source": "https://tr.wiktionary.org/w/index.php?title=dikey&oldid=5618690",
+      "section": "dikey",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Teleport Next",
+      "value": "Sonraki işarete ışınlan",
+      "source": "https://tr.wiktionary.org/w/index.php?title=sonraki&oldid=4506140",
+      "section": "sonraki",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Reverse",
+      "value": "İleri geri",
+      "source": "https://tr.wiktionary.org/w/index.php?title=%C4%B0leri&oldid=4829255",
+      "section": "İleri",
+      "basis": "dictionary-candidate",
+      "note": "Ping-pong playback, not reversed camera orientation. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Linear",
+      "value": "Doğrusal",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Smooth",
+      "value": "Nokta enterpolasyonu",
+      "source": "https://tr.wiktionary.org/w/index.php?title=nokta&oldid=5711289",
+      "section": "nokta",
+      "basis": "dictionary-candidate",
+      "note": "Path through control points (interpolation). Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Fitted",
+      "value": "Uyarlanmış eğri",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Path approximating control points (fitted curve). Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Preset Saver",
+      "value": "Hazır ayar kaydetme",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Save",
+      "value": "Kaydet",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-07_Set-up_0310.html",
+      "section": "Makine Ayarlarını Karta Kaydet/Yükle",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Kaydet"
+    },
+    {
+      "key": "Load",
+      "value": "Yükle",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-07_Set-up_0310.html",
+      "section": "Makine Ayarlarını Karta Kaydet/Yükle",
+      "basis": "canon-exact",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact spelling found in the relevant Canon feature page.",
+      "sourceTerm": "Yükle"
+    },
+    {
+      "key": "Load Defaults",
+      "value": "Varsayılan değerleri yükle",
+      "source": "https://tr.wiktionary.org/w/index.php?title=y%C3%BCkle&oldid=4581906",
+      "section": "yükle",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Favorites",
+      "value": "Sık kullanılanlar",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ],
+  "directions": [
+    {
+      "key": "TOP",
+      "value": "Yukarı",
+      "source": "https://tr.wiktionary.org/w/index.php?title=yukar%C4%B1&oldid=5707618",
+      "section": "yukarı",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "UP",
+      "value": "Yukarı",
+      "source": "https://tr.wiktionary.org/w/index.php?title=yukar%C4%B1&oldid=5707618",
+      "section": "yukarı",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "RIGHT",
+      "value": "Sağ",
+      "source": "https://tr.wiktionary.org/w/index.php?title=sa%C4%9F&oldid=5704432",
+      "section": "sağ",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "BOTTOM",
+      "value": "Aşağı",
+      "source": "https://tr.wiktionary.org/w/index.php?title=a%C5%9Fa%C4%9F%C4%B1&oldid=5684745",
+      "section": "aşağı",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "DOWN",
+      "value": "Aşağı",
+      "source": "https://tr.wiktionary.org/w/index.php?title=a%C5%9Fa%C4%9F%C4%B1&oldid=5684745",
+      "section": "aşağı",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "LEFT",
+      "value": "Sol",
+      "source": "https://tr.wiktionary.org/w/index.php?title=Sol&oldid=4371407",
+      "section": "Sol",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "FORWARD",
+      "value": "İleri",
+      "source": "https://tr.wiktionary.org/w/index.php?title=%C4%B0leri&oldid=4829255",
+      "section": "İleri",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "BACK",
+      "value": "Geri",
+      "source": "https://tr.wiktionary.org/w/index.php?title=geri&oldid=5684602",
+      "section": "geri",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    }
+  ],
+  "dynamic": [
+    {
+      "key": "Next",
+      "value": "Sonraki",
+      "source": "https://tr.wiktionary.org/w/index.php?title=sonraki&oldid=4506140",
+      "section": "sonraki",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "CameraPin",
+      "value": "İşaret {0}",
+      "source": "https://tr.wiktionary.org/w/index.php?title=%C4%B0%C5%9Faret&oldid=4300849",
+      "section": "İşaret",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Seconds",
+      "value": "{0} sn",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "Minutes",
+      "value": "{0} dk",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "WorldDrop",
+      "value": "Dünyaya sabitle",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "CameraPinDrop",
+      "value": "İşaret yerleştir",
+      "source": "https://tr.wiktionary.org/w/index.php?title=yerle%C5%9Ftir&oldid=4879102",
+      "section": "yerleştir",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "VignetteSoftness",
+      "value": "Kenar yumuşatma",
+      "source": "https://tr.wiktionary.org/w/index.php?title=yumu%C5%9Fatma&oldid=4499660",
+      "section": "yumuşatma",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation. Soft transition width for this specific blur/edge effect; not image contrast or material softness.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "FisheyeCenterX",
+      "value": "Yatay konum",
+      "source": "https://tr.wiktionary.org/w/index.php?title=yatay&oldid=5618689",
+      "section": "yatay",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "FisheyeCenterY",
+      "value": "Dikey konum",
+      "source": "https://tr.wiktionary.org/w/index.php?title=dikey&oldid=5618690",
+      "section": "dikey",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "ZoomInSpeed4",
+      "value": "Telefoto hızı 4",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "ZoomOutSpeed4",
+      "value": "Geniş açı hızı 4",
+      "source": "https://tr.wiktionary.org/w/index.php?title=Geni%C5%9F&oldid=4345410",
+      "section": "Geniş",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    }
+  ],
+  "featureBlanks": [
+    {
+      "key": "100",
+      "value": "Geniş açı hızı 1",
+      "source": "https://tr.wiktionary.org/w/index.php?title=Geni%C5%9F&oldid=4345410",
+      "section": "Geniş",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "101",
+      "value": "Geniş açı hızı 2",
+      "source": "https://tr.wiktionary.org/w/index.php?title=Geni%C5%9F&oldid=4345410",
+      "section": "Geniş",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "102",
+      "value": "Geniş açı hızı 3",
+      "source": "https://tr.wiktionary.org/w/index.php?title=Geni%C5%9F&oldid=4345410",
+      "section": "Geniş",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "104",
+      "value": "Telefoto hızı 1",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "105",
+      "value": "Telefoto hızı 2",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "106",
+      "value": "Telefoto hızı 3",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "108",
+      "value": "Poz Telafisi −1/3 durak",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Manuel Poz Telafisi",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "110",
+      "value": "Poz Telafisi +1/3 durak",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-03_Shooting-1_0500.html",
+      "section": "Manuel Poz Telafisi",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "113",
+      "value": "Beyaz Ayarı Düzeltme: mavi",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Beyaz Ayarı Düzeltmesi",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "114",
+      "value": "Beyaz Ayarı Düzeltme: sıfırla",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Beyaz Ayarı Düzeltmesi",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "115",
+      "value": "Beyaz Ayarı Düzeltme: kehribar",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-03_Shooting-1_0210.html",
+      "section": "Beyaz Ayarı Düzeltmesi",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "117",
+      "value": "Yakına doğru: orta",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuel Odak",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "118",
+      "value": "Yakına doğru: küçük",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuel Odak",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "120",
+      "value": "Sonsuza doğru: küçük",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuel Odak",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "121",
+      "value": "Sonsuza doğru: orta",
+      "source": "https://cam.start.canon/tr/C017/manual/html/UG-04_AF-Drive_0070.html",
+      "section": "Manuel Odak",
+      "basis": "canon-adapted",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Authored functional label based on the cited camera feature; not an exact Canon UI string.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "129",
+      "value": "Hafifçe yukarı yönelt",
+      "source": "https://tr.wiktionary.org/w/index.php?title=hafif%C3%A7e&oldid=5686346",
+      "section": "hafifçe",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "130",
+      "value": "Hafifçe aşağı yönelt",
+      "source": "https://tr.wiktionary.org/w/index.php?title=hafif%C3%A7e&oldid=5686346",
+      "section": "hafifçe",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    }
+  ],
+  "sensorBlanks": [
+    {
+      "key": "0",
+      "value": "35 mm tam kare",
+      "source": "https://tr.wiktionary.org/w/index.php?title=kare&oldid=5253565",
+      "section": "kare",
+      "basis": "dictionary-candidate",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Candidate lexical reference only: native-language section, relevant sense, and complete phrase require review. Not counted as a verified translation.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1",
+      "value": "APS-H",
+      "source": "https://asia.canon/en/support/8201524100",
+      "section": "35mm-equivalent focal length — image sensor size table",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2",
+      "value": "APS-C (1.5×)",
+      "source": "https://asia.canon/en/support/8201524100",
+      "section": "35mm-equivalent focal length — image sensor size table",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3",
+      "value": "APS-C (1.6×)",
+      "source": "https://asia.canon/en/support/8201524100",
+      "section": "35mm-equivalent focal length — image sensor size table",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4",
+      "value": "Micro Four Thirds",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified. Retained tokens identify a technical function, display system, sensor format, or named aspect-ratio standard; they are not untranslated ordinary prose.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "5",
+      "value": "1,0 tipi",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ],
+  "tonemapBlanks": [
+    {
+      "key": "0",
+      "value": "Devre dışı",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "1",
+      "value": "Filmsel 1",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "2",
+      "value": "Filmsel 2",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "3",
+      "value": "HLG",
+      "source": "https://cam.start.canon/en/C017/manual/html/UG-03_Shooting-1_0390.html",
+      "section": "View Assist Display Conditions — Hybrid Log-Gamma",
+      "basis": "standard-identifier",
+      "note": "Language-neutral technical identifier retained; numeric sensor factors are VRCLens preset values, not asserted to be Canon camera specifications.",
+      "sourceTerm": ""
+    },
+    {
+      "key": "4",
+      "value": "Nötr",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "note": "Translation of the VRCLens function, retaining its original semantics. Exact native-language source remains unverified; provisional wording is not counted as source-verified.",
+      "sourceTerm": ""
+    }
+  ]
+}

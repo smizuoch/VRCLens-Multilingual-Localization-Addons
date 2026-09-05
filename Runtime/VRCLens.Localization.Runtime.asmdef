@@ -1,0 +1,6 @@
+{
+    "name": "VRCLens.Localization.Runtime",
+    "rootNamespace": "VRCLensCustom",
+    "references": ["VRC.SDKBase"],
+    "autoReferenced": true
+}

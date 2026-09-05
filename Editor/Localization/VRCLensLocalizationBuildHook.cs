@@ -24,50 +24,49 @@ namespace VRCLensCustom
             // an aborted earlier build (whose cloned avatar had a different instance id) cannot be
             // mistaken for this build after Unity eventually reuses that id.
             VRCLensLocalizationDispatch.ClearAllFavoriteBridges();
-            return VRCLensLocalizationBuildUtility.TrySelect(
-                avatarGameObject, out _);
+            return VRCLensLocalizationBuildUtility.Prepare(avatarGameObject);
         }
     }
 
     /// <summary>
-    /// Localizes VRCFury's final menu graph. Free Camera Add-ons currently finish at -1026, so -1025
-    /// sees Camera Pins after its generated controls have been trimmed/reordered while still running
-    /// before the SDK removes IEditorOnly markers at -1024.
+    /// Localizes after Free Camera (-1025) and avatar optimization. Preflight retains the locale and
+    /// user-authored Favorites settings even if a processor has already stripped their components.
+    /// VRCFury's final IEditorOnly cleanup runs at Int32.MaxValue.
     /// </summary>
     public sealed class VRCLensLocalizationBuildHook : IVRCSDKPreprocessAvatarCallback
     {
-        public int callbackOrder => -1025;
+        public int callbackOrder => int.MaxValue - 100;
 
         public bool OnPreprocessAvatar(GameObject avatarGameObject)
         {
             try
             {
-                VRCLensLocalizationSelection selection;
-                if (!VRCLensLocalizationBuildUtility.TrySelect(
-                        avatarGameObject, out selection))
+                VRCLensLocalizationProfile profile;
+                if (!VRCLensLocalizationBuildUtility.TryGetPreparedProfile(
+                        avatarGameObject, out profile))
                     return false;
-                if (selection == null) return true;
+                if (profile == null) return true;
 
                 // Compatibility with a project that still has the original localization-aware
                 // Free Add-ons hook: never clone/localize the same build menu twice.
                 if (VRCLensLocalizationBuildUtility.IsAlreadyLocalized(
-                        avatarGameObject, selection.Profile))
+                        avatarGameObject, profile))
                 {
                     Debug.Log($"{VRCLensLocalizationBuildUtility.LogPrefix} The final menu is " +
-                              $"already localized to {selection.Profile.NativeName} " +
-                              $"({selection.Profile.LocaleCode}); skipped a duplicate pass.");
+                              $"already localized to {profile.NativeName} " +
+                              $"({profile.LocaleCode}); skipped a duplicate pass.");
                     return true;
                 }
 
                 var before = VRCLensLocalizationBuildUtility.Snapshot(avatarGameObject);
                 Debug.Log($"{VRCLensLocalizationBuildUtility.LogPrefix} Localizing the final " +
                           $"VRCLens menu for '{avatarGameObject.name}' in " +
-                          $"{selection.Profile.NativeName} ({selection.Profile.LocaleCode})...");
+                          $"{profile.NativeName} ({profile.LocaleCode})...");
                 string error;
                 if (!VRCLensLocalizationDispatch.Apply(
                         avatarGameObject,
                         VRCLensLocalizationBuildUtility.TempDir,
-                        selection.Profile,
+                        profile,
                         out error))
                 {
                     if (!string.IsNullOrWhiteSpace(error))
@@ -89,6 +88,7 @@ namespace VRCLensCustom
                 // Menu Favorites may hand exact aliases across VRCFury. This is the final consumer;
                 // no success, early return or exception may leak that avatar/locale state.
                 VRCLensLocalizationDispatch.CancelFavoriteBridge(avatarGameObject);
+                VRCLensLocalizationBuildUtility.ClearPreparedBuild();
             }
         }
     }
@@ -96,7 +96,88 @@ namespace VRCLensCustom
     internal static class VRCLensLocalizationBuildUtility
     {
         internal const string LogPrefix = "[VRCLens Localization]";
-        internal const string TempDir = "Assets/VRCLens_Custom/Temp";
+        // Outside Free Camera's destructive Temp cleanup and its source-menu validator.
+        internal const string TempDir = "Assets/VRCLensLocalizationGenerated";
+        private static GameObject preparedAvatar;
+        private static VRCLensLocalizationProfile preparedProfile;
+
+        internal static bool Prepare(GameObject avatar)
+        {
+            ClearPreparedBuild();
+            if (!TrySelect(avatar, out var selection)) return false;
+            try
+            {
+                if (selection != null) VRCLensMenuLocalizer.CaptureFavoritePages(avatar);
+                preparedAvatar = avatar;
+                preparedProfile = selection?.Profile;
+                return true;
+            }
+            catch (Exception exception)
+            {
+                ClearPreparedBuild();
+                return Stop(exception.GetBaseException().Message);
+            }
+        }
+
+        internal static bool TryGetPreparedProfile(GameObject avatar, out VRCLensLocalizationProfile profile)
+        {
+            if (ReferenceEquals(avatar, preparedAvatar) && avatar != null)
+            {
+                profile = preparedProfile;
+                return true;
+            }
+            // Direct callback invocation outside the SDK must never borrow another avatar's state.
+            ClearPreparedBuild();
+            if (!TrySelect(avatar, out var selection)) { profile = null; return false; }
+            profile = selection?.Profile;
+            return true;
+        }
+
+        internal static void ClearPreparedBuild()
+        {
+            preparedAvatar = null;
+            preparedProfile = null;
+            VRCLensMenuLocalizer.ClearFavoritePageSnapshot();
+        }
+
+        internal static bool SelfTest(out string error)
+        {
+            GameObject avatar = null;
+            GameObject other = null;
+            try
+            {
+                if (new VRCLensLocalizationBuildHook().callbackOrder <= -1024)
+                    throw new InvalidOperationException("Localization must follow Free Camera and editor-only stripping.");
+                if (TempDir.StartsWith("Assets/VRCLens_Custom/", StringComparison.OrdinalIgnoreCase))
+                    throw new InvalidOperationException("Generated menus must be outside Free Camera's asset tree.");
+                if (typeof(VRCLensLocalizationMarker).Assembly.GetName().Name != "VRCLens.Localization.Runtime"
+                    || typeof(VRCLensLocalizationBuildHook).Assembly.GetName().Name != "VRCLens.Localization.Editor")
+                    throw new InvalidOperationException("Localization assembly isolation is missing.");
+                avatar = new GameObject("LocalizationBuildStateTest");
+                other = new GameObject("LocalizationBuildStateOther");
+                foreach (var profile in VRCLensLocalizationRegistry.Profiles)
+                {
+                    var marker = avatar.AddComponent(profile.MarkerType);
+                    if (!Prepare(avatar)) throw new InvalidOperationException("Preflight failed: " + profile.LocaleCode);
+                    UnityEngine.Object.DestroyImmediate(marker);
+                    if (!TryGetPreparedProfile(avatar, out var selected) || selected != profile)
+                        throw new InvalidOperationException("Locale was lost when the marker was stripped: " + profile.LocaleCode);
+                    if (!TryGetPreparedProfile(other, out selected) || selected != null)
+                        throw new InvalidOperationException("Build state leaked to another avatar");
+                    if (!Prepare(avatar) || !TryGetPreparedProfile(avatar, out selected) || selected != null)
+                        throw new InvalidOperationException("Removing the installer did not restore the unlocalized build");
+                }
+                error = null;
+                return true;
+            }
+            catch (Exception exception) { error = exception.GetBaseException().Message; return false; }
+            finally
+            {
+                ClearPreparedBuild();
+                if (avatar != null) UnityEngine.Object.DestroyImmediate(avatar);
+                if (other != null) UnityEngine.Object.DestroyImmediate(other);
+            }
+        }
 
         internal sealed class InvariantSnapshot
         {

@@ -1,5 +1,5 @@
 # VRCLens Multilingual Localization Add-ons
-[日本語版 (README.md)](README.md)
+[日本語版 (README.Localization.md)](README.Localization.md)
 
 This VRCFury add-on translates the VRCLens Expressions Menu and any installed
 Free Camera Add-ons at build time only. It supports 26 languages and locales.
@@ -9,7 +9,7 @@ See [terminology status](Documentation/TERMINOLOGY.md).
 ## Requirements
 
 - VRCLens (tested with 1.10.0) — [https://hirabiki.gumroad.com/l/rpnel](https://hirabiki.gumroad.com/l/rpnel)
-- VRCFury (tested with 1.1426.0) — [https://vrcfury.com/](https://vrcfury.com/)
+- VRCFury (tested with 1.1427.0) — [https://vrcfury.com/](https://vrcfury.com/)
 - Free Camera Add-ons (optional) — [https://booth.pm/ja/items/8375173](https://booth.pm/ja/items/8375173)
 - VRChat SDK Avatars (a prerequisite for VRCLens and VRCFury)
 - Unity 2022.3.22f1
@@ -18,10 +18,9 @@ Free Camera Add-ons are optional. If they are not installed, only VRCLens itself
 is translated. If they are installed, the `VRCL_Custom/*` menus integrated by
 VRCFury are translated as part of the same process. This unitypackage does not
 include VRCLens, VRCFury, Free Camera Add-ons, paid assets, menus, animations, or
-icons. It also omits the asmdef shared with Free Camera Add-ons to avoid
-overwriting an existing environment. When Free Camera Add-ons are not installed,
-the localization logic is compiled as part of the regular Editor assembly.
-Prefab marker components live in `Runtime` and compile into a runtime assembly.
+icons. Localization uses its own Editor assembly under `Editor/Localization` and
+a separate marker assembly under `Runtime`. These assembly definitions remain
+independent of Free Camera Add-ons; its asmdef does not need to be changed.
 The SDK strips them before upload through `IEditorOnly`. Keep these scripts outside
 `Editor` folders so Unity can load their serialized prefab components.
 
@@ -67,7 +66,7 @@ installed.
 
 After VRCFury and any optional Free Camera Add-ons processing is complete, the
 final Expressions Menu is duplicated to
-`Assets/VRCLens_Custom/Temp/LocalizedMenus/<locale>`. Only `Control.name` and
+`Assets/VRCLensLocalizationGenerated/LocalizedMenus/<locale>`. Only `Control.name` and
 `Control.labels[].name` in the duplicated copy are changed. Parameters, values,
 types, styles, icons, ordering, Expression Parameters, Animator Controllers, and
 animations remain unchanged, and no additional synced memory is used. Shared
@@ -87,7 +86,7 @@ detection, all registered installer prefabs, and the empty VRCFury Full Controll
 
 ## Catalogs and sources
 
-Translations are stored in C# catalogs under `Editor` and in `Editor/Catalogs/<locale>.json`. The shared resolver consumes 206 fixed
+Translations are stored in C# catalogs under `Editor/Localization` and in `Editor/Catalogs/<locale>.json`. The shared resolver consumes 206 fixed
 labels, 8 directions, 11 contextual/dynamic records, and 28 functional blank buttons per locale.
 Number and time labels use locale-specific `{0}` templates. Five layout spacers remain blank.
 No additional package dependencies are introduced.
@@ -104,3 +103,11 @@ See [Unity validation](Documentation/VALIDATION.md) for tested behavior and unve
 
 This software is released under the MIT License. See [LICENSE.txt](LICENSE.txt)
 for details.
+
+## Free Camera v2.3.0 compatibility
+
+Preflight captures the locale and user-authored Favorites settings. Localization runs after Free Camera and avatar optimization, even when editor-only components have already been stripped. Generated menus live outside the Free Camera folder, so its Temp cleanup and source-menu validator do not touch them.
+
+The Japanese README is named `README.Localization.md` to avoid overwriting the Free Camera README. Keep the Editor/Localization and Runtime asmdefs, and move scripts together with their existing meta files. Do not leave duplicate localization scripts in the old Editor folder. Validation checks all installed menus and Toggle paths without requiring the full optional bundle asset count.
+
+[Free Camera v2.3.0 fixes and 31-prefab / 26-locale validation](Documentation/FREE_CAMERA_COMPATIBILITY.md)

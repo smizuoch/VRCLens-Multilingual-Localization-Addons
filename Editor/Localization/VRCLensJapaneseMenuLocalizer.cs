@@ -1406,13 +1406,36 @@ namespace VRCLensCustom
             internal string Submenu;
         }
 
+        private static GameObject favoriteSnapshotAvatar;
+        private static List<OptionalFavoritePage> favoritePageSnapshot;
+
+        internal static void CaptureFavoritePages(GameObject avatar)
+        {
+            ClearFavoritePageSnapshot();
+            var pages = ReadOptionalFavoritePages(avatar).ToList();
+            favoriteSnapshotAvatar = avatar;
+            favoritePageSnapshot = pages;
+        }
+
+        internal static void ClearFavoritePageSnapshot()
+        {
+            favoriteSnapshotAvatar = null;
+            favoritePageSnapshot = null;
+        }
+
+        private static IEnumerable<OptionalFavoritePage> EnumerateOptionalFavoritePages(GameObject avatar)
+        {
+            return ReferenceEquals(avatar, favoriteSnapshotAvatar) && favoritePageSnapshot != null
+                ? favoritePageSnapshot : ReadOptionalFavoritePages(avatar);
+        }
+
         /// <summary>
         /// Reads Menu Favorites when Free Camera Add-ons is installed without linking against that
         /// optional package. Public serialized member names are its compatibility contract, and an
         /// unknown/newer shape stops localization rather than risking changes to user aliases or
         /// paths. The optional component itself remains completely absent from the compile graph.
         /// </summary>
-        private static IEnumerable<OptionalFavoritePage> EnumerateOptionalFavoritePages(
+        private static IEnumerable<OptionalFavoritePage> ReadOptionalFavoritePages(
             GameObject avatar)
         {
             if (avatar == null) yield break;
@@ -2065,8 +2088,8 @@ namespace VRCLensCustom
 
                 if (baseMenuCount != 22)
                     failures.Add(locale + $"expected 22 VRCLens 1.10.0 menu assets, found {baseMenuCount}");
-                if (freeAddOnsInstalled && addOnMenuCount != 30)
-                    failures.Add(locale + $"expected 30 Free Add-ons menu assets, found {addOnMenuCount}");
+                if (freeAddOnsInstalled && addOnMenuCount == 0)
+                    failures.Add(locale + "Free Add-ons Mods folder contains no readable menu assets");
                 if (functionalBlanks != 28)
                     failures.Add(locale + $"expected translations for 28 functional blank controls, found {functionalBlanks}");
                 if (layoutSpacers != 5)
@@ -2077,9 +2100,8 @@ namespace VRCLensCustom
                 // that proves all of its current menus and generated VRCFury paths are translated.
                 if (freeAddOnsInstalled)
                 {
-                    int togglePaths = ValidateVRCFuryTogglePaths(failures, catalog);
-                    if (togglePaths != 69)
-                        failures.Add(locale + $"expected 69 VRCFury Toggle menu paths, found {togglePaths}");
+                    // Base and optional bundles have different counts; inspect every installed path.
+                    ValidateVRCFuryTogglePaths(failures, catalog);
                 }
             }
 
@@ -2184,8 +2206,8 @@ namespace VRCLensCustom
                 !VRCLensLocalizationRegistry.Profiles.Any(profile =>
                     string.Equals(path.Replace('\\', '/'), profile.PrefabPath,
                                   StringComparison.OrdinalIgnoreCase)));
-            if (coveredFreePrefabs != 33)
-                failures.Add($"expected 33 Free Add-ons prefabs, found {coveredFreePrefabs}");
+            if (coveredFreePrefabs == 0)
+                failures.Add("Free Add-ons Mods folder is installed but no installer prefabs were found");
 
             foreach (string prefabPath in prefabPaths)
             {

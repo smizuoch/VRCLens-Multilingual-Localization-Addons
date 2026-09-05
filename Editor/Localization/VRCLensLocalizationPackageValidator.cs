@@ -48,6 +48,8 @@ namespace VRCLensCustom
                 VRCLensMenuLocalizer.SelfTest);
             TryValidation("marker selector self-test", issues,
                 VRCLensLocalizationSelector.SelfTest);
+            TryValidation("assembly isolation/build state after marker stripping", issues,
+                VRCLensLocalizationBuildUtility.SelfTest);
             TryValidation("additional catalog data/provenance/templates", issues,
                 VRCLensAdditionalCatalogs.ValidateData);
             TryValidation("legacy catalog terminology/output agreement", issues,

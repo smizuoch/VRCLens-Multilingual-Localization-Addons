@@ -1,5 +1,5 @@
 # VRCLens Multilingual Localization Add-ons
-[English (README.en.md)](README.en.md)
+[English (README.Localization.en.md)](README.Localization.en.md)
 
 VRCLensのExpressions Menuと、導入済みのFree Camera Add-onsをビルド時だけ翻訳する
 VRCFury用アドオンです。26言語・ロケールに対応しています。
@@ -9,7 +9,7 @@ VRCFury用アドオンです。26言語・ロケールに対応しています�
 ## 必要環境
 
 - VRCLens（検証対象: 1.10.0）— [https://hirabiki.gumroad.com/l/rpnel](https://hirabiki.gumroad.com/l/rpnel)
-- VRCFury（検証対象: 1.1426.0）— [https://vrcfury.com/](https://vrcfury.com/)
+- VRCFury（検証対象: 1.1427.0）— [https://vrcfury.com/](https://vrcfury.com/)
 - Free Camera Add-ons（任意）— [https://booth.pm/ja/items/8375173](https://booth.pm/ja/items/8375173)
 - VRChat SDK Avatars（VRCLens／VRCFuryの前提依存）
 - Unity 2022.3.22f1
@@ -17,9 +17,9 @@ VRCFury用アドオンです。26言語・ロケールに対応しています�
 Free Camera Add-onsは任意です。入っていない場合はVRCLens本体だけを翻訳し、入っている場合は
 VRCFuryが統合した`VRCL_Custom/*`メニューも同じ処理で翻訳します。本unitypackageには
 VRCLens、VRCFury、Free Camera Add-ons、有料素材、メニュー、Animation、Iconを同梱していません。
-また、Free Camera Add-onsと共有するasmdefは既存環境を上書きしないよう同梱せず、未導入環境では
-翻訳処理は通常のEditor assemblyとしてコンパイルされます。
-Prefabに付く言語マーカーは`Runtime`に配置し、通常のruntime assemblyでコンパイルします。
+翻訳コードは`Editor/Localization`の専用Editor assembly、言語マーカーは`Runtime`の専用runtime
+assemblyでコンパイルします。Free Camera Add-onsのasmdefが存在しても所属と参照が変わらず、
+Free Camera側のasmdefを書き換えたり、必須依存に追加したりする必要はありません。
 マーカーは`IEditorOnly`によりアップロード前に除去されます。`Editor`フォルダーへ移動すると
 UnityがPrefabのコンポーネントを読み込めなくなるため、フォルダー構成を維持してください。
 
@@ -61,7 +61,7 @@ Prefabを削除して再ビルドすると英語表示へ戻ります。翻訳Pr
 ## 非破壊処理
 
 VRCFuryと任意のFree Camera Add-ons処理が終わった最終Expressions Menuを
-`Assets/VRCLens_Custom/Temp/LocalizedMenus/<locale>`へ複製します。変更対象は複製側の
+`Assets/VRCLensLocalizationGenerated/LocalizedMenus/<locale>`へ複製します。変更対象は複製側の
 `Control.name`と`Control.labels[].name`だけです。Parameter、値、型、Style、Icon、順序、
 Expression Parameters、Animator Controller、Animationには変更を加えず、同期メモリも増えません。
 共有SubMenuと循環参照も維持します。
@@ -79,7 +79,7 @@ Puppetラベル、競合検出、登録済みの全installer Prefabと空のVRCF
 
 ## 言語データと出典
 
-翻訳データは `Editor` 内のC#辞書と `Editor/Catalogs/<locale>.json` で管理しています。206個の固定項目、8方向、
+翻訳データは `Editor/Localization` 内のC#辞書と `Editor/Catalogs/<locale>.json` で管理しています。206個の固定項目、8方向、
 11個の動的・文脈依存表示、28個の機能付き空欄を共通処理へ渡します。番号や時間は言語別の
 `{0}` テンプレートです。レイアウト用の空欄5個はそのままです。追加パッケージは不要です。
 
@@ -93,3 +93,13 @@ Validate Packageは翻訳データと出典表の一致も検査します。
 ## ライセンス
 
 本ソフトウェアはMIT Licenseの下で公開されています。詳細は[LICENSE.txt](LICENSE.txt)を参照してください。
+
+## Free Camera v2.3.0との併用修正
+
+言語とFavoritesの設定はビルド開始時に保存し、Free Camera Add-onsとアバター最適化の後に最終メニューを翻訳します。途中でEditor専用コンポーネントが除去されても設定を保持します。生成先はFree Camera側のTemp削除・元メニュー検査の対象外です。
+
+この説明書はFree Cameraの`README.md`との上書き衝突を避けるため`README.Localization.md`に変更しました。更新時はC#とmetaを組にして移動し、`Editor/Localization`と`Runtime`のasmdefを含むフォルダー構成を維持してください。元の`Editor`直下に翻訳C#の重複を残さないでください。
+
+Validate PackageはBase・任意追加分の個数差を許容し、実際に導入されている全メニュー項目とToggleパスを検査します。
+
+[Free Camera v2.3.0の修正内容・31 Prefab／26言語の検証結果](Documentation/FREE_CAMERA_COMPATIBILITY.md)

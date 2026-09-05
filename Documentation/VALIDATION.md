@@ -1,5 +1,10 @@
 # 26言語拡張の検証結果 / Validation results
 
+## Free Camera v2.3.0互換性修正後の再検証（2026-09-05）
+
+本リポジトリへ修正を反映し、Free Cameraの実31 Prefab・29 Prefab同時導入×26言語・Pins/Favoritesの追加検査が成功しました。[修正内容・全ケース・ログ](FREE_CAMERA_COMPATIBILITY.md)を参照してください。以下は修正前の過去の検証記録です。
+
+
 ## 既存4言語の用語監査後の追記（2026-09-05）
 
 以下の26言語拡張時の結果は変更前の記録です。今回、[既存4言語の監査](LEGACY_TERMINOLOGY.md)で

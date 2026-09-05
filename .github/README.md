@@ -1,5 +1,5 @@
 # VRCLens Multilingual Localization Add-ons
-[English (README.Localization.en.md)](README.Localization.en.md)
+[English (README.Localization.en.md)](../README.Localization.en.md)
 
 VRCLensのExpressions Menuと、導入済みのFree Camera Add-onsをビルド時だけ翻訳する
 VRCFury用アドオンです。26言語・ロケールに対応しています。

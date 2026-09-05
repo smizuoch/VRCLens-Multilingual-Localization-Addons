@@ -2,9 +2,9 @@
 [日本語版 (README.md)](README.md)
 
 This VRCFury add-on translates the VRCLens Expressions Menu and any installed
-Free Camera Add-ons at build time only. It now includes 26 locales: the original four plus 22 additional catalogs.
-The new catalogs contain provisional wording whose source, sense, or regional usage still needs review.
-Technical validation and terminology sign-off are separate; see [terminology status](Documentation/TERMINOLOGY.md).
+Free Camera Add-ons at build time only. It supports 26 languages and locales.
+Some translations still need source, sense, or regional usage review.
+See [terminology status](Documentation/TERMINOLOGY.md).
 
 ## Requirements
 
@@ -87,18 +87,17 @@ detection, all registered installer prefabs, and the empty VRCFury Full Controll
 
 ## Catalogs and sources
 
-Additional dictionaries live in `Editor/Catalogs/<locale>.json`. The shared resolver consumes 206 fixed
+Translations are stored in C# catalogs under `Editor` and in `Editor/Catalogs/<locale>.json`. The shared resolver consumes 206 fixed
 labels, 8 directions, 11 contextual/dynamic records, and 28 functional blank buttons per locale.
 Number and time labels use locale-specific `{0}` templates. Five layout spacers remain blank.
-No additional package dependencies are introduced. Legacy four-locale output is preserved.
+No additional package dependencies are introduced.
 
 Bokmål and Nynorsk have separate dictionaries and prefabs, as do Spain and Latin American Spanish.
 Portuguese targets Portugal. Shared regional terms are not artificially differentiated. Official
 spellings are never shortened for display width.
 
-[TranslationSources.csv](Documentation/TranslationSources.csv) maps semantic keys to actual strings,
-URLs, sections, rationale, and verification status. Entries in the [review queue](Documentation/TranslationReviewQueue.csv)
-are not counted as completed translations. Validate Package also verifies table/catalog agreement.
+[Terminology status](Documentation/TERMINOLOGY.md) provides review results by locale, source tables,
+and lists of terms awaiting confirmation. Validate Package also verifies table/catalog agreement.
 See [Unity validation](Documentation/VALIDATION.md) for tested behavior and unverified client rendering.
 
 ## License

@@ -12,8 +12,9 @@ namespace VRCLensCustom
     ///
     /// This class intentionally contains data and context helpers only. The shared menu localizer
     /// remains responsible for semantic VRCLens scoping, graph cloning, and source-asset safety.
-    /// Camera terminology follows Canon's Korean manuals; non-camera post-processing terminology
-    /// follows the Korean Adobe/Unity documentation where Canon has no equivalent feature.
+    /// Camera terminology references Canon's Korean manuals; reviewed post-processing terms
+    /// reference Adobe. Per-entry evidence and unresolved terms are recorded in
+    /// Documentation/LEGACY_TERMINOLOGY.md; the whole catalog is not source-certified.
     ///
     /// Canon references:
     /// https://cam.start.canon/ko/C004/manual/html/UG-04_AF-Drive_0090.html
@@ -153,7 +154,7 @@ namespace VRCLensCustom
                 { "Magenta-Green", "마젠타/녹색" },
                 { "Color Grading", "컬러 그레이딩" },
                 { "Saturation", "채도" },
-                { "Vibrance", "생동감" },
+                { "Vibrance", "활기" },
                 { "Contrast", "콘트라스트" },
                 { "Shadows", "그림자" },
                 { "Midtones", "중간톤" },

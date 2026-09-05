@@ -1,0 +1,76 @@
+{
+  "changes": [
+    {
+      "locale": "ja-JP",
+      "key": "Posterize",
+      "before": "階調化",
+      "after": "ポスタリゼーション"
+    },
+    {
+      "locale": "ja-JP",
+      "key": "4:5 Portrait",
+      "before": "4:5 ポートレート",
+      "after": "4:5 縦位置"
+    },
+    {
+      "locale": "ja-JP",
+      "key": "2.35:1 Anamorphic",
+      "before": "2.35:1 アナモフィック",
+      "after": "2.35:1 アナモルフィック"
+    },
+    {
+      "locale": "ja-JP",
+      "key": "Response",
+      "before": "被写体切替",
+      "after": "被写体追従特性"
+    },
+    {
+      "locale": "ja-JP",
+      "key": "Responsive",
+      "before": "敏感",
+      "after": "俊敏"
+    },
+    {
+      "locale": "zh-Hans-CN",
+      "key": "Response",
+      "before": "被摄体切换",
+      "after": "追踪灵敏度"
+    },
+    {
+      "locale": "zh-Hans-CN",
+      "key": "Responsive",
+      "before": "灵敏",
+      "after": "敏感"
+    },
+    {
+      "locale": "zh-Hant-TW",
+      "key": "Response",
+      "before": "主體切換",
+      "after": "追蹤靈敏度"
+    },
+    {
+      "locale": "zh-Hant-TW",
+      "key": "Vibrance",
+      "before": "鮮艷度",
+      "after": "自然飽和度"
+    },
+    {
+      "locale": "zh-Hant-TW",
+      "key": "Midtones",
+      "before": "中間色調",
+      "after": "中間調"
+    },
+    {
+      "locale": "zh-Hant-TW",
+      "key": "Highlights",
+      "before": "高光",
+      "after": "亮部"
+    },
+    {
+      "locale": "ko-KR",
+      "key": "Vibrance",
+      "before": "생동감",
+      "after": "활기"
+    }
+  ]
+}

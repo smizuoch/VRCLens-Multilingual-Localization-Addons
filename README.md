@@ -2,8 +2,8 @@
 [English (README.en.md)](README.en.md)
 
 VRCLensのExpressions Menuと、導入済みのFree Camera Add-onsをビルド時だけ翻訳する
-VRCFury用アドオンです。既存4言語に22言語を追加し、26言語・ロケールを収録しています。
-追加22言語には出典・語義の確認が未完了の訳が含まれます。技術的な検証と訳語の確定状況は別です。
+VRCFury用アドオンです。26言語・ロケールに対応しています。
+出典・語義の確認が未完了の訳が含まれます。
 [用語と出典の確認状況](Documentation/TERMINOLOGY.md)を参照してください。
 
 ## 必要環境
@@ -79,17 +79,15 @@ Puppetラベル、競合検出、登録済みの全installer Prefabと空のVRCF
 
 ## 言語データと出典
 
-新規言語の辞書は `Editor/Catalogs/<locale>.json` にあります。206個の固定項目、8方向、
+翻訳データは `Editor` 内のC#辞書と `Editor/Catalogs/<locale>.json` で管理しています。206個の固定項目、8方向、
 11個の動的・文脈依存表示、28個の機能付き空欄を共通処理へ渡します。番号や時間は言語別の
 `{0}` テンプレートです。レイアウト用の空欄5個はそのままです。追加パッケージは不要です。
 
 ノルウェー語のブークモールとニーノシュク、スペインとラテンアメリカは別のPrefabです。
 ポルトガル語はポルトガル向けです。根拠のない地域差を作らず、公式表記を表示幅のために短縮しません。
-既存4言語は従来の訳語・出力を保持しています。
 
-[出典対応表](Documentation/TranslationSources.csv)は意味を区別するキー、採用表記、出典URL、
-節、採用理由、確認状態を記録しています。[未確定一覧](Documentation/TranslationReviewQueue.csv)
-の項目は翻訳確定済みには数えません。Validate Packageは辞書と出典表の一致も検査します。
+[用語と出典の確認状況](Documentation/TERMINOLOGY.md)に、言語別の確認結果、出典対応表、未確定一覧をまとめています。
+Validate Packageは翻訳データと出典表の一致も検査します。
 [Unity検証結果](Documentation/VALIDATION.md)にはクライアントで未確認の文字表示も分けて記載しています。
 
 ## ライセンス

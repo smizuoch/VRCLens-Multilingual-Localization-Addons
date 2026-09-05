@@ -50,6 +50,8 @@ namespace VRCLensCustom
                 VRCLensLocalizationSelector.SelfTest);
             TryValidation("additional catalog data/provenance/templates", issues,
                 VRCLensAdditionalCatalogs.ValidateData);
+            TryValidation("legacy catalog terminology/output agreement", issues,
+                VRCLensLegacyTerminology.Validate);
 
             var profiles = VRCLensLocalizationRegistry.Profiles;
             var requiredLocales = new[] { "ja-JP", "zh-Hans-CN", "zh-Hant-TW", "ko-KR" }
@@ -133,9 +135,10 @@ namespace VRCLensCustom
                 .SelectMany(locale => VRCLensAdditionalCatalogs.Load(locale).AllEntries)
                 .Count(entry => entry.basis == "review-required" || entry.basis == "dictionary-candidate"
                              || entry.basis == "adobe-region-review");
+            pending += VRCLensLegacyTerminology.PendingCount;
             if (pending != 0)
                 Debug.LogWarning(Prefix + $" {pending} translation records still require source/sense/region review. " +
-                    "Technical validation does not certify translation accuracy; see Documentation/TranslationReviewQueue.csv.");
+                    "Technical validation does not certify translation accuracy; see Documentation/TranslationReviewQueue.csv and LegacyTranslationReviewQueue.csv.");
         }
 
         private delegate bool Validation(out string error);

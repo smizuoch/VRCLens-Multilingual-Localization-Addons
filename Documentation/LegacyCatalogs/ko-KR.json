@@ -1,0 +1,2293 @@
+{
+  "localeCode": "ko-KR",
+  "nativeName": "한국어",
+  "names": [
+    {
+      "key": "Enable",
+      "value": "활성화",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Advanced",
+      "value": "상세 설정",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Zoom",
+      "value": "줌",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Drone",
+      "value": "드론",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Settings",
+      "value": "설정",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Focus",
+      "value": "초점",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "UG-04_AF-Drive_0090.html / Focus",
+      "basis": "canon-exact",
+      "sourceTerm": "초점",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Reset",
+      "value": "초기화",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Exposure",
+      "value": "노출",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-03_Shooting-1_0400.html",
+      "section": "UG-03_Shooting-1_0400.html / Exposure",
+      "basis": "canon-exact",
+      "sourceTerm": "노출",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Filters",
+      "value": "필터",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Stabilize",
+      "value": "손떨림 보정",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-03_Shooting-1_0290.html",
+      "section": "UG-03_Shooting-1_0290.html / Stabilize",
+      "basis": "canon-adapted",
+      "sourceTerm": "",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Aperture",
+      "value": "조리개",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "UG-02_ShootingMode_0070.html / Aperture",
+      "basis": "canon-exact",
+      "sourceTerm": "조리개",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Portrait",
+      "value": "세로 방향",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Display",
+      "value": "표시",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-03_Shooting-1_0360.html",
+      "section": "UG-03_Shooting-1_0360.html / Display",
+      "basis": "canon-exact",
+      "sourceTerm": "표시",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Normal",
+      "value": "표준",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-03_Shooting-1_0140.html",
+      "section": "UG-03_Shooting-1_0140.html / Normal",
+      "basis": "canon-exact",
+      "sourceTerm": "표준",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Depth Cool",
+      "value": "심도·쿨",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Depth Cute",
+      "value": "심도·큐트",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Spotlight",
+      "value": "스포트라이트",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Green Back",
+      "value": "그린백",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Blue Back",
+      "value": "블루백",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "RIGHT",
+      "value": "오른쪽",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "UP",
+      "value": "위",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "DOWN",
+      "value": "아래",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "LEFT",
+      "value": "왼쪽",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Show/Hide",
+      "value": "표시 전환",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Color",
+      "value": "색상",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Hexagon",
+      "value": "육각형",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Octagon",
+      "value": "팔각형",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Square",
+      "value": "사각형",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Look At Face",
+      "value": "얼굴로 향하기",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Look Up",
+      "value": "위로 향하기",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Look Down",
+      "value": "아래로 향하기",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Look At Feet",
+      "value": "발 쪽으로 향하기",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Track Self",
+      "value": "자신 추적",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Track Self...",
+      "value": "자신 추적...",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Infinity",
+      "value": "무한대",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Auto Focus",
+      "value": "AF",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "UG-04_AF-Drive_0040.html / Auto Focus",
+      "basis": "canon-exact",
+      "sourceTerm": "AF",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Manual Focus",
+      "value": "MF",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "UG-04_AF-Drive_0090.html / Manual Focus",
+      "basis": "canon-exact",
+      "sourceTerm": "MF",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Macro",
+      "value": "매크로",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Picture Style",
+      "value": "픽쳐스타일",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-03_Shooting-1_0140.html",
+      "section": "UG-03_Shooting-1_0140.html / Picture Style",
+      "basis": "canon-exact",
+      "sourceTerm": "픽쳐스타일",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Quick Selfie",
+      "value": "셀카",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Extra...",
+      "value": "기타...",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Movie Mode",
+      "value": "동영상 모드",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Avatar-Drop",
+      "value": "아바타 고정",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "3D Mode",
+      "value": "3D 모드",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Mount Swap",
+      "value": "마운트 전환",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Hide Lens",
+      "value": "렌즈 숨기기",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Increase",
+      "value": "조리개 닫기",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "UG-02_ShootingMode_0070.html / Increase",
+      "basis": "canon-adapted",
+      "sourceTerm": "",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Decrease",
+      "value": "조리개 열기",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "UG-02_ShootingMode_0070.html / Decrease",
+      "basis": "canon-adapted",
+      "sourceTerm": "",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Sensor Type",
+      "value": "센서 크기",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "DoF Mode",
+      "value": "피사계 심도",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "UG-02_ShootingMode_0070.html / DoF Mode",
+      "basis": "canon-exact",
+      "sourceTerm": "피사계 심도",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Av Dial",
+      "value": "조리개 값",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "UG-02_ShootingMode_0070.html / Av Dial",
+      "basis": "canon-exact",
+      "sourceTerm": "조리개 값",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Bokeh Shape",
+      "value": "보케 모양",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "V. Horizon",
+      "value": "전자 수평계",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-03_Shooting-1_0360.html",
+      "section": "UG-03_Shooting-1_0360.html / V. Horizon",
+      "basis": "canon-adapted",
+      "sourceTerm": "",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Grid",
+      "value": "격자",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-03_Shooting-1_0360.html",
+      "section": "UG-03_Shooting-1_0360.html / Grid",
+      "basis": "canon-exact",
+      "sourceTerm": "격자",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Monitor",
+      "value": "모니터",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-03_Shooting-1_0360.html",
+      "section": "UG-03_Shooting-1_0360.html / Monitor",
+      "basis": "canon-adapted",
+      "sourceTerm": "",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Move HUD",
+      "value": "HUD 위치",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Focus Peaking",
+      "value": "MF 피킹",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "UG-04_AF-Drive_0090.html / Focus Peaking",
+      "basis": "canon-exact",
+      "sourceTerm": "MF 피킹",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Hand-Rotate",
+      "value": "손으로 회전",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Change Angle",
+      "value": "방향 변경",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Tracking",
+      "value": "추적",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-04_AF-Drive_0050.html",
+      "section": "UG-04_AF-Drive_0050.html / Tracking",
+      "basis": "canon-exact",
+      "sourceTerm": "추적",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Move Camera",
+      "value": "카메라 이동",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Drone Speed",
+      "value": "드론 속도",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Move Pivot",
+      "value": "피벗 이동",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Track Pivot",
+      "value": "피벗 추적",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Smoothing",
+      "value": "부드러운 추적",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Drop Pivot",
+      "value": "피벗 설치",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Vertical Lock",
+      "value": "수직 고정",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "EV Dial",
+      "value": "노출 보정",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-03_Shooting-1_0400.html",
+      "section": "UG-03_Shooting-1_0400.html / EV Dial",
+      "basis": "canon-exact",
+      "sourceTerm": "노출 보정",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Auto Exposure",
+      "value": "자동 노출",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-02_ShootingMode_0070.html",
+      "section": "UG-02_ShootingMode_0070.html / Auto Exposure",
+      "basis": "canon-adapted",
+      "sourceTerm": "",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "White Bal.",
+      "value": "화이트 밸런스",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-03_Shooting-1_0110.html",
+      "section": "UG-03_Shooting-1_0110.html / White Bal.",
+      "basis": "canon-exact",
+      "sourceTerm": "화이트 밸런스",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Avatar AF",
+      "value": "아바타 AF",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Move Focus",
+      "value": "초점 위치",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "UG-04_AF-Drive_0090.html / Move Focus",
+      "basis": "canon-adapted",
+      "sourceTerm": "",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Pro Autofocus",
+      "value": "고급 AF",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Operation",
+      "value": "AF 동작",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "UG-04_AF-Drive_0040.html / Operation",
+      "basis": "canon-exact",
+      "sourceTerm": "AF 동작",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "AF Area",
+      "value": "AF 영역",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-04_AF-Drive_0050.html",
+      "section": "UG-04_AF-Drive_0050.html / AF Area",
+      "basis": "canon-exact",
+      "sourceTerm": "AF 영역",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Response",
+      "value": "추적 감도",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-04_AF-Drive_0100.html",
+      "section": "UG-04_AF-Drive_0100.html / Response",
+      "basis": "canon-exact",
+      "sourceTerm": "추적 감도",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Drive Speed",
+      "value": "AF 속도",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-04_AF-Drive_0110.html",
+      "section": "UG-04_AF-Drive_0110.html / Drive Speed",
+      "basis": "canon-exact",
+      "sourceTerm": "AF 속도",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "AF-ON",
+      "value": "AF 작동",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "AF Lock",
+      "value": "AF 잠금",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Focus Guide",
+      "value": "초점 가이드",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "UG-04_AF-Drive_0090.html / Focus Guide",
+      "basis": "canon-exact",
+      "sourceTerm": "초점 가이드",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "One-Shot AF",
+      "value": "One-Shot AF",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "UG-04_AF-Drive_0040.html / One-Shot AF",
+      "basis": "canon-exact",
+      "sourceTerm": "One-Shot AF",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Servo AF",
+      "value": "서보 AF",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-04_AF-Drive_0040.html",
+      "section": "UG-04_AF-Drive_0040.html / Servo AF",
+      "basis": "canon-exact",
+      "sourceTerm": "서보 AF",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Spot",
+      "value": "스팟",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-04_AF-Drive_0050.html",
+      "section": "UG-04_AF-Drive_0050.html / Spot",
+      "basis": "canon-exact",
+      "sourceTerm": "스팟",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Zone",
+      "value": "존",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-04_AF-Drive_0050.html",
+      "section": "UG-04_AF-Drive_0050.html / Zone",
+      "basis": "canon-exact",
+      "sourceTerm": "존",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Avatar Priority",
+      "value": "아바타 우선",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Locked-on",
+      "value": "피사체에 고정",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-04_AF-Drive_0100.html",
+      "section": "UG-04_AF-Drive_0100.html / Locked-on",
+      "basis": "canon-exact",
+      "sourceTerm": "피사체에 고정",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Standard",
+      "value": "표준",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-03_Shooting-1_0140.html",
+      "section": "UG-03_Shooting-1_0140.html / Standard",
+      "basis": "canon-exact",
+      "sourceTerm": "표준",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Responsive",
+      "value": "즉시 반응",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-04_AF-Drive_0100.html",
+      "section": "UG-04_AF-Drive_0100.html / Responsive",
+      "basis": "canon-exact",
+      "sourceTerm": "즉시 반응",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Custom",
+      "value": "추가 기능",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Far Clip Plane",
+      "value": "원거리 클리핑 평면",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Far Clip Plane / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Smooth DoF Edges",
+      "value": "피사계 심도 경계 완화",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Smooth DoF Edges / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Softness",
+      "value": "부드러움",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Softness / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Smooth Rotate",
+      "value": "부드러운 회전",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Smooth Rotate / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Anamorphic Bokeh",
+      "value": "아나모픽 보케",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Anamorphic Bokeh / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Chromatic Aberration",
+      "value": "색 수차",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-03_Shooting-1_0170.html",
+      "section": "UG-03_Shooting-1_0170.html / Chromatic Aberration",
+      "basis": "canon-adapted",
+      "sourceTerm": "",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Enabled",
+      "value": "활성화",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Enabled / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Transverse CA",
+      "value": "배율 색수차",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Transverse CA / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Axial CA",
+      "value": "축상 색수차",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Axial CA / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Axial Focus-Aware",
+      "value": "초점 연동",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Axial Focus-Aware / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Magenta-Green",
+      "value": "마젠타/녹색",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Magenta-Green / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Color Grading",
+      "value": "컬러 그레이딩",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Color Grading / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Saturation",
+      "value": "채도",
+      "source": "https://helpx.adobe.com/kr/photoshop/web/edit-images/retouch/adjust-objects.html",
+      "section": "Saturation",
+      "basis": "adobe-exact",
+      "sourceTerm": "채도",
+      "note": "対象地域のAdobe画像編集資料の同じ色調・効果用語を照合。Canon表記とは区別する。"
+    },
+    {
+      "key": "Vibrance",
+      "value": "활기",
+      "source": "https://helpx.adobe.com/kr/photoshop/web/edit-images/retouch/adjust-objects.html",
+      "section": "Vibrance",
+      "basis": "adobe-exact",
+      "sourceTerm": "활기",
+      "note": "対象地域のAdobe画像編集資料の同じ色調・効果用語を照合。Canon表記とは区別する。 修正: 생동감 → 활기。"
+    },
+    {
+      "key": "Contrast",
+      "value": "콘트라스트",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-03_Shooting-1_0150.html",
+      "section": "UG-03_Shooting-1_0150.html / Contrast",
+      "basis": "canon-exact",
+      "sourceTerm": "콘트라스트",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Shadows",
+      "value": "그림자",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Shadows / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Midtones",
+      "value": "중간톤",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Midtones / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Highlights",
+      "value": "하이라이트",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Highlights / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Brightness",
+      "value": "밝기",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Brightness / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Temperature",
+      "value": "색온도",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-03_Shooting-1_0110.html",
+      "section": "UG-03_Shooting-1_0110.html / Temperature",
+      "basis": "canon-adapted",
+      "sourceTerm": "",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Red",
+      "value": "빨강",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Green",
+      "value": "초록",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Green / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Blue",
+      "value": "파랑",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Blue / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Depth Fog",
+      "value": "대기 안개",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Depth Fog / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Density",
+      "value": "밀도",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Density / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Start Distance",
+      "value": "시작 거리",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Start Distance / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Color R",
+      "value": "빨강",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Color R / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Color G",
+      "value": "초록",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Color G / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Color B",
+      "value": "파랑",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "Film Grain",
+      "value": "필름 그레인",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Film Grain / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Intensity",
+      "value": "강도",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Intensity / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Size",
+      "value": "크기",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Size / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Speed",
+      "value": "속도",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Speed / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Fisheye Lens",
+      "value": "어안 렌즈",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Fisheye Lens / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Strength",
+      "value": "강도",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Strength / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Roundness",
+      "value": "원형률",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Roundness / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Lens Size",
+      "value": "렌즈 크기",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Lens Size / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Edge Softness",
+      "value": "가장자리 부드러움",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Edge Softness / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Reverse Fisheye",
+      "value": "역어안",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Reverse Fisheye / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Center",
+      "value": "중심",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Center / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "X",
+      "value": "가로 위치",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "X / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Y",
+      "value": "세로 위치",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Y / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Letterbox",
+      "value": "레터박스",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Letterbox / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "2.39:1 Cinemascope",
+      "value": "2.39:1 시네마스코프",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Letterbox / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "2.35:1 Anamorphic",
+      "value": "2.35:1 아나모픽",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Letterbox / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "2.00:1 Univisium",
+      "value": "2.00:1 유니비지엄",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Letterbox / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "1.85:1 Theatrical",
+      "value": "1.85:1 극장용",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Letterbox / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "16:9 Widescreen",
+      "value": "16:9 와이드스크린",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Letterbox / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "3:2 DSLR",
+      "value": "3:2 DSLR",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Letterbox / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "4:3 Classic",
+      "value": "4:3 클래식",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Letterbox / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "1:1 Square",
+      "value": "1:1 정사각형",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Letterbox / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "4:5 Portrait",
+      "value": "4:5 세로",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Letterbox / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "9:16 Vertical",
+      "value": "9:16 세로형",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Letterbox / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Pixelation",
+      "value": "픽셀화",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Pixelation / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Block Size",
+      "value": "블록 크기",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Block Size / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Dither",
+      "value": "디더링",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Dither / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Posterize",
+      "value": "포스터화",
+      "source": "https://www.adobe.com/kr/creativecloud/photography/discover/posterize-photo.html",
+      "section": "Posterize",
+      "basis": "adobe-exact",
+      "sourceTerm": "포스터화",
+      "note": "対象地域のAdobe画像編集資料の同じ色調・効果用語を照合。Canon表記とは区別する。"
+    },
+    {
+      "key": "Aspect Ratio",
+      "value": "종횡비",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Aspect Ratio / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Tilt-Shift",
+      "value": "틸트-시프트",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Tilt-Shift / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Depth Mode",
+      "value": "거리 모드",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Depth Mode / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Blur",
+      "value": "흐림",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Blur / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Position",
+      "value": "위치",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Position / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Width",
+      "value": "폭",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Width / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Angle",
+      "value": "각도",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Angle / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Vignette",
+      "value": "비네팅",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Vignette / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Radius",
+      "value": "반경",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Radius / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Zoom Blur",
+      "value": "줌 블러",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Zoom Blur / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Center X",
+      "value": "중심·가로",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Center X / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Center Y",
+      "value": "중심·세로",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Center Y / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Focus Zone",
+      "value": "초점 영역",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Focus Zone / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Spread",
+      "value": "퍼짐",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Spread / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Focus Distance",
+      "value": "촬영 거리",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Focus Distance / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Manual Focus Assist",
+      "value": "MF 보조",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Manual Focus Assist / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Zone Size",
+      "value": "영역 크기",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Zone Size / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Zone Softness",
+      "value": "영역 부드러움",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Zone Softness / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Edge Feather",
+      "value": "가장자리 페더",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Edge Feather / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Peaking",
+      "value": "피킹",
+      "source": "https://cam.start.canon/ko/C004/manual/html/UG-04_AF-Drive_0090.html",
+      "section": "UG-04_AF-Drive_0090.html / Peaking",
+      "basis": "canon-exact",
+      "sourceTerm": "피킹",
+      "note": "対象言語の該当撮影機能本文を照合。canon-exactは同じ用語表記の一致、canon-adaptedは機能の意味に基づく作成表現。VRCLens自体の公式訳ではない。"
+    },
+    {
+      "key": "Max Blur Size",
+      "value": "최대 흐림 크기",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Max Blur Size / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Player Visibility",
+      "value": "플레이어 표시",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Player Visibility / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Hide Remote Players",
+      "value": "다른 플레이어 숨기기",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Hide Remote Players / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Hide Self",
+      "value": "자신 숨기기",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Hide Self / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Avatar Offset",
+      "value": "아바타 오프셋",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Avatar Offset / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Rotate With Avatar",
+      "value": "아바타 회전 연동",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Rotate With Avatar / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Drop (Reset to Hand)",
+      "value": "손 위치로 복귀",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Drop (Reset to Hand) / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Move Drone Vertical",
+      "value": "드론 수직 이동",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Move Drone Vertical / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Camera Pins & Dolly",
+      "value": "카메라 핀 및 돌리",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Camera Pins & Dolly / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Teleport",
+      "value": "핀 이동",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Teleport / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Dolly",
+      "value": "돌리",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Dolly / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Reset to Hand",
+      "value": "손 위치로 복귀",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Reset to Hand / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Show Pins",
+      "value": "핀 표시",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Show Pins / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Show Path",
+      "value": "경로 표시",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Show Path / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Show Numbers",
+      "value": "번호 표시",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Show Numbers / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Play",
+      "value": "재생",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Play / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Stop",
+      "value": "정지",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Stop / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Playback",
+      "value": "재생 위치",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Playback / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Move",
+      "value": "수동 이동",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Move / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Go To Pin",
+      "value": "핀으로 이동",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Go To Pin / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Duration",
+      "value": "소요 시간",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Duration / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Loop",
+      "value": "반복",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Loop / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Delay",
+      "value": "시작 대기",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Delay / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Path",
+      "value": "경로",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Path / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Hand Rotate (Pins)",
+      "value": "손으로 회전(핀)",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Hand Rotate (Pins) / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Hand Offset",
+      "value": "손 위치 연동",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Hand Offset / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Drop Next",
+      "value": "다음 핀 설치",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Drop Next / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Clear All (Hold)",
+      "value": "모두 해제(길게 누르기)",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Camera Pins & Dolly / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Full",
+      "value": "모든 방향",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Full / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Vertical",
+      "value": "수직만",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Vertical / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Teleport Next",
+      "value": "다음 핀으로",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Teleport Next / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Reverse",
+      "value": "왕복",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Reverse / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Linear",
+      "value": "직선",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Linear / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Smooth",
+      "value": "전체 지점 보간",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Smooth / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Fitted",
+      "value": "근사 곡선",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Fitted / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Preset Saver",
+      "value": "프리셋 저장",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Preset Saver / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Save",
+      "value": "저장",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Save / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Load",
+      "value": "불러오기",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Load / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Load Defaults",
+      "value": "기본값 불러오기",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Load Defaults / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Favorites",
+      "value": "즐겨찾기",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Favorites / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    }
+  ],
+  "directions": [
+    {
+      "key": "TOP",
+      "value": "위",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "UP",
+      "value": "위",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "RIGHT",
+      "value": "오른쪽",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "BOTTOM",
+      "value": "아래",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "DOWN",
+      "value": "아래",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "LEFT",
+      "value": "왼쪽",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "FORWARD",
+      "value": "앞",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "BACK",
+      "value": "뒤",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    }
+  ],
+  "dynamic": [
+    {
+      "key": "Next",
+      "value": "다음",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "CameraPin",
+      "value": "핀 {0}",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Camera Pins & Dolly / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Seconds",
+      "value": "{0}초",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Duration / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "Minutes",
+      "value": "{0}분",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Duration / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "WorldDrop",
+      "value": "월드 고정",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "CameraPinDrop",
+      "value": "핀 설치",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Camera Pins & Dolly / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "VignetteSoftness",
+      "value": "가장자리 부드러움",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Vignette / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "FisheyeCenterX",
+      "value": "가로 위치",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Fisheye Lens / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "FisheyeCenterY",
+      "value": "세로 위치",
+      "source": "https://github.com/gummidot/VRCLens-Addons/blob/main/README_JP.md",
+      "section": "Fisheye Lens / 機能説明・設定表",
+      "basis": "function-reviewed",
+      "sourceTerm": "",
+      "note": "作者の日本語機能説明と英語キーで機能の意味を照合。訳語自体の対象地域の用例は未確認のため未確定一覧に残す。"
+    },
+    {
+      "key": "ZoomInSpeed4",
+      "value": "망원 측 속도 4",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "ZoomOutSpeed4",
+      "value": "광각 측 속도 4",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    }
+  ],
+  "featureBlanks": [
+    {
+      "key": "100",
+      "value": "광각 측 속도 1",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "101",
+      "value": "광각 측 속도 2",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "102",
+      "value": "광각 측 속도 3",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "104",
+      "value": "망원 측 속도 1",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "105",
+      "value": "망원 측 속도 2",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "106",
+      "value": "망원 측 속도 3",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "108",
+      "value": "노출 보정 -1/3스톱",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "110",
+      "value": "노출 보정 +1/3스톱",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "113",
+      "value": "WB 보정: 청색 방향",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "114",
+      "value": "WB 보정: 초기화",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "115",
+      "value": "WB 보정: 앰버 방향",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "117",
+      "value": "가까운 범위 쪽 중간",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "118",
+      "value": "가까운 범위 쪽 작게",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "120",
+      "value": "무한대 쪽 작게",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "121",
+      "value": "무한대 쪽 중간",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "129",
+      "value": "조금 위 보기",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "130",
+      "value": "조금 아래 보기",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    }
+  ],
+  "sensorBlanks": [
+    {
+      "key": "0",
+      "value": "35mm 풀프레임",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "1",
+      "value": "APS-H",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "2",
+      "value": "APS-C(1.5배)",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "3",
+      "value": "APS-C(1.6배)",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "4",
+      "value": "마이크로 포서드",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "5",
+      "value": "1.0형",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    }
+  ],
+  "tonemapBlanks": [
+    {
+      "key": "0",
+      "value": "해제",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "1",
+      "value": "필믹 1",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "2",
+      "value": "필믹 2",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "3",
+      "value": "HLG",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    },
+    {
+      "key": "4",
+      "value": "뉴트럴",
+      "source": "",
+      "section": "",
+      "basis": "review-required",
+      "sourceTerm": "",
+      "note": "英語キーと既存訳の意味・表記を点検。対象言語の適切な外部出典は未確認。既存訳を維持し、公式訳とは扱わない。"
+    }
+  ]
+}

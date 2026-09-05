@@ -4,20 +4,9 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 using VRC.SDK3.Avatars.ScriptableObjects;
-using VRC.SDKBase;
 
 namespace VRCLensCustom
 {
-    /// <summary>
-    /// Common base for the settings-free localization installer markers.
-    /// Removing the installer prefab remains the only on/off switch; build hooks intentionally find
-    /// markers on inactive objects as well.
-    /// </summary>
-    [DisallowMultipleComponent]
-    public abstract class VRCLensLocalizationMarker : MonoBehaviour, IEditorOnly
-    {
-    }
-
     /// <summary>Immutable identity and installer metadata for one shipped localization.</summary>
     internal sealed class VRCLensLocalizationProfile
     {
@@ -156,14 +145,20 @@ namespace VRCLensCustom
                 return false;
             }
 
-            // Unity can leave a null slot in GetComponentsInChildren<T>() while an editor-only
-            // component is being destroyed (notably when Enter Play Mode Options disables domain
-            // and scene reloads). Treat those transient slots as absent. Counting the raw array or
-            // dereferencing its only element made this global build hook crash on unrelated
-            // avatars after a previous preview/build removed a localization marker.
-            var markers = LiveMarkers(
-                avatar.GetComponentsInChildren<VRCLensLocalizationMarker>(true));
+            var markers = avatar.GetComponentsInChildren<VRCLensLocalizationMarker>(true);
             if (markers.Length == 0) return true;
+
+            // Unity can return null entries for scripts it cannot load. Do not silently discard
+            // these: that could let an installed language disappear from the uploaded menu.
+            if (markers.Any(marker => marker == null))
+            {
+                error = "VRCLens localization found an unloadable script on avatar '" +
+                        avatar.name + "'. Check for missing scripts and reinstall the localization " +
+                        "add-on if necessary. Localization marker scripts must be outside every " +
+                        "Editor folder and compiled in a runtime assembly. Run Tools > " +
+                        "VRCLens Localization > Validate Package for prefab diagnostics.";
+                return false;
+            }
 
             if (markers.Length > 1)
             {
@@ -187,14 +182,6 @@ namespace VRCLensCustom
             return true;
         }
 
-        private static VRCLensLocalizationMarker[] LiveMarkers(
-            IEnumerable<VRCLensLocalizationMarker> markers)
-        {
-            return markers == null
-                ? new VRCLensLocalizationMarker[0]
-                : markers.Where(marker => marker != null).ToArray();
-        }
-
         /// <summary>
         /// Asset-free regression coverage for avatar-wide selection. It intentionally uses separate
         /// child objects for duplicates because DisallowMultipleComponent only guards one object.
@@ -208,11 +195,6 @@ namespace VRCLensCustom
                 if (profiles.Count != 4)
                     throw new InvalidOperationException(
                         $"expected four localization profiles, found {profiles.Count}");
-
-                var nullOnly = LiveMarkers(new VRCLensLocalizationMarker[] { null });
-                if (nullOnly.Length != 0)
-                    throw new InvalidOperationException(
-                        "a transient null marker was not ignored");
 
                 WithTemporaryAvatar("LocalizationSelector_Zero", avatar =>
                 {

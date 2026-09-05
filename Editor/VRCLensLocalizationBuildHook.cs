@@ -20,26 +20,12 @@ namespace VRCLensCustom
 
         public bool OnPreprocessAvatar(GameObject avatarGameObject)
         {
-            try
-            {
-                // Avatar build callbacks are sequential. Clear the whole transient hand-off table
-                // so an aborted earlier build (whose cloned avatar had a different instance id)
-                // cannot be mistaken for this build after Unity eventually reuses that id.
-                VRCLensLocalizationDispatch.ClearAllFavoriteBridges();
-                return VRCLensLocalizationBuildUtility.TrySelect(
-                    avatarGameObject, out _);
-            }
-            catch (Exception exception)
-            {
-                // A preprocess callback must never leak an exception to the SDK: its generic
-                // "callback threw" message hides the actionable cause. Fail with our own
-                // diagnostic if a future Unity/VRCSDK edge case escapes the selector safeguards.
-                Debug.LogError($"{VRCLensLocalizationBuildUtility.LogPrefix} Upload failed. " +
-                               "The localization preflight could not inspect the avatar: " +
-                               exception.GetBaseException().Message);
-                Debug.LogException(exception);
-                return false;
-            }
+            // Avatar build callbacks are sequential. Clear the whole transient hand-off table so
+            // an aborted earlier build (whose cloned avatar had a different instance id) cannot be
+            // mistaken for this build after Unity eventually reuses that id.
+            VRCLensLocalizationDispatch.ClearAllFavoriteBridges();
+            return VRCLensLocalizationBuildUtility.TrySelect(
+                avatarGameObject, out _);
         }
     }
 

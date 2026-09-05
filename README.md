@@ -16,7 +16,10 @@ Free Camera Add-onsは任意です。入っていない場合はVRCLens本体だ
 VRCFuryが統合した`VRCL_Custom/*`メニューも同じ処理で翻訳します。本unitypackageには
 VRCLens、VRCFury、Free Camera Add-ons、有料素材、メニュー、Animation、Iconを同梱していません。
 また、Free Camera Add-onsと共有するasmdefは既存環境を上書きしないよう同梱せず、未導入環境では
-翻訳スクリプトが通常のEditor assemblyとしてコンパイルされます。
+翻訳処理は通常のEditor assemblyとしてコンパイルされます。
+Prefabに付く言語マーカーは`Runtime`に配置し、通常のruntime assemblyでコンパイルします。
+マーカーは`IEditorOnly`によりアップロード前に除去されます。`Editor`フォルダーへ移動すると
+UnityがPrefabのコンポーネントを読み込めなくなるため、フォルダー構成を維持してください。
 
 ## 使い方
 
@@ -48,6 +51,7 @@ Free Camera Add-onsのC#型は必須依存ではありません。
 Unity Editorで`Tools > VRCLens Localization > Validate Package`を実行できます。
 4カタログ、VRCLens本体の対応メニュー、導入済みならFree Camera Add-ons、共有／循環メニュー、
 Puppetラベル、競合検出、4つのinstaller Prefabと空のVRCFury Full Controllerを検査します。
+さらに、マーカーのruntime assembly所属と、各Prefabを配置したアバターの複製を検査します。
 
 ## ライセンス
 

@@ -19,7 +19,10 @@ VRCFury are translated as part of the same process. This unitypackage does not
 include VRCLens, VRCFury, Free Camera Add-ons, paid assets, menus, animations, or
 icons. It also omits the asmdef shared with Free Camera Add-ons to avoid
 overwriting an existing environment. When Free Camera Add-ons are not installed,
-the localization scripts are compiled as part of the regular Editor assembly.
+the localization logic is compiled as part of the regular Editor assembly.
+Prefab marker components live in `Runtime` and compile into a runtime assembly.
+The SDK strips them before upload through `IEditorOnly`. Keep these scripts outside
+`Editor` folders so Unity can load their serialized prefab components.
 
 ## Usage
 

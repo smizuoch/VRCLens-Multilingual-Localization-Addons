@@ -68,7 +68,10 @@ namespace VRCLensCustom
                 issues.Add("VRCFury is not loaded; installer Full Controllers cannot be verified");
 
             foreach (var profile in profiles)
+            {
                 ValidateInstaller(profile, vrcfuryType, issues);
+                ValidateInstantiatedInstaller(profile, issues);
+            }
             return issues;
         }
 
@@ -112,6 +115,51 @@ namespace VRCLensCustom
                 issues.Add($"{kind} '{group.Key}' is registered more than once");
         }
 
+        private static void ValidateInstantiatedInstaller(
+            VRCLensLocalizationProfile profile,
+            List<string> issues)
+        {
+            string subject = profile.LocaleCode + " instantiated installer";
+            if (!UnityEditor.Compilation.CompilationPipeline
+                    .GetAssemblies(UnityEditor.Compilation.AssembliesType.Player)
+                    .Any(assembly => assembly.name == profile.MarkerType.Assembly.GetName().Name))
+                issues.Add(subject + " marker is not compiled in a runtime assembly");
+
+            var prefab = AssetDatabase.LoadAssetAtPath<GameObject>(profile.PrefabPath);
+            if (prefab == null) return; // ValidateInstaller reports the missing asset.
+            var avatar = new GameObject("LocalizationInstallerValidation")
+            {
+                hideFlags = HideFlags.HideAndDontSave,
+            };
+            try
+            {
+                // AddComponent-only tests miss unloadable serialized Editor MonoBehaviours.
+                // Instantiate the shipped prefab, then clone its avatar as the SDK does.
+                var installer = (GameObject)PrefabUtility.InstantiatePrefab(prefab);
+                installer.transform.SetParent(avatar.transform, false);
+                foreach (bool inactive in new[] { false, true })
+                {
+                    installer.SetActive(!inactive);
+                    var clone = UnityEngine.Object.Instantiate(avatar);
+                    try
+                    {
+                        if (!VRCLensLocalizationSelector.TrySelect(
+                                clone, out var selection, out var error)
+                            || selection == null || selection.Marker == null
+                            || selection.Profile.LocaleCode != profile.LocaleCode)
+                            issues.Add(subject + (inactive ? " (inactive)" : " (active)") +
+                                       " failed selection: " + error);
+                    }
+                    finally { UnityEngine.Object.DestroyImmediate(clone); }
+                }
+            }
+            catch (Exception exception)
+            {
+                issues.Add(subject + " threw: " + exception.GetBaseException().Message);
+            }
+            finally { UnityEngine.Object.DestroyImmediate(avatar); }
+        }
+
         private static void ValidateInstaller(
             VRCLensLocalizationProfile profile,
             Type vrcfuryType,
@@ -129,6 +177,9 @@ namespace VRCLensCustom
             var markers = prefab.GetComponentsInChildren<VRCLensLocalizationMarker>(true);
             if (markers.Length != 1)
                 issues.Add($"{subject} has {markers.Length} markers; expected exactly one");
+            else if (markers[0] == null)
+                issues.Add(subject + " has an unloadable marker; keep marker scripts outside " +
+                           "Editor folders and editor-only assemblies");
             else if (markers[0].GetType() != profile.MarkerType
                      || markers[0].gameObject != prefab)
                 issues.Add(subject + " does not have its exact marker on the root");

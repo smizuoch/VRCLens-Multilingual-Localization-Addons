@@ -570,19 +570,21 @@ namespace VRCLensCustom
                 // translation changed no serialized field except Control.name and Label.name.
                 AssertDisplayOnlyClone(descriptor.expressionsMenu, clonedDescriptorRoot);
 
-                descriptor.expressionsMenu = clonedDescriptorRoot;
-                EditorUtility.SetDirty(descriptor);
-                // CreateAsset derives Object.name from the numbered temporary filename. Restoring a
-                // clone immediately after its own CreateAsset call is not sufficient: a later
-                // CreateAsset/import in this recursive graph can apply that filename-derived name to
-                // an earlier clone again. Wait until every menu asset exists, then restore all names
-                // together so the serial prefix can never enter the uploaded menu graph.
+                // A first import can still be deferred until saving the last asset in a large graph.
+                // Stabilize names only after every menu exists so any filename-derived Object.name
+                // normalization is repaired before the uploaded menu graph is accepted.
                 // Save only the build-only clones we own. AssetDatabase.SaveAssets() would also
                 // persist unrelated user assets that happened to be dirty when an avatar build
                 // started, which is outside this add-on's non-destructive scope.
-                foreach (var clone in copies.Values)
-                    AssetDatabase.SaveAssetIfDirty(clone);
-                AssertClonedMenuObjectNames(copies);
+                SaveClonedMenusWithStableObjectNames(copies);
+                // Re-run the complete invariant after persistence. This catches an importer that
+                // changed anything beyond the harmless, repaired filename-derived Object.name.
+                AssertDisplayOnlyClone(descriptor.expressionsMenu, clonedDescriptorRoot);
+
+                // Keep the operation transactional: do not point the build descriptor at the copy
+                // until that copy has been saved and has passed every structural invariant.
+                descriptor.expressionsMenu = clonedDescriptorRoot;
+                EditorUtility.SetDirty(descriptor);
 
                 if (unknown.Count > 0)
                 {
@@ -878,9 +880,40 @@ namespace VRCLensCustom
                 if (pair.Key == null || pair.Value == null)
                     throw new InvalidOperationException(
                         "VRCLens localization lost a source or cloned menu while restoring object names.");
-                pair.Value.name = pair.Key.name;
-                EditorUtility.SetDirty(pair.Value);
+                if (!string.Equals(pair.Value.name, pair.Key.name, StringComparison.Ordinal))
+                {
+                    pair.Value.name = pair.Key.name;
+                    EditorUtility.SetDirty(pair.Value);
+                }
             }
+        }
+
+        private static void SaveClonedMenusWithStableObjectNames(
+            Dictionary<VRCExpressionsMenu, VRCExpressionsMenu> copies)
+        {
+            // CreateAsset imports most generated menus immediately, but Unity can defer the final
+            // asset in a large graph until SaveAssetIfDirty. That late first import derives
+            // Object.name from the numbered filename after RestoreClonedMenuObjectNames already ran.
+            // A bounded second pass occurs after that import and persists only affected clones.
+            const int maxPasses = 3;
+            for (int pass = 1; pass <= maxPasses; pass++)
+            {
+                RestoreClonedMenuObjectNames(copies);
+                foreach (var clone in copies.Values)
+                    AssetDatabase.SaveAssetIfDirty(clone);
+
+                var mismatches = copies.Where(pair => pair.Key == null || pair.Value == null
+                    || !string.Equals(pair.Key.name, pair.Value.name, StringComparison.Ordinal))
+                    .ToArray();
+                if (mismatches.Length == 0) return;
+
+                if (pass < maxPasses)
+                    Debug.LogWarning($"{LogPrefix} Unity deferred the import of " +
+                                     $"{mismatches.Length} generated menu asset(s); stabilizing " +
+                                     $"their internal names (pass {pass + 1}/{maxPasses}).");
+            }
+
+            AssertClonedMenuObjectNames(copies);
         }
 
         private static void AssertClonedMenuObjectNames(
@@ -919,12 +952,19 @@ namespace VRCLensCustom
             {
                 string safeName = SanitizeFileName(
                     string.IsNullOrEmpty(source.name) ? "Menu" : source.name);
+                // Put the uniqueness token in a directory rather than in the asset filename.
+                // Unity derives Object.name from that filename during the first import, so a
+                // numbered filename can overwrite the source menu name when the final import is
+                // deferred until SaveAssetIfDirty.
+                string serialFolder = $"{destinationFolder}/{thisSerial:D3}";
+                if (!EnsureAssetFolder(serialFolder))
+                    throw new InvalidOperationException(
+                        $"Could not create temporary menu folder '{serialFolder}'.");
                 string path = AssetDatabase.GenerateUniqueAssetPath(
-                    $"{destinationFolder}/{thisSerial:D3}_{safeName}.asset");
+                    $"{serialFolder}/{safeName}.asset");
                 AssetDatabase.CreateAsset(clone, path);
-                // CreateAsset adopts the generated filename as Object.name. Restore it now for this
-                // recursion step and once more for the whole graph after all CreateAsset calls finish;
-                // Control.name/Label.name are the only fields this add-on is allowed to change.
+                // Blank names and names containing filesystem-invalid characters can still differ
+                // from safeName, so preserve the explicit restoration as a fallback.
                 clone.name = source.name;
                 EditorUtility.SetDirty(clone);
             }
@@ -1029,17 +1069,27 @@ namespace VRCLensCustom
                         throw new InvalidOperationException(
                             $"VRCLens localization shared control #{index} with '{source.name}'.");
 
-                    if (!ReferenceEquals(sourceControl.icon, cloneControl.icon)
-                        || sourceControl.type != cloneControl.type
-                        || FloatBits(sourceControl.value) != FloatBits(cloneControl.value)
-                        || sourceControl.style != cloneControl.style
-                        || !SameMenuParameter(sourceControl.parameter, cloneControl.parameter)
-                        || !SameMenuParameters(sourceControl.subParameters,
-                                               cloneControl.subParameters)
-                        || !SameLabelsExceptName(sourceControl.labels, cloneControl.labels))
+                    var behavioralDifferences = new List<string>();
+                    if (sourceControl.icon != cloneControl.icon)
+                        behavioralDifferences.Add("icon");
+                    if (sourceControl.type != cloneControl.type)
+                        behavioralDifferences.Add("type");
+                    if (FloatBits(sourceControl.value) != FloatBits(cloneControl.value))
+                        behavioralDifferences.Add(
+                            $"value ({sourceControl.value:R} -> {cloneControl.value:R})");
+                    if (sourceControl.style != cloneControl.style)
+                        behavioralDifferences.Add("style");
+                    if (!SameMenuParameter(sourceControl.parameter, cloneControl.parameter))
+                        behavioralDifferences.Add("parameter");
+                    if (!SameMenuParameters(sourceControl.subParameters,
+                                            cloneControl.subParameters))
+                        behavioralDifferences.Add("subParameters");
+                    if (!SameLabelsExceptName(sourceControl.labels, cloneControl.labels))
+                        behavioralDifferences.Add("labels");
+                    if (behavioralDifferences.Count > 0)
                         throw new InvalidOperationException(
                             $"VRCLens localization changed behavioral data on control #{index} " +
-                            $"in '{source.name}'.");
+                            $"in '{source.name}': {string.Join(", ", behavioralDifferences)}.");
 
                     var sourceSubMenu = sourceControl.subMenu;
                     var cloneSubMenu = cloneControl.subMenu;
@@ -1076,19 +1126,28 @@ namespace VRCLensCustom
             VRCExpressionsMenu.Control.Parameter source,
             VRCExpressionsMenu.Control.Parameter clone)
         {
-            if (source == null || clone == null) return source == null && clone == null;
+            if (source == null || clone == null)
+            {
+                // Unity serializes a missing nested Parameter as a default Parameter with an empty
+                // name. VRC treats both forms as "no parameter".
+                var present = source ?? clone;
+                return present == null || string.IsNullOrEmpty(present.name);
+            }
             return !ReferenceEquals(source, clone)
-                   && string.Equals(source.name, clone.name, StringComparison.Ordinal);
+                   && string.Equals(source.name ?? "", clone.name ?? "",
+                                    StringComparison.Ordinal);
         }
 
         private static bool SameMenuParameters(
             VRCExpressionsMenu.Control.Parameter[] source,
             VRCExpressionsMenu.Control.Parameter[] clone)
         {
-            if (source == null || clone == null) return source == null && clone == null;
-            if (source.Length != clone.Length) return false;
-            if (source.Length > 0 && ReferenceEquals(source, clone)) return false;
-            for (int index = 0; index < source.Length; index++)
+            int sourceLength = source == null ? 0 : source.Length;
+            int cloneLength = clone == null ? 0 : clone.Length;
+            // Unity normalizes null serialized arrays to empty arrays. Both mean no sub-parameters.
+            if (sourceLength != cloneLength) return false;
+            if (sourceLength > 0 && ReferenceEquals(source, clone)) return false;
+            for (int index = 0; index < sourceLength; index++)
                 if (!SameMenuParameter(source[index], clone[index])) return false;
             return true;
         }
@@ -1097,17 +1156,19 @@ namespace VRCLensCustom
             VRCExpressionsMenu.Control.Label[] source,
             VRCExpressionsMenu.Control.Label[] clone)
         {
-            if (source == null || clone == null) return source == null && clone == null;
-            if (source.Length != clone.Length) return false;
-            if (source.Length > 0 && ReferenceEquals(source, clone)) return false;
-            for (int index = 0; index < source.Length; index++)
+            int sourceLength = source == null ? 0 : source.Length;
+            int cloneLength = clone == null ? 0 : clone.Length;
+            // Unity normalizes null serialized arrays to empty arrays. Both mean no labels.
+            if (sourceLength != cloneLength) return false;
+            if (sourceLength > 0 && ReferenceEquals(source, clone)) return false;
+            for (int index = 0; index < sourceLength; index++)
             {
                 object sourceLabel = source[index];
                 object cloneLabel = clone[index];
                 if ((sourceLabel == null) != (cloneLabel == null)) return false;
                 if (sourceLabel != null
                     && (ReferenceEquals(sourceLabel, cloneLabel)
-                        || !ReferenceEquals(source[index].icon, clone[index].icon))) return false;
+                        || source[index].icon != clone[index].icon)) return false;
             }
             return true;
         }
@@ -2123,8 +2184,8 @@ namespace VRCLensCustom
                 !VRCLensLocalizationRegistry.Profiles.Any(profile =>
                     string.Equals(path.Replace('\\', '/'), profile.PrefabPath,
                                   StringComparison.OrdinalIgnoreCase)));
-            if (coveredFreePrefabs != 32)
-                failures.Add($"expected 32 Free Add-ons prefabs, found {coveredFreePrefabs}");
+            if (coveredFreePrefabs != 33)
+                failures.Add($"expected 33 Free Add-ons prefabs, found {coveredFreePrefabs}");
 
             foreach (string prefabPath in prefabPaths)
             {
@@ -2656,6 +2717,7 @@ namespace VRCLensCustom
                 type = VRCExpressionsMenu.Control.ControlType.SubMenu,
                 subMenu = sourceShared,
                 parameter = new VRCExpressionsMenu.Control.Parameter { name = "" },
+                value = 1f,
                 subParameters = new VRCExpressionsMenu.Control.Parameter[0],
                 labels = new VRCExpressionsMenu.Control.Label[0],
             };
@@ -2665,6 +2727,7 @@ namespace VRCLensCustom
                 type = VRCExpressionsMenu.Control.ControlType.SubMenu,
                 subMenu = sourceShared,
                 parameter = new VRCExpressionsMenu.Control.Parameter { name = "" },
+                value = 1f,
                 subParameters = new VRCExpressionsMenu.Control.Parameter[0],
                 labels = new VRCExpressionsMenu.Control.Label[0],
             };
@@ -2686,12 +2749,24 @@ namespace VRCLensCustom
             sourceRoot.controls.Add(firstLink);
             sourceRoot.controls.Add(secondLink);
             sourceRoot.controls.Add(representative);
+            var sparseSubmenu = new VRCExpressionsMenu.Control
+            {
+                name = "Sparse Submenu",
+                type = VRCExpressionsMenu.Control.ControlType.SubMenu,
+                subMenu = sourceShared,
+                parameter = null,
+                subParameters = null,
+                labels = null,
+                value = 1f,
+            };
+            sourceRoot.controls.Add(sparseSubmenu);
             sourceShared.controls.Add(new VRCExpressionsMenu.Control
             {
                 name = "Cycle Back",
                 type = VRCExpressionsMenu.Control.ControlType.SubMenu,
                 subMenu = sourceRoot,
                 parameter = new VRCExpressionsMenu.Control.Parameter { name = "" },
+                value = 1f,
                 subParameters = new VRCExpressionsMenu.Control.Parameter[0],
                 labels = new VRCExpressionsMenu.Control.Label[0],
             });
@@ -2701,6 +2776,7 @@ namespace VRCLensCustom
             try
             {
                 var clonedRoot = CloneMenuGraph(sourceRoot, null, copies, ref serial, false);
+                AssertDisplayOnlyClone(sourceRoot, clonedRoot);
                 if (ReferenceEquals(clonedRoot, sourceRoot)
                     || ReferenceEquals(copies[sourceShared], sourceShared))
                     throw new InvalidOperationException("menu clone reused a source object");
@@ -2714,6 +2790,12 @@ namespace VRCLensCustom
                     throw new InvalidOperationException("a shared submenu was cloned more than once");
                 if (!ReferenceEquals(firstClonedShared.controls[0].subMenu, clonedRoot))
                     throw new InvalidOperationException("a submenu cycle did not point to the cloned root");
+
+                var clonedSparseSubmenu = clonedRoot.controls[3];
+                if (FloatBits(clonedSparseSubmenu.value) != FloatBits(sparseSubmenu.value)
+                    || !ReferenceEquals(clonedSparseSubmenu.subMenu, firstClonedShared))
+                    throw new InvalidOperationException(
+                        "a sparse submenu did not preserve its value or cloned submenu link");
 
                 var clonedRepresentative = clonedRoot.controls[2];
                 if (ReferenceEquals(clonedRepresentative, representative)

@@ -1,0 +1,310 @@
+{
+  "localeCode": "zh-Hans-CN",
+  "basis": "authored-translation-review-required",
+  "entries": [
+    {
+      "key": "Rule of Thirds",
+      "value": "三分法"
+    },
+    {
+      "key": "Quarters Grid",
+      "value": "四等分网格"
+    },
+    {
+      "key": "Bisection",
+      "value": "二等分"
+    },
+    {
+      "key": "Centered Subject",
+      "value": "中心构图"
+    },
+    {
+      "key": "Symmetry Axis",
+      "value": "对称轴"
+    },
+    {
+      "key": "Phi Grid",
+      "value": "黄金比例网格"
+    },
+    {
+      "key": "Frame Diagonal",
+      "value": "画面对角线"
+    },
+    {
+      "key": "Golden Triangle",
+      "value": "黄金三角形"
+    },
+    {
+      "key": "Triangle Composition",
+      "value": "三角形构图"
+    },
+    {
+      "key": "X Composition",
+      "value": "X形构图"
+    },
+    {
+      "key": "L Composition",
+      "value": "L形构图"
+    },
+    {
+      "key": "V Composition",
+      "value": "V形构图"
+    },
+    {
+      "key": "C Curve",
+      "value": "C形曲线"
+    },
+    {
+      "key": "S Curve",
+      "value": "S形曲线"
+    },
+    {
+      "key": "Fibonacci Spiral",
+      "value": "斐波那契螺旋"
+    },
+    {
+      "key": "Vanishing Point",
+      "value": "消失点"
+    },
+    {
+      "key": "Leading Lines",
+      "value": "引导线"
+    },
+    {
+      "key": "Tunnel Frame",
+      "value": "隧道框景"
+    },
+    {
+      "key": "Frame Within Frame",
+      "value": "框中框"
+    },
+    {
+      "key": "Sandwich Frame",
+      "value": "夹景构图"
+    },
+    {
+      "key": "Subject Contrast",
+      "value": "主体对比"
+    },
+    {
+      "key": "Negative Space",
+      "value": "留白"
+    },
+    {
+      "key": "Look and Lead Room",
+      "value": "视线与运动方向留白"
+    },
+    {
+      "key": "Odd Number Arrangement",
+      "value": "奇数排列"
+    },
+    {
+      "key": "Repetition and Rhythm",
+      "value": "重复与节奏"
+    },
+    {
+      "key": "Eye Line and Headroom",
+      "value": "眼线与头顶留白"
+    },
+    {
+      "key": "Headshot",
+      "value": "面部特写"
+    },
+    {
+      "key": "Bust Portrait",
+      "value": "胸像"
+    },
+    {
+      "key": "Waist Up Portrait",
+      "value": "半身像"
+    },
+    {
+      "key": "Full Body Portrait",
+      "value": "全身像"
+    },
+    {
+      "key": "Two Person Portrait",
+      "value": "双人构图"
+    },
+    {
+      "key": "Three Person Portrait",
+      "value": "三人构图"
+    },
+    {
+      "key": "Composition Basics",
+      "value": "基础构图"
+    },
+    {
+      "key": "Lines and Shapes",
+      "value": "线条与形状"
+    },
+    {
+      "key": "Composition Curves",
+      "value": "构图曲线"
+    },
+    {
+      "key": "Depth and Framing",
+      "value": "纵深与框景"
+    },
+    {
+      "key": "Space and Arrangement",
+      "value": "留白与布局"
+    },
+    {
+      "key": "Portrait Guides",
+      "value": "人像辅助线"
+    },
+    {
+      "key": "Composition Guides",
+      "value": "构图辅助线"
+    },
+    {
+      "key": "Composition Display",
+      "value": "显示辅助线"
+    },
+    {
+      "key": "Main Guide",
+      "value": "主辅助线"
+    },
+    {
+      "key": "Secondary Guide",
+      "value": "副辅助线"
+    },
+    {
+      "key": "Guide Type",
+      "value": "选择构图"
+    },
+    {
+      "key": "Guide Appearance",
+      "value": "外观"
+    },
+    {
+      "key": "Reset All Guides",
+      "value": "重置全部设置"
+    },
+    {
+      "key": "Reset Guide Placement",
+      "value": "重置位置"
+    },
+    {
+      "key": "Guide White",
+      "value": "白色"
+    },
+    {
+      "key": "Guide Black",
+      "value": "黑色"
+    },
+    {
+      "key": "Guide Yellow",
+      "value": "黄色"
+    },
+    {
+      "key": "Guide Cyan",
+      "value": "青色"
+    },
+    {
+      "key": "Guide Magenta",
+      "value": "品红色"
+    },
+    {
+      "key": "Guide Green",
+      "value": "绿色"
+    },
+    {
+      "key": "Guide Center",
+      "value": "居中"
+    },
+    {
+      "key": "Guide Top",
+      "value": "上"
+    },
+    {
+      "key": "Guide Bottom",
+      "value": "下"
+    },
+    {
+      "key": "Guide Left",
+      "value": "左"
+    },
+    {
+      "key": "Guide Right",
+      "value": "右"
+    },
+    {
+      "key": "Guide Top Left",
+      "value": "左上"
+    },
+    {
+      "key": "Guide Top Right",
+      "value": "右上"
+    },
+    {
+      "key": "Guide Bottom Left",
+      "value": "左下"
+    },
+    {
+      "key": "Guide Bottom Right",
+      "value": "右下"
+    },
+    {
+      "key": "Guide Rotation 0",
+      "value": "旋转 0°"
+    },
+    {
+      "key": "Guide Rotation 90",
+      "value": "旋转 90°"
+    },
+    {
+      "key": "Guide Rotation 180",
+      "value": "旋转 180°"
+    },
+    {
+      "key": "Guide Rotation 270",
+      "value": "旋转 270°"
+    },
+    {
+      "key": "Guide Color",
+      "value": "颜色"
+    },
+    {
+      "key": "Guide Corners",
+      "value": "四角"
+    },
+    {
+      "key": "Guide Horizontal Position",
+      "value": "水平位置"
+    },
+    {
+      "key": "Guide Vertical Position",
+      "value": "垂直位置"
+    },
+    {
+      "key": "Guide Line Width",
+      "value": "线宽"
+    },
+    {
+      "key": "Guide Mirror",
+      "value": "左右镜像"
+    },
+    {
+      "key": "Guide None",
+      "value": "无"
+    },
+    {
+      "key": "Guide Opacity",
+      "value": "不透明度"
+    },
+    {
+      "key": "Guide Orientation",
+      "value": "方向"
+    },
+    {
+      "key": "Guide Position",
+      "value": "位置"
+    },
+    {
+      "key": "Guide Scale",
+      "value": "大小 50–150%"
+    }
+  ]
+}

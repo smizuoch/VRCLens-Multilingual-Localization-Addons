@@ -1,0 +1,310 @@
+{
+  "localeCode": "uk-UA",
+  "basis": "authored-translation-review-required",
+  "entries": [
+    {
+      "key": "Rule of Thirds",
+      "value": "Правило третин"
+    },
+    {
+      "key": "Quarters Grid",
+      "value": "Сітка чвертей"
+    },
+    {
+      "key": "Bisection",
+      "value": "Поділ навпіл"
+    },
+    {
+      "key": "Centered Subject",
+      "value": "Об’єкт у центрі"
+    },
+    {
+      "key": "Symmetry Axis",
+      "value": "Вісь симетрії"
+    },
+    {
+      "key": "Phi Grid",
+      "value": "Сітка золотого перетину"
+    },
+    {
+      "key": "Frame Diagonal",
+      "value": "Діагональ кадру"
+    },
+    {
+      "key": "Golden Triangle",
+      "value": "Золотий трикутник"
+    },
+    {
+      "key": "Triangle Composition",
+      "value": "Трикутна композиція"
+    },
+    {
+      "key": "X Composition",
+      "value": "X-композиція"
+    },
+    {
+      "key": "L Composition",
+      "value": "L-композиція"
+    },
+    {
+      "key": "V Composition",
+      "value": "V-композиція"
+    },
+    {
+      "key": "C Curve",
+      "value": "C-подібна крива"
+    },
+    {
+      "key": "S Curve",
+      "value": "S-подібна крива"
+    },
+    {
+      "key": "Fibonacci Spiral",
+      "value": "Спіраль Фібоначчі"
+    },
+    {
+      "key": "Vanishing Point",
+      "value": "Точка сходження"
+    },
+    {
+      "key": "Leading Lines",
+      "value": "Напрямні лінії"
+    },
+    {
+      "key": "Tunnel Frame",
+      "value": "Тунельна рамка"
+    },
+    {
+      "key": "Frame Within Frame",
+      "value": "Рамка в рамці"
+    },
+    {
+      "key": "Sandwich Frame",
+      "value": "Бічне обрамлення"
+    },
+    {
+      "key": "Subject Contrast",
+      "value": "Контраст об’єктів"
+    },
+    {
+      "key": "Negative Space",
+      "value": "Негативний простір"
+    },
+    {
+      "key": "Look and Lead Room",
+      "value": "Простір у напрямку погляду й руху"
+    },
+    {
+      "key": "Odd Number Arrangement",
+      "value": "Непарна кількість об’єктів"
+    },
+    {
+      "key": "Repetition and Rhythm",
+      "value": "Повторення й ритм"
+    },
+    {
+      "key": "Eye Line and Headroom",
+      "value": "Лінія очей і простір над головою"
+    },
+    {
+      "key": "Headshot",
+      "value": "Крупний план обличчя"
+    },
+    {
+      "key": "Bust Portrait",
+      "value": "Погрудний портрет"
+    },
+    {
+      "key": "Waist Up Portrait",
+      "value": "Поясний портрет"
+    },
+    {
+      "key": "Full Body Portrait",
+      "value": "Портрет на повний зріст"
+    },
+    {
+      "key": "Two Person Portrait",
+      "value": "Портрет двох людей"
+    },
+    {
+      "key": "Three Person Portrait",
+      "value": "Портрет трьох людей"
+    },
+    {
+      "key": "Composition Basics",
+      "value": "Основи композиції"
+    },
+    {
+      "key": "Lines and Shapes",
+      "value": "Лінії та форми"
+    },
+    {
+      "key": "Composition Curves",
+      "value": "Композиційні криві"
+    },
+    {
+      "key": "Depth and Framing",
+      "value": "Глибина й обрамлення"
+    },
+    {
+      "key": "Space and Arrangement",
+      "value": "Простір і розміщення"
+    },
+    {
+      "key": "Portrait Guides",
+      "value": "Портретні напрямні"
+    },
+    {
+      "key": "Composition Guides",
+      "value": "Напрямні композиції"
+    },
+    {
+      "key": "Composition Display",
+      "value": "Показати напрямні"
+    },
+    {
+      "key": "Main Guide",
+      "value": "Основна напрямна"
+    },
+    {
+      "key": "Secondary Guide",
+      "value": "Додаткова напрямна"
+    },
+    {
+      "key": "Guide Type",
+      "value": "Вибрати композицію"
+    },
+    {
+      "key": "Guide Appearance",
+      "value": "Вигляд"
+    },
+    {
+      "key": "Reset All Guides",
+      "value": "Скинути все"
+    },
+    {
+      "key": "Reset Guide Placement",
+      "value": "Скинути розміщення"
+    },
+    {
+      "key": "Guide White",
+      "value": "Білий"
+    },
+    {
+      "key": "Guide Black",
+      "value": "Чорний"
+    },
+    {
+      "key": "Guide Yellow",
+      "value": "Жовтий"
+    },
+    {
+      "key": "Guide Cyan",
+      "value": "Блакитний"
+    },
+    {
+      "key": "Guide Magenta",
+      "value": "Пурпуровий"
+    },
+    {
+      "key": "Guide Green",
+      "value": "Зелений"
+    },
+    {
+      "key": "Guide Center",
+      "value": "Центр"
+    },
+    {
+      "key": "Guide Top",
+      "value": "Верх"
+    },
+    {
+      "key": "Guide Bottom",
+      "value": "Низ"
+    },
+    {
+      "key": "Guide Left",
+      "value": "Ліворуч"
+    },
+    {
+      "key": "Guide Right",
+      "value": "Праворуч"
+    },
+    {
+      "key": "Guide Top Left",
+      "value": "Угорі ліворуч"
+    },
+    {
+      "key": "Guide Top Right",
+      "value": "Угорі праворуч"
+    },
+    {
+      "key": "Guide Bottom Left",
+      "value": "Унизу ліворуч"
+    },
+    {
+      "key": "Guide Bottom Right",
+      "value": "Унизу праворуч"
+    },
+    {
+      "key": "Guide Rotation 0",
+      "value": "Поворот 0°"
+    },
+    {
+      "key": "Guide Rotation 90",
+      "value": "Поворот 90°"
+    },
+    {
+      "key": "Guide Rotation 180",
+      "value": "Поворот 180°"
+    },
+    {
+      "key": "Guide Rotation 270",
+      "value": "Поворот 270°"
+    },
+    {
+      "key": "Guide Color",
+      "value": "Колір"
+    },
+    {
+      "key": "Guide Corners",
+      "value": "Кути"
+    },
+    {
+      "key": "Guide Horizontal Position",
+      "value": "Горизонтальне положення"
+    },
+    {
+      "key": "Guide Vertical Position",
+      "value": "Вертикальне положення"
+    },
+    {
+      "key": "Guide Line Width",
+      "value": "Товщина ліній"
+    },
+    {
+      "key": "Guide Mirror",
+      "value": "Віддзеркалити горизонтально"
+    },
+    {
+      "key": "Guide None",
+      "value": "Немає"
+    },
+    {
+      "key": "Guide Opacity",
+      "value": "Непрозорість"
+    },
+    {
+      "key": "Guide Orientation",
+      "value": "Орієнтація"
+    },
+    {
+      "key": "Guide Position",
+      "value": "Розміщення"
+    },
+    {
+      "key": "Guide Scale",
+      "value": "Розмір 50–150%"
+    }
+  ]
+}

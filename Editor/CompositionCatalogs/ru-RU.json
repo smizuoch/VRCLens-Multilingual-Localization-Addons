@@ -1,0 +1,310 @@
+{
+  "localeCode": "ru-RU",
+  "basis": "authored-translation-review-required",
+  "entries": [
+    {
+      "key": "Rule of Thirds",
+      "value": "Правило третей"
+    },
+    {
+      "key": "Quarters Grid",
+      "value": "Сетка четвертей"
+    },
+    {
+      "key": "Bisection",
+      "value": "Деление пополам"
+    },
+    {
+      "key": "Centered Subject",
+      "value": "Объект в центре"
+    },
+    {
+      "key": "Symmetry Axis",
+      "value": "Ось симметрии"
+    },
+    {
+      "key": "Phi Grid",
+      "value": "Сетка золотого сечения"
+    },
+    {
+      "key": "Frame Diagonal",
+      "value": "Диагональ кадра"
+    },
+    {
+      "key": "Golden Triangle",
+      "value": "Золотой треугольник"
+    },
+    {
+      "key": "Triangle Composition",
+      "value": "Треугольная композиция"
+    },
+    {
+      "key": "X Composition",
+      "value": "X-композиция"
+    },
+    {
+      "key": "L Composition",
+      "value": "L-композиция"
+    },
+    {
+      "key": "V Composition",
+      "value": "V-композиция"
+    },
+    {
+      "key": "C Curve",
+      "value": "C-образная кривая"
+    },
+    {
+      "key": "S Curve",
+      "value": "S-образная кривая"
+    },
+    {
+      "key": "Fibonacci Spiral",
+      "value": "Спираль Фибоначчи"
+    },
+    {
+      "key": "Vanishing Point",
+      "value": "Точка схода"
+    },
+    {
+      "key": "Leading Lines",
+      "value": "Направляющие линии"
+    },
+    {
+      "key": "Tunnel Frame",
+      "value": "Туннельная рамка"
+    },
+    {
+      "key": "Frame Within Frame",
+      "value": "Рамка в рамке"
+    },
+    {
+      "key": "Sandwich Frame",
+      "value": "Боковое обрамление"
+    },
+    {
+      "key": "Subject Contrast",
+      "value": "Контраст объектов"
+    },
+    {
+      "key": "Negative Space",
+      "value": "Негативное пространство"
+    },
+    {
+      "key": "Look and Lead Room",
+      "value": "Пространство по направлению взгляда и движения"
+    },
+    {
+      "key": "Odd Number Arrangement",
+      "value": "Нечётное число объектов"
+    },
+    {
+      "key": "Repetition and Rhythm",
+      "value": "Повторение и ритм"
+    },
+    {
+      "key": "Eye Line and Headroom",
+      "value": "Линия глаз и пространство над головой"
+    },
+    {
+      "key": "Headshot",
+      "value": "Крупный план лица"
+    },
+    {
+      "key": "Bust Portrait",
+      "value": "Погрудный портрет"
+    },
+    {
+      "key": "Waist Up Portrait",
+      "value": "Поясной портрет"
+    },
+    {
+      "key": "Full Body Portrait",
+      "value": "Ростовой портрет"
+    },
+    {
+      "key": "Two Person Portrait",
+      "value": "Портрет двух человек"
+    },
+    {
+      "key": "Three Person Portrait",
+      "value": "Портрет трёх человек"
+    },
+    {
+      "key": "Composition Basics",
+      "value": "Основы композиции"
+    },
+    {
+      "key": "Lines and Shapes",
+      "value": "Линии и формы"
+    },
+    {
+      "key": "Composition Curves",
+      "value": "Композиционные кривые"
+    },
+    {
+      "key": "Depth and Framing",
+      "value": "Глубина и обрамление"
+    },
+    {
+      "key": "Space and Arrangement",
+      "value": "Пространство и размещение"
+    },
+    {
+      "key": "Portrait Guides",
+      "value": "Портретные направляющие"
+    },
+    {
+      "key": "Composition Guides",
+      "value": "Направляющие композиции"
+    },
+    {
+      "key": "Composition Display",
+      "value": "Показать направляющие"
+    },
+    {
+      "key": "Main Guide",
+      "value": "Основная направляющая"
+    },
+    {
+      "key": "Secondary Guide",
+      "value": "Дополнительная направляющая"
+    },
+    {
+      "key": "Guide Type",
+      "value": "Выбрать композицию"
+    },
+    {
+      "key": "Guide Appearance",
+      "value": "Внешний вид"
+    },
+    {
+      "key": "Reset All Guides",
+      "value": "Сбросить всё"
+    },
+    {
+      "key": "Reset Guide Placement",
+      "value": "Сбросить размещение"
+    },
+    {
+      "key": "Guide White",
+      "value": "Белый"
+    },
+    {
+      "key": "Guide Black",
+      "value": "Чёрный"
+    },
+    {
+      "key": "Guide Yellow",
+      "value": "Жёлтый"
+    },
+    {
+      "key": "Guide Cyan",
+      "value": "Голубой"
+    },
+    {
+      "key": "Guide Magenta",
+      "value": "Пурпурный"
+    },
+    {
+      "key": "Guide Green",
+      "value": "Зелёный"
+    },
+    {
+      "key": "Guide Center",
+      "value": "Центр"
+    },
+    {
+      "key": "Guide Top",
+      "value": "Верх"
+    },
+    {
+      "key": "Guide Bottom",
+      "value": "Низ"
+    },
+    {
+      "key": "Guide Left",
+      "value": "Лево"
+    },
+    {
+      "key": "Guide Right",
+      "value": "Право"
+    },
+    {
+      "key": "Guide Top Left",
+      "value": "Вверху слева"
+    },
+    {
+      "key": "Guide Top Right",
+      "value": "Вверху справа"
+    },
+    {
+      "key": "Guide Bottom Left",
+      "value": "Внизу слева"
+    },
+    {
+      "key": "Guide Bottom Right",
+      "value": "Внизу справа"
+    },
+    {
+      "key": "Guide Rotation 0",
+      "value": "Поворот 0°"
+    },
+    {
+      "key": "Guide Rotation 90",
+      "value": "Поворот 90°"
+    },
+    {
+      "key": "Guide Rotation 180",
+      "value": "Поворот 180°"
+    },
+    {
+      "key": "Guide Rotation 270",
+      "value": "Поворот 270°"
+    },
+    {
+      "key": "Guide Color",
+      "value": "Цвет"
+    },
+    {
+      "key": "Guide Corners",
+      "value": "Углы"
+    },
+    {
+      "key": "Guide Horizontal Position",
+      "value": "Положение по горизонтали"
+    },
+    {
+      "key": "Guide Vertical Position",
+      "value": "Положение по вертикали"
+    },
+    {
+      "key": "Guide Line Width",
+      "value": "Толщина линий"
+    },
+    {
+      "key": "Guide Mirror",
+      "value": "Отразить по горизонтали"
+    },
+    {
+      "key": "Guide None",
+      "value": "Нет"
+    },
+    {
+      "key": "Guide Opacity",
+      "value": "Непрозрачность"
+    },
+    {
+      "key": "Guide Orientation",
+      "value": "Ориентация"
+    },
+    {
+      "key": "Guide Position",
+      "value": "Размещение"
+    },
+    {
+      "key": "Guide Scale",
+      "value": "Размер 50–150%"
+    }
+  ]
+}

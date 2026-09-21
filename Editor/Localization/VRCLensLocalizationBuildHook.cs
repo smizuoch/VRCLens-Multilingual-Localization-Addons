@@ -16,7 +16,7 @@ namespace VRCLensCustom
     /// </summary>
     public sealed class VRCLensLocalizationPreflightHook : IVRCSDKPreprocessAvatarCallback
     {
-        public int callbackOrder => -20001;
+        public int callbackOrder => -20003;
 
         public bool OnPreprocessAvatar(GameObject avatarGameObject)
         {
@@ -107,7 +107,11 @@ namespace VRCLensCustom
             if (!TrySelect(avatar, out var selection)) return false;
             try
             {
-                if (selection != null) VRCLensMenuLocalizer.CaptureFavoritePages(avatar);
+                if (selection != null)
+                {
+                    VRCLensMenuLocalizer.CaptureFavoritePages(avatar);
+                    VRCLensCompositionLocalization.PrepareBuild(avatar);
+                }
                 preparedAvatar = avatar;
                 preparedProfile = selection?.Profile;
                 return true;

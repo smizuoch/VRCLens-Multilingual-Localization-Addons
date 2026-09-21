@@ -1,0 +1,310 @@
+{
+  "localeCode": "el-GR",
+  "basis": "authored-translation-review-required",
+  "entries": [
+    {
+      "key": "Rule of Thirds",
+      "value": "Κανόνας των τρίτων"
+    },
+    {
+      "key": "Quarters Grid",
+      "value": "Πλέγμα τετάρτων"
+    },
+    {
+      "key": "Bisection",
+      "value": "Διαίρεση στα δύο"
+    },
+    {
+      "key": "Centered Subject",
+      "value": "Θέμα στο κέντρο"
+    },
+    {
+      "key": "Symmetry Axis",
+      "value": "Άξονας συμμετρίας"
+    },
+    {
+      "key": "Phi Grid",
+      "value": "Πλέγμα χρυσής τομής"
+    },
+    {
+      "key": "Frame Diagonal",
+      "value": "Διαγώνιος κάδρου"
+    },
+    {
+      "key": "Golden Triangle",
+      "value": "Χρυσό τρίγωνο"
+    },
+    {
+      "key": "Triangle Composition",
+      "value": "Τριγωνική σύνθεση"
+    },
+    {
+      "key": "X Composition",
+      "value": "Σύνθεση X"
+    },
+    {
+      "key": "L Composition",
+      "value": "Σύνθεση L"
+    },
+    {
+      "key": "V Composition",
+      "value": "Σύνθεση V"
+    },
+    {
+      "key": "C Curve",
+      "value": "Καμπύλη C"
+    },
+    {
+      "key": "S Curve",
+      "value": "Καμπύλη S"
+    },
+    {
+      "key": "Fibonacci Spiral",
+      "value": "Σπείρα Φιμπονάτσι"
+    },
+    {
+      "key": "Vanishing Point",
+      "value": "Σημείο φυγής"
+    },
+    {
+      "key": "Leading Lines",
+      "value": "Κατευθυντήριες γραμμές"
+    },
+    {
+      "key": "Tunnel Frame",
+      "value": "Πλαίσιο σήραγγας"
+    },
+    {
+      "key": "Frame Within Frame",
+      "value": "Πλαίσιο μέσα σε πλαίσιο"
+    },
+    {
+      "key": "Sandwich Frame",
+      "value": "Πλευρικό πλαίσιο"
+    },
+    {
+      "key": "Subject Contrast",
+      "value": "Αντίθεση θεμάτων"
+    },
+    {
+      "key": "Negative Space",
+      "value": "Αρνητικός χώρος"
+    },
+    {
+      "key": "Look and Lead Room",
+      "value": "Χώρος βλέμματος και κίνησης"
+    },
+    {
+      "key": "Odd Number Arrangement",
+      "value": "Περιττός αριθμός θεμάτων"
+    },
+    {
+      "key": "Repetition and Rhythm",
+      "value": "Επανάληψη και ρυθμός"
+    },
+    {
+      "key": "Eye Line and Headroom",
+      "value": "Γραμμή ματιών και χώρος κεφαλής"
+    },
+    {
+      "key": "Headshot",
+      "value": "Κοντινό προσώπου"
+    },
+    {
+      "key": "Bust Portrait",
+      "value": "Πορτρέτο έως το στήθος"
+    },
+    {
+      "key": "Waist Up Portrait",
+      "value": "Πορτρέτο από τη μέση"
+    },
+    {
+      "key": "Full Body Portrait",
+      "value": "Ολόσωμο πορτρέτο"
+    },
+    {
+      "key": "Two Person Portrait",
+      "value": "Πορτρέτο δύο ατόμων"
+    },
+    {
+      "key": "Three Person Portrait",
+      "value": "Πορτρέτο τριών ατόμων"
+    },
+    {
+      "key": "Composition Basics",
+      "value": "Βασική σύνθεση"
+    },
+    {
+      "key": "Lines and Shapes",
+      "value": "Γραμμές και σχήματα"
+    },
+    {
+      "key": "Composition Curves",
+      "value": "Καμπύλες σύνθεσης"
+    },
+    {
+      "key": "Depth and Framing",
+      "value": "Βάθος και πλαισίωση"
+    },
+    {
+      "key": "Space and Arrangement",
+      "value": "Χώρος και διάταξη"
+    },
+    {
+      "key": "Portrait Guides",
+      "value": "Οδηγοί πορτρέτου"
+    },
+    {
+      "key": "Composition Guides",
+      "value": "Οδηγοί σύνθεσης"
+    },
+    {
+      "key": "Composition Display",
+      "value": "Εμφάνιση οδηγών"
+    },
+    {
+      "key": "Main Guide",
+      "value": "Κύριος οδηγός"
+    },
+    {
+      "key": "Secondary Guide",
+      "value": "Δευτερεύων οδηγός"
+    },
+    {
+      "key": "Guide Type",
+      "value": "Επιλογή σύνθεσης"
+    },
+    {
+      "key": "Guide Appearance",
+      "value": "Εμφάνιση"
+    },
+    {
+      "key": "Reset All Guides",
+      "value": "Επαναφορά όλων"
+    },
+    {
+      "key": "Reset Guide Placement",
+      "value": "Επαναφορά τοποθέτησης"
+    },
+    {
+      "key": "Guide White",
+      "value": "Λευκό"
+    },
+    {
+      "key": "Guide Black",
+      "value": "Μαύρο"
+    },
+    {
+      "key": "Guide Yellow",
+      "value": "Κίτρινο"
+    },
+    {
+      "key": "Guide Cyan",
+      "value": "Κυανό"
+    },
+    {
+      "key": "Guide Magenta",
+      "value": "Ματζέντα"
+    },
+    {
+      "key": "Guide Green",
+      "value": "Πράσινο"
+    },
+    {
+      "key": "Guide Center",
+      "value": "Κέντρο"
+    },
+    {
+      "key": "Guide Top",
+      "value": "Πάνω"
+    },
+    {
+      "key": "Guide Bottom",
+      "value": "Κάτω"
+    },
+    {
+      "key": "Guide Left",
+      "value": "Αριστερά"
+    },
+    {
+      "key": "Guide Right",
+      "value": "Δεξιά"
+    },
+    {
+      "key": "Guide Top Left",
+      "value": "Πάνω αριστερά"
+    },
+    {
+      "key": "Guide Top Right",
+      "value": "Πάνω δεξιά"
+    },
+    {
+      "key": "Guide Bottom Left",
+      "value": "Κάτω αριστερά"
+    },
+    {
+      "key": "Guide Bottom Right",
+      "value": "Κάτω δεξιά"
+    },
+    {
+      "key": "Guide Rotation 0",
+      "value": "Περιστροφή 0°"
+    },
+    {
+      "key": "Guide Rotation 90",
+      "value": "Περιστροφή 90°"
+    },
+    {
+      "key": "Guide Rotation 180",
+      "value": "Περιστροφή 180°"
+    },
+    {
+      "key": "Guide Rotation 270",
+      "value": "Περιστροφή 270°"
+    },
+    {
+      "key": "Guide Color",
+      "value": "Χρώμα"
+    },
+    {
+      "key": "Guide Corners",
+      "value": "Γωνίες"
+    },
+    {
+      "key": "Guide Horizontal Position",
+      "value": "Οριζόντια θέση"
+    },
+    {
+      "key": "Guide Vertical Position",
+      "value": "Κατακόρυφη θέση"
+    },
+    {
+      "key": "Guide Line Width",
+      "value": "Πάχος γραμμής"
+    },
+    {
+      "key": "Guide Mirror",
+      "value": "Οριζόντιος κατοπτρισμός"
+    },
+    {
+      "key": "Guide None",
+      "value": "Κανένας"
+    },
+    {
+      "key": "Guide Opacity",
+      "value": "Αδιαφάνεια"
+    },
+    {
+      "key": "Guide Orientation",
+      "value": "Προσανατολισμός"
+    },
+    {
+      "key": "Guide Position",
+      "value": "Τοποθέτηση"
+    },
+    {
+      "key": "Guide Scale",
+      "value": "Μέγεθος 50–150%"
+    }
+  ]
+}

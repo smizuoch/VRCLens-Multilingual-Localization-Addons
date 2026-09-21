@@ -1,6 +1,9 @@
 # VRCLens Multilingual Localization Add-ons
 [English (README.Localization.en.md)](../README.Localization.en.md)
 
+構図ガイド単独版の76項目を26言語へ追加対応しました。
+[配布用unitypackage](../Releases~/VRCLens_Multilingual_Localization_CompositionGuides.unitypackage) / [併用方法と変更点](../Documentation/COMPOSITION_GUIDES_COMPATIBILITY.md)
+
 VRCLensのExpressions Menuと、導入済みのFree Camera Add-onsをビルド時だけ翻訳する
 VRCFury用アドオンです。26言語・ロケールに対応しています。
 出典・語義の確認が未完了の訳が含まれます。

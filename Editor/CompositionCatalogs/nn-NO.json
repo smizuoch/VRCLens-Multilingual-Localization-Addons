@@ -1,0 +1,310 @@
+{
+  "localeCode": "nn-NO",
+  "basis": "authored-translation-review-required",
+  "entries": [
+    {
+      "key": "Rule of Thirds",
+      "value": "Tredjedelsregelen"
+    },
+    {
+      "key": "Quarters Grid",
+      "value": "Fjerdedelsrutenett"
+    },
+    {
+      "key": "Bisection",
+      "value": "Halvering"
+    },
+    {
+      "key": "Centered Subject",
+      "value": "Sentrert motiv"
+    },
+    {
+      "key": "Symmetry Axis",
+      "value": "Symmetriakse"
+    },
+    {
+      "key": "Phi Grid",
+      "value": "Rutenett med gyllent snitt"
+    },
+    {
+      "key": "Frame Diagonal",
+      "value": "Biletdiagonal"
+    },
+    {
+      "key": "Golden Triangle",
+      "value": "Gyllen trekant"
+    },
+    {
+      "key": "Triangle Composition",
+      "value": "Trekantkomposisjon"
+    },
+    {
+      "key": "X Composition",
+      "value": "X-komposisjon"
+    },
+    {
+      "key": "L Composition",
+      "value": "L-komposisjon"
+    },
+    {
+      "key": "V Composition",
+      "value": "V-komposisjon"
+    },
+    {
+      "key": "C Curve",
+      "value": "C-kurve"
+    },
+    {
+      "key": "S Curve",
+      "value": "S-kurve"
+    },
+    {
+      "key": "Fibonacci Spiral",
+      "value": "Fibonacci-spiral"
+    },
+    {
+      "key": "Vanishing Point",
+      "value": "Forsvinningspunkt"
+    },
+    {
+      "key": "Leading Lines",
+      "value": "Leiande linjer"
+    },
+    {
+      "key": "Tunnel Frame",
+      "value": "Tunnelramme"
+    },
+    {
+      "key": "Frame Within Frame",
+      "value": "Ramme i ramme"
+    },
+    {
+      "key": "Sandwich Frame",
+      "value": "Innramming frå sidene"
+    },
+    {
+      "key": "Subject Contrast",
+      "value": "Motivkontrast"
+    },
+    {
+      "key": "Negative Space",
+      "value": "Negativt rom"
+    },
+    {
+      "key": "Look and Lead Room",
+      "value": "Plass i blikk- og rørsleretninga"
+    },
+    {
+      "key": "Odd Number Arrangement",
+      "value": "Oddetal av motiv"
+    },
+    {
+      "key": "Repetition and Rhythm",
+      "value": "Gjentaking og rytme"
+    },
+    {
+      "key": "Eye Line and Headroom",
+      "value": "Augelinje og plass over hovudet"
+    },
+    {
+      "key": "Headshot",
+      "value": "Nærbilete av ansikt"
+    },
+    {
+      "key": "Bust Portrait",
+      "value": "Brystportrett"
+    },
+    {
+      "key": "Waist Up Portrait",
+      "value": "Portrett frå livet"
+    },
+    {
+      "key": "Full Body Portrait",
+      "value": "Heilkroppsportrett"
+    },
+    {
+      "key": "Two Person Portrait",
+      "value": "Portrett av to personar"
+    },
+    {
+      "key": "Three Person Portrait",
+      "value": "Portrett av tre personar"
+    },
+    {
+      "key": "Composition Basics",
+      "value": "Grunnleggjande komposisjon"
+    },
+    {
+      "key": "Lines and Shapes",
+      "value": "Linjer og former"
+    },
+    {
+      "key": "Composition Curves",
+      "value": "Komposisjonskurver"
+    },
+    {
+      "key": "Depth and Framing",
+      "value": "Djupn og innramming"
+    },
+    {
+      "key": "Space and Arrangement",
+      "value": "Rom og plassering"
+    },
+    {
+      "key": "Portrait Guides",
+      "value": "Portrettguidar"
+    },
+    {
+      "key": "Composition Guides",
+      "value": "Komposisjonsguidar"
+    },
+    {
+      "key": "Composition Display",
+      "value": "Vis guidar"
+    },
+    {
+      "key": "Main Guide",
+      "value": "Hovudguide"
+    },
+    {
+      "key": "Secondary Guide",
+      "value": "Sekundær guide"
+    },
+    {
+      "key": "Guide Type",
+      "value": "Vel komposisjon"
+    },
+    {
+      "key": "Guide Appearance",
+      "value": "Utsjånad"
+    },
+    {
+      "key": "Reset All Guides",
+      "value": "Nullstill alt"
+    },
+    {
+      "key": "Reset Guide Placement",
+      "value": "Nullstill plassering"
+    },
+    {
+      "key": "Guide White",
+      "value": "Kvit"
+    },
+    {
+      "key": "Guide Black",
+      "value": "Svart"
+    },
+    {
+      "key": "Guide Yellow",
+      "value": "Gul"
+    },
+    {
+      "key": "Guide Cyan",
+      "value": "Cyan"
+    },
+    {
+      "key": "Guide Magenta",
+      "value": "Magenta"
+    },
+    {
+      "key": "Guide Green",
+      "value": "Grøn"
+    },
+    {
+      "key": "Guide Center",
+      "value": "Midten"
+    },
+    {
+      "key": "Guide Top",
+      "value": "Øvst"
+    },
+    {
+      "key": "Guide Bottom",
+      "value": "Nedst"
+    },
+    {
+      "key": "Guide Left",
+      "value": "Venstre"
+    },
+    {
+      "key": "Guide Right",
+      "value": "Høgre"
+    },
+    {
+      "key": "Guide Top Left",
+      "value": "Øvst til venstre"
+    },
+    {
+      "key": "Guide Top Right",
+      "value": "Øvst til høgre"
+    },
+    {
+      "key": "Guide Bottom Left",
+      "value": "Nedst til venstre"
+    },
+    {
+      "key": "Guide Bottom Right",
+      "value": "Nedst til høgre"
+    },
+    {
+      "key": "Guide Rotation 0",
+      "value": "Rotasjon 0°"
+    },
+    {
+      "key": "Guide Rotation 90",
+      "value": "Rotasjon 90°"
+    },
+    {
+      "key": "Guide Rotation 180",
+      "value": "Rotasjon 180°"
+    },
+    {
+      "key": "Guide Rotation 270",
+      "value": "Rotasjon 270°"
+    },
+    {
+      "key": "Guide Color",
+      "value": "Farge"
+    },
+    {
+      "key": "Guide Corners",
+      "value": "Hjørne"
+    },
+    {
+      "key": "Guide Horizontal Position",
+      "value": "Vassrett posisjon"
+    },
+    {
+      "key": "Guide Vertical Position",
+      "value": "Loddrett posisjon"
+    },
+    {
+      "key": "Guide Line Width",
+      "value": "Linjetjukkleik"
+    },
+    {
+      "key": "Guide Mirror",
+      "value": "Spegl vassrett"
+    },
+    {
+      "key": "Guide None",
+      "value": "Ingen"
+    },
+    {
+      "key": "Guide Opacity",
+      "value": "Ugjennomsikt"
+    },
+    {
+      "key": "Guide Orientation",
+      "value": "Retning"
+    },
+    {
+      "key": "Guide Position",
+      "value": "Plassering"
+    },
+    {
+      "key": "Guide Scale",
+      "value": "Storleik 50–150%"
+    }
+  ]
+}

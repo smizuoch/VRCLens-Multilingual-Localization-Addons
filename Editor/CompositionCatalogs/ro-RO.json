@@ -1,0 +1,310 @@
+{
+  "localeCode": "ro-RO",
+  "basis": "authored-translation-review-required",
+  "entries": [
+    {
+      "key": "Rule of Thirds",
+      "value": "Regula treimilor"
+    },
+    {
+      "key": "Quarters Grid",
+      "value": "Grilă de sferturi"
+    },
+    {
+      "key": "Bisection",
+      "value": "Împărțire în două"
+    },
+    {
+      "key": "Centered Subject",
+      "value": "Subiect centrat"
+    },
+    {
+      "key": "Symmetry Axis",
+      "value": "Axă de simetrie"
+    },
+    {
+      "key": "Phi Grid",
+      "value": "Grila secțiunii de aur"
+    },
+    {
+      "key": "Frame Diagonal",
+      "value": "Diagonala cadrului"
+    },
+    {
+      "key": "Golden Triangle",
+      "value": "Triunghi de aur"
+    },
+    {
+      "key": "Triangle Composition",
+      "value": "Compoziție triunghiulară"
+    },
+    {
+      "key": "X Composition",
+      "value": "Compoziție în X"
+    },
+    {
+      "key": "L Composition",
+      "value": "Compoziție în L"
+    },
+    {
+      "key": "V Composition",
+      "value": "Compoziție în V"
+    },
+    {
+      "key": "C Curve",
+      "value": "Curbă în C"
+    },
+    {
+      "key": "S Curve",
+      "value": "Curbă în S"
+    },
+    {
+      "key": "Fibonacci Spiral",
+      "value": "Spirală Fibonacci"
+    },
+    {
+      "key": "Vanishing Point",
+      "value": "Punct de fugă"
+    },
+    {
+      "key": "Leading Lines",
+      "value": "Linii directoare"
+    },
+    {
+      "key": "Tunnel Frame",
+      "value": "Cadru de tunel"
+    },
+    {
+      "key": "Frame Within Frame",
+      "value": "Cadru în cadru"
+    },
+    {
+      "key": "Sandwich Frame",
+      "value": "Încadrare laterală"
+    },
+    {
+      "key": "Subject Contrast",
+      "value": "Contrast între subiecte"
+    },
+    {
+      "key": "Negative Space",
+      "value": "Spațiu negativ"
+    },
+    {
+      "key": "Look and Lead Room",
+      "value": "Spațiu în direcția privirii și mișcării"
+    },
+    {
+      "key": "Odd Number Arrangement",
+      "value": "Număr impar de subiecte"
+    },
+    {
+      "key": "Repetition and Rhythm",
+      "value": "Repetiție și ritm"
+    },
+    {
+      "key": "Eye Line and Headroom",
+      "value": "Linia ochilor și spațiul deasupra capului"
+    },
+    {
+      "key": "Headshot",
+      "value": "Prim-plan al feței"
+    },
+    {
+      "key": "Bust Portrait",
+      "value": "Portret bust"
+    },
+    {
+      "key": "Waist Up Portrait",
+      "value": "Portret de la talie în sus"
+    },
+    {
+      "key": "Full Body Portrait",
+      "value": "Portret întreg"
+    },
+    {
+      "key": "Two Person Portrait",
+      "value": "Portret cu două persoane"
+    },
+    {
+      "key": "Three Person Portrait",
+      "value": "Portret cu trei persoane"
+    },
+    {
+      "key": "Composition Basics",
+      "value": "Compoziție de bază"
+    },
+    {
+      "key": "Lines and Shapes",
+      "value": "Linii și forme"
+    },
+    {
+      "key": "Composition Curves",
+      "value": "Curbe de compoziție"
+    },
+    {
+      "key": "Depth and Framing",
+      "value": "Profunzime și încadrare"
+    },
+    {
+      "key": "Space and Arrangement",
+      "value": "Spațiu și aranjare"
+    },
+    {
+      "key": "Portrait Guides",
+      "value": "Ghiduri pentru portrete"
+    },
+    {
+      "key": "Composition Guides",
+      "value": "Ghiduri de compoziție"
+    },
+    {
+      "key": "Composition Display",
+      "value": "Afișare ghiduri"
+    },
+    {
+      "key": "Main Guide",
+      "value": "Ghid principal"
+    },
+    {
+      "key": "Secondary Guide",
+      "value": "Ghid secundar"
+    },
+    {
+      "key": "Guide Type",
+      "value": "Alege compoziția"
+    },
+    {
+      "key": "Guide Appearance",
+      "value": "Aspect"
+    },
+    {
+      "key": "Reset All Guides",
+      "value": "Resetează tot"
+    },
+    {
+      "key": "Reset Guide Placement",
+      "value": "Resetează amplasarea"
+    },
+    {
+      "key": "Guide White",
+      "value": "Alb"
+    },
+    {
+      "key": "Guide Black",
+      "value": "Negru"
+    },
+    {
+      "key": "Guide Yellow",
+      "value": "Galben"
+    },
+    {
+      "key": "Guide Cyan",
+      "value": "Cyan"
+    },
+    {
+      "key": "Guide Magenta",
+      "value": "Magenta"
+    },
+    {
+      "key": "Guide Green",
+      "value": "Verde"
+    },
+    {
+      "key": "Guide Center",
+      "value": "Centru"
+    },
+    {
+      "key": "Guide Top",
+      "value": "Sus"
+    },
+    {
+      "key": "Guide Bottom",
+      "value": "Jos"
+    },
+    {
+      "key": "Guide Left",
+      "value": "Stânga"
+    },
+    {
+      "key": "Guide Right",
+      "value": "Dreapta"
+    },
+    {
+      "key": "Guide Top Left",
+      "value": "Stânga sus"
+    },
+    {
+      "key": "Guide Top Right",
+      "value": "Dreapta sus"
+    },
+    {
+      "key": "Guide Bottom Left",
+      "value": "Stânga jos"
+    },
+    {
+      "key": "Guide Bottom Right",
+      "value": "Dreapta jos"
+    },
+    {
+      "key": "Guide Rotation 0",
+      "value": "Rotire 0°"
+    },
+    {
+      "key": "Guide Rotation 90",
+      "value": "Rotire 90°"
+    },
+    {
+      "key": "Guide Rotation 180",
+      "value": "Rotire 180°"
+    },
+    {
+      "key": "Guide Rotation 270",
+      "value": "Rotire 270°"
+    },
+    {
+      "key": "Guide Color",
+      "value": "Culoare"
+    },
+    {
+      "key": "Guide Corners",
+      "value": "Colțuri"
+    },
+    {
+      "key": "Guide Horizontal Position",
+      "value": "Poziție orizontală"
+    },
+    {
+      "key": "Guide Vertical Position",
+      "value": "Poziție verticală"
+    },
+    {
+      "key": "Guide Line Width",
+      "value": "Grosimea liniei"
+    },
+    {
+      "key": "Guide Mirror",
+      "value": "Oglindire orizontală"
+    },
+    {
+      "key": "Guide None",
+      "value": "Niciunul"
+    },
+    {
+      "key": "Guide Opacity",
+      "value": "Opacitate"
+    },
+    {
+      "key": "Guide Orientation",
+      "value": "Orientare"
+    },
+    {
+      "key": "Guide Position",
+      "value": "Amplasare"
+    },
+    {
+      "key": "Guide Scale",
+      "value": "Mărime 50–150%"
+    }
+  ]
+}

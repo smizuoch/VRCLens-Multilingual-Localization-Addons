@@ -1,0 +1,310 @@
+{
+  "localeCode": "th-TH",
+  "basis": "authored-translation-review-required",
+  "entries": [
+    {
+      "key": "Rule of Thirds",
+      "value": "กฎสามส่วน"
+    },
+    {
+      "key": "Quarters Grid",
+      "value": "ตารางแบ่งสี่ส่วน"
+    },
+    {
+      "key": "Bisection",
+      "value": "แบ่งครึ่ง"
+    },
+    {
+      "key": "Centered Subject",
+      "value": "วางตัวแบบกลางภาพ"
+    },
+    {
+      "key": "Symmetry Axis",
+      "value": "แกนสมมาตร"
+    },
+    {
+      "key": "Phi Grid",
+      "value": "ตารางสัดส่วนทองคำ"
+    },
+    {
+      "key": "Frame Diagonal",
+      "value": "เส้นทแยงมุมภาพ"
+    },
+    {
+      "key": "Golden Triangle",
+      "value": "สามเหลี่ยมทองคำ"
+    },
+    {
+      "key": "Triangle Composition",
+      "value": "องค์ประกอบสามเหลี่ยม"
+    },
+    {
+      "key": "X Composition",
+      "value": "องค์ประกอบรูป X"
+    },
+    {
+      "key": "L Composition",
+      "value": "องค์ประกอบรูป L"
+    },
+    {
+      "key": "V Composition",
+      "value": "องค์ประกอบรูป V"
+    },
+    {
+      "key": "C Curve",
+      "value": "เส้นโค้งรูป C"
+    },
+    {
+      "key": "S Curve",
+      "value": "เส้นโค้งรูป S"
+    },
+    {
+      "key": "Fibonacci Spiral",
+      "value": "เกลียวฟีโบนัชชี"
+    },
+    {
+      "key": "Vanishing Point",
+      "value": "จุดรวมสายตา"
+    },
+    {
+      "key": "Leading Lines",
+      "value": "เส้นนำสายตา"
+    },
+    {
+      "key": "Tunnel Frame",
+      "value": "กรอบอุโมงค์"
+    },
+    {
+      "key": "Frame Within Frame",
+      "value": "กรอบในกรอบ"
+    },
+    {
+      "key": "Sandwich Frame",
+      "value": "กรอบขนาบข้าง"
+    },
+    {
+      "key": "Subject Contrast",
+      "value": "ความต่างของตัวแบบ"
+    },
+    {
+      "key": "Negative Space",
+      "value": "พื้นที่ว่าง"
+    },
+    {
+      "key": "Look and Lead Room",
+      "value": "พื้นที่ตามทิศสายตาและการเคลื่อนไหว"
+    },
+    {
+      "key": "Odd Number Arrangement",
+      "value": "จัดวางจำนวนคี่"
+    },
+    {
+      "key": "Repetition and Rhythm",
+      "value": "การซ้ำและจังหวะ"
+    },
+    {
+      "key": "Eye Line and Headroom",
+      "value": "แนวตาและพื้นที่เหนือศีรษะ"
+    },
+    {
+      "key": "Headshot",
+      "value": "ภาพใบหน้าระยะใกล้"
+    },
+    {
+      "key": "Bust Portrait",
+      "value": "ภาพบุคคลช่วงอก"
+    },
+    {
+      "key": "Waist Up Portrait",
+      "value": "ภาพบุคคลช่วงเอวขึ้นไป"
+    },
+    {
+      "key": "Full Body Portrait",
+      "value": "ภาพบุคคลเต็มตัว"
+    },
+    {
+      "key": "Two Person Portrait",
+      "value": "ภาพบุคคลสองคน"
+    },
+    {
+      "key": "Three Person Portrait",
+      "value": "ภาพบุคคลสามคน"
+    },
+    {
+      "key": "Composition Basics",
+      "value": "องค์ประกอบพื้นฐาน"
+    },
+    {
+      "key": "Lines and Shapes",
+      "value": "เส้นและรูปทรง"
+    },
+    {
+      "key": "Composition Curves",
+      "value": "เส้นโค้งองค์ประกอบ"
+    },
+    {
+      "key": "Depth and Framing",
+      "value": "ความลึกและกรอบภาพ"
+    },
+    {
+      "key": "Space and Arrangement",
+      "value": "พื้นที่และการจัดวาง"
+    },
+    {
+      "key": "Portrait Guides",
+      "value": "เส้นช่วยถ่ายบุคคล"
+    },
+    {
+      "key": "Composition Guides",
+      "value": "เส้นช่วยจัดองค์ประกอบ"
+    },
+    {
+      "key": "Composition Display",
+      "value": "แสดงเส้นช่วย"
+    },
+    {
+      "key": "Main Guide",
+      "value": "เส้นช่วยหลัก"
+    },
+    {
+      "key": "Secondary Guide",
+      "value": "เส้นช่วยรอง"
+    },
+    {
+      "key": "Guide Type",
+      "value": "เลือกองค์ประกอบ"
+    },
+    {
+      "key": "Guide Appearance",
+      "value": "ลักษณะเส้น"
+    },
+    {
+      "key": "Reset All Guides",
+      "value": "รีเซ็ตทั้งหมด"
+    },
+    {
+      "key": "Reset Guide Placement",
+      "value": "รีเซ็ตการจัดวาง"
+    },
+    {
+      "key": "Guide White",
+      "value": "ขาว"
+    },
+    {
+      "key": "Guide Black",
+      "value": "ดำ"
+    },
+    {
+      "key": "Guide Yellow",
+      "value": "เหลือง"
+    },
+    {
+      "key": "Guide Cyan",
+      "value": "ฟ้าไซแอน"
+    },
+    {
+      "key": "Guide Magenta",
+      "value": "มาเจนตา"
+    },
+    {
+      "key": "Guide Green",
+      "value": "เขียว"
+    },
+    {
+      "key": "Guide Center",
+      "value": "กลาง"
+    },
+    {
+      "key": "Guide Top",
+      "value": "บน"
+    },
+    {
+      "key": "Guide Bottom",
+      "value": "ล่าง"
+    },
+    {
+      "key": "Guide Left",
+      "value": "ซ้าย"
+    },
+    {
+      "key": "Guide Right",
+      "value": "ขวา"
+    },
+    {
+      "key": "Guide Top Left",
+      "value": "ซ้ายบน"
+    },
+    {
+      "key": "Guide Top Right",
+      "value": "ขวาบน"
+    },
+    {
+      "key": "Guide Bottom Left",
+      "value": "ซ้ายล่าง"
+    },
+    {
+      "key": "Guide Bottom Right",
+      "value": "ขวาล่าง"
+    },
+    {
+      "key": "Guide Rotation 0",
+      "value": "หมุน 0°"
+    },
+    {
+      "key": "Guide Rotation 90",
+      "value": "หมุน 90°"
+    },
+    {
+      "key": "Guide Rotation 180",
+      "value": "หมุน 180°"
+    },
+    {
+      "key": "Guide Rotation 270",
+      "value": "หมุน 270°"
+    },
+    {
+      "key": "Guide Color",
+      "value": "สี"
+    },
+    {
+      "key": "Guide Corners",
+      "value": "มุมทั้งสี่"
+    },
+    {
+      "key": "Guide Horizontal Position",
+      "value": "ตำแหน่งแนวนอน"
+    },
+    {
+      "key": "Guide Vertical Position",
+      "value": "ตำแหน่งแนวตั้ง"
+    },
+    {
+      "key": "Guide Line Width",
+      "value": "ความหนาเส้น"
+    },
+    {
+      "key": "Guide Mirror",
+      "value": "กลับด้านแนวนอน"
+    },
+    {
+      "key": "Guide None",
+      "value": "ไม่มี"
+    },
+    {
+      "key": "Guide Opacity",
+      "value": "ความทึบ"
+    },
+    {
+      "key": "Guide Orientation",
+      "value": "ทิศทาง"
+    },
+    {
+      "key": "Guide Position",
+      "value": "การจัดวาง"
+    },
+    {
+      "key": "Guide Scale",
+      "value": "ขนาด 50–150%"
+    }
+  ]
+}

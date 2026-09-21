@@ -1,0 +1,310 @@
+{
+  "localeCode": "ja-JP",
+  "basis": "package-author-labels",
+  "entries": [
+    {
+      "key": "Rule of Thirds",
+      "value": "三分割"
+    },
+    {
+      "key": "Quarters Grid",
+      "value": "四分割"
+    },
+    {
+      "key": "Bisection",
+      "value": "二分割"
+    },
+    {
+      "key": "Centered Subject",
+      "value": "日の丸"
+    },
+    {
+      "key": "Symmetry Axis",
+      "value": "シンメトリー"
+    },
+    {
+      "key": "Phi Grid",
+      "value": "黄金比グリッド"
+    },
+    {
+      "key": "Frame Diagonal",
+      "value": "対角線"
+    },
+    {
+      "key": "Golden Triangle",
+      "value": "黄金分割〈対角線と垂線〉"
+    },
+    {
+      "key": "Triangle Composition",
+      "value": "三角形"
+    },
+    {
+      "key": "X Composition",
+      "value": "X字"
+    },
+    {
+      "key": "L Composition",
+      "value": "L字"
+    },
+    {
+      "key": "V Composition",
+      "value": "V字"
+    },
+    {
+      "key": "C Curve",
+      "value": "C字"
+    },
+    {
+      "key": "S Curve",
+      "value": "S字"
+    },
+    {
+      "key": "Fibonacci Spiral",
+      "value": "フィボナッチ螺旋"
+    },
+    {
+      "key": "Vanishing Point",
+      "value": "放射線・消失点"
+    },
+    {
+      "key": "Leading Lines",
+      "value": "リーディングライン"
+    },
+    {
+      "key": "Tunnel Frame",
+      "value": "トンネル"
+    },
+    {
+      "key": "Frame Within Frame",
+      "value": "額縁"
+    },
+    {
+      "key": "Sandwich Frame",
+      "value": "サンドイッチ"
+    },
+    {
+      "key": "Subject Contrast",
+      "value": "対比"
+    },
+    {
+      "key": "Negative Space",
+      "value": "ネガティブスペース"
+    },
+    {
+      "key": "Look and Lead Room",
+      "value": "視線・進行方向の余白"
+    },
+    {
+      "key": "Odd Number Arrangement",
+      "value": "奇数配置"
+    },
+    {
+      "key": "Repetition and Rhythm",
+      "value": "反復・リズム"
+    },
+    {
+      "key": "Eye Line and Headroom",
+      "value": "目線・頭上余白"
+    },
+    {
+      "key": "Headshot",
+      "value": "顔アップ"
+    },
+    {
+      "key": "Bust Portrait",
+      "value": "バストアップ"
+    },
+    {
+      "key": "Waist Up Portrait",
+      "value": "腰上"
+    },
+    {
+      "key": "Full Body Portrait",
+      "value": "全身"
+    },
+    {
+      "key": "Two Person Portrait",
+      "value": "2人配置"
+    },
+    {
+      "key": "Three Person Portrait",
+      "value": "3人配置"
+    },
+    {
+      "key": "Composition Basics",
+      "value": "基本・分割"
+    },
+    {
+      "key": "Lines and Shapes",
+      "value": "直線・幾何学"
+    },
+    {
+      "key": "Composition Curves",
+      "value": "曲線"
+    },
+    {
+      "key": "Depth and Framing",
+      "value": "奥行き・囲み"
+    },
+    {
+      "key": "Space and Arrangement",
+      "value": "配置・余白"
+    },
+    {
+      "key": "Portrait Guides",
+      "value": "人物撮影"
+    },
+    {
+      "key": "Composition Guides",
+      "value": "構図ガイド"
+    },
+    {
+      "key": "Composition Display",
+      "value": "ガイド表示"
+    },
+    {
+      "key": "Main Guide",
+      "value": "主ガイド"
+    },
+    {
+      "key": "Secondary Guide",
+      "value": "補助ガイド"
+    },
+    {
+      "key": "Guide Type",
+      "value": "構図を選ぶ"
+    },
+    {
+      "key": "Guide Appearance",
+      "value": "見た目"
+    },
+    {
+      "key": "Reset All Guides",
+      "value": "全設定リセット"
+    },
+    {
+      "key": "Reset Guide Placement",
+      "value": "配置リセット"
+    },
+    {
+      "key": "Guide White",
+      "value": "白"
+    },
+    {
+      "key": "Guide Black",
+      "value": "黒"
+    },
+    {
+      "key": "Guide Yellow",
+      "value": "黄"
+    },
+    {
+      "key": "Guide Cyan",
+      "value": "シアン"
+    },
+    {
+      "key": "Guide Magenta",
+      "value": "マゼンタ"
+    },
+    {
+      "key": "Guide Green",
+      "value": "緑"
+    },
+    {
+      "key": "Guide Center",
+      "value": "中央"
+    },
+    {
+      "key": "Guide Top",
+      "value": "上"
+    },
+    {
+      "key": "Guide Bottom",
+      "value": "下"
+    },
+    {
+      "key": "Guide Left",
+      "value": "左"
+    },
+    {
+      "key": "Guide Right",
+      "value": "右"
+    },
+    {
+      "key": "Guide Top Left",
+      "value": "左上"
+    },
+    {
+      "key": "Guide Top Right",
+      "value": "右上"
+    },
+    {
+      "key": "Guide Bottom Left",
+      "value": "左下"
+    },
+    {
+      "key": "Guide Bottom Right",
+      "value": "右下"
+    },
+    {
+      "key": "Guide Rotation 0",
+      "value": "回転 0°"
+    },
+    {
+      "key": "Guide Rotation 90",
+      "value": "回転 90°"
+    },
+    {
+      "key": "Guide Rotation 180",
+      "value": "回転 180°"
+    },
+    {
+      "key": "Guide Rotation 270",
+      "value": "回転 270°"
+    },
+    {
+      "key": "Guide Color",
+      "value": "色"
+    },
+    {
+      "key": "Guide Corners",
+      "value": "四隅"
+    },
+    {
+      "key": "Guide Horizontal Position",
+      "value": "横位置"
+    },
+    {
+      "key": "Guide Vertical Position",
+      "value": "縦位置"
+    },
+    {
+      "key": "Guide Line Width",
+      "value": "線の太さ"
+    },
+    {
+      "key": "Guide Mirror",
+      "value": "左右反転"
+    },
+    {
+      "key": "Guide None",
+      "value": "なし"
+    },
+    {
+      "key": "Guide Opacity",
+      "value": "濃さ"
+    },
+    {
+      "key": "Guide Orientation",
+      "value": "向き"
+    },
+    {
+      "key": "Guide Position",
+      "value": "配置"
+    },
+    {
+      "key": "Guide Scale",
+      "value": "サイズ 50〜150%"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "localeCode": "pl-PL",
+  "basis": "authored-translation-review-required",
+  "entries": [
+    {
+      "key": "Rule of Thirds",
+      "value": "Reguła trójpodziału"
+    },
+    {
+      "key": "Quarters Grid",
+      "value": "Siatka ćwiartek"
+    },
+    {
+      "key": "Bisection",
+      "value": "Podział na połowy"
+    },
+    {
+      "key": "Centered Subject",
+      "value": "Obiekt w centrum"
+    },
+    {
+      "key": "Symmetry Axis",
+      "value": "Oś symetrii"
+    },
+    {
+      "key": "Phi Grid",
+      "value": "Siatka złotego podziału"
+    },
+    {
+      "key": "Frame Diagonal",
+      "value": "Przekątna kadru"
+    },
+    {
+      "key": "Golden Triangle",
+      "value": "Złoty trójkąt"
+    },
+    {
+      "key": "Triangle Composition",
+      "value": "Kompozycja trójkątna"
+    },
+    {
+      "key": "X Composition",
+      "value": "Kompozycja X"
+    },
+    {
+      "key": "L Composition",
+      "value": "Kompozycja L"
+    },
+    {
+      "key": "V Composition",
+      "value": "Kompozycja V"
+    },
+    {
+      "key": "C Curve",
+      "value": "Krzywa C"
+    },
+    {
+      "key": "S Curve",
+      "value": "Krzywa S"
+    },
+    {
+      "key": "Fibonacci Spiral",
+      "value": "Spirala Fibonacciego"
+    },
+    {
+      "key": "Vanishing Point",
+      "value": "Punkt zbiegu"
+    },
+    {
+      "key": "Leading Lines",
+      "value": "Linie prowadzące"
+    },
+    {
+      "key": "Tunnel Frame",
+      "value": "Rama tunelowa"
+    },
+    {
+      "key": "Frame Within Frame",
+      "value": "Rama w ramie"
+    },
+    {
+      "key": "Sandwich Frame",
+      "value": "Obramowanie boczne"
+    },
+    {
+      "key": "Subject Contrast",
+      "value": "Kontrast obiektów"
+    },
+    {
+      "key": "Negative Space",
+      "value": "Przestrzeń negatywna"
+    },
+    {
+      "key": "Look and Lead Room",
+      "value": "Przestrzeń w kierunku spojrzenia i ruchu"
+    },
+    {
+      "key": "Odd Number Arrangement",
+      "value": "Nieparzysta liczba obiektów"
+    },
+    {
+      "key": "Repetition and Rhythm",
+      "value": "Powtórzenie i rytm"
+    },
+    {
+      "key": "Eye Line and Headroom",
+      "value": "Linia oczu i przestrzeń nad głową"
+    },
+    {
+      "key": "Headshot",
+      "value": "Zbliżenie twarzy"
+    },
+    {
+      "key": "Bust Portrait",
+      "value": "Portret do piersi"
+    },
+    {
+      "key": "Waist Up Portrait",
+      "value": "Portret od pasa"
+    },
+    {
+      "key": "Full Body Portrait",
+      "value": "Portret całej postaci"
+    },
+    {
+      "key": "Two Person Portrait",
+      "value": "Portret dwóch osób"
+    },
+    {
+      "key": "Three Person Portrait",
+      "value": "Portret trzech osób"
+    },
+    {
+      "key": "Composition Basics",
+      "value": "Podstawy kompozycji"
+    },
+    {
+      "key": "Lines and Shapes",
+      "value": "Linie i kształty"
+    },
+    {
+      "key": "Composition Curves",
+      "value": "Krzywe kompozycji"
+    },
+    {
+      "key": "Depth and Framing",
+      "value": "Głębia i obramowanie"
+    },
+    {
+      "key": "Space and Arrangement",
+      "value": "Przestrzeń i układ"
+    },
+    {
+      "key": "Portrait Guides",
+      "value": "Prowadnice portretowe"
+    },
+    {
+      "key": "Composition Guides",
+      "value": "Prowadnice kompozycji"
+    },
+    {
+      "key": "Composition Display",
+      "value": "Pokaż prowadnice"
+    },
+    {
+      "key": "Main Guide",
+      "value": "Główna prowadnica"
+    },
+    {
+      "key": "Secondary Guide",
+      "value": "Dodatkowa prowadnica"
+    },
+    {
+      "key": "Guide Type",
+      "value": "Wybierz kompozycję"
+    },
+    {
+      "key": "Guide Appearance",
+      "value": "Wygląd"
+    },
+    {
+      "key": "Reset All Guides",
+      "value": "Resetuj wszystko"
+    },
+    {
+      "key": "Reset Guide Placement",
+      "value": "Resetuj rozmieszczenie"
+    },
+    {
+      "key": "Guide White",
+      "value": "Biały"
+    },
+    {
+      "key": "Guide Black",
+      "value": "Czarny"
+    },
+    {
+      "key": "Guide Yellow",
+      "value": "Żółty"
+    },
+    {
+      "key": "Guide Cyan",
+      "value": "Cyjan"
+    },
+    {
+      "key": "Guide Magenta",
+      "value": "Magenta"
+    },
+    {
+      "key": "Guide Green",
+      "value": "Zielony"
+    },
+    {
+      "key": "Guide Center",
+      "value": "Środek"
+    },
+    {
+      "key": "Guide Top",
+      "value": "Góra"
+    },
+    {
+      "key": "Guide Bottom",
+      "value": "Dół"
+    },
+    {
+      "key": "Guide Left",
+      "value": "Lewo"
+    },
+    {
+      "key": "Guide Right",
+      "value": "Prawo"
+    },
+    {
+      "key": "Guide Top Left",
+      "value": "Lewy górny"
+    },
+    {
+      "key": "Guide Top Right",
+      "value": "Prawy górny"
+    },
+    {
+      "key": "Guide Bottom Left",
+      "value": "Lewy dolny"
+    },
+    {
+      "key": "Guide Bottom Right",
+      "value": "Prawy dolny"
+    },
+    {
+      "key": "Guide Rotation 0",
+      "value": "Obrót 0°"
+    },
+    {
+      "key": "Guide Rotation 90",
+      "value": "Obrót 90°"
+    },
+    {
+      "key": "Guide Rotation 180",
+      "value": "Obrót 180°"
+    },
+    {
+      "key": "Guide Rotation 270",
+      "value": "Obrót 270°"
+    },
+    {
+      "key": "Guide Color",
+      "value": "Kolor"
+    },
+    {
+      "key": "Guide Corners",
+      "value": "Narożniki"
+    },
+    {
+      "key": "Guide Horizontal Position",
+      "value": "Pozycja pozioma"
+    },
+    {
+      "key": "Guide Vertical Position",
+      "value": "Pozycja pionowa"
+    },
+    {
+      "key": "Guide Line Width",
+      "value": "Grubość linii"
+    },
+    {
+      "key": "Guide Mirror",
+      "value": "Odbij poziomo"
+    },
+    {
+      "key": "Guide None",
+      "value": "Brak"
+    },
+    {
+      "key": "Guide Opacity",
+      "value": "Krycie"
+    },
+    {
+      "key": "Guide Orientation",
+      "value": "Orientacja"
+    },
+    {
+      "key": "Guide Position",
+      "value": "Rozmieszczenie"
+    },
+    {
+      "key": "Guide Scale",
+      "value": "Rozmiar 50–150%"
+    }
+  ]
+}

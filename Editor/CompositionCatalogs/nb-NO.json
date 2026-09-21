@@ -1,0 +1,310 @@
+{
+  "localeCode": "nb-NO",
+  "basis": "authored-translation-review-required",
+  "entries": [
+    {
+      "key": "Rule of Thirds",
+      "value": "Tredjedelsregelen"
+    },
+    {
+      "key": "Quarters Grid",
+      "value": "Fjerdedelsrutenett"
+    },
+    {
+      "key": "Bisection",
+      "value": "Halvering"
+    },
+    {
+      "key": "Centered Subject",
+      "value": "Sentrert motiv"
+    },
+    {
+      "key": "Symmetry Axis",
+      "value": "Symmetriakse"
+    },
+    {
+      "key": "Phi Grid",
+      "value": "Rutenett med gyllent snitt"
+    },
+    {
+      "key": "Frame Diagonal",
+      "value": "Bildediagonal"
+    },
+    {
+      "key": "Golden Triangle",
+      "value": "Gyllen trekant"
+    },
+    {
+      "key": "Triangle Composition",
+      "value": "Trekantkomposisjon"
+    },
+    {
+      "key": "X Composition",
+      "value": "X-komposisjon"
+    },
+    {
+      "key": "L Composition",
+      "value": "L-komposisjon"
+    },
+    {
+      "key": "V Composition",
+      "value": "V-komposisjon"
+    },
+    {
+      "key": "C Curve",
+      "value": "C-kurve"
+    },
+    {
+      "key": "S Curve",
+      "value": "S-kurve"
+    },
+    {
+      "key": "Fibonacci Spiral",
+      "value": "Fibonacci-spiral"
+    },
+    {
+      "key": "Vanishing Point",
+      "value": "Forsvinningspunkt"
+    },
+    {
+      "key": "Leading Lines",
+      "value": "Ledende linjer"
+    },
+    {
+      "key": "Tunnel Frame",
+      "value": "Tunnelramme"
+    },
+    {
+      "key": "Frame Within Frame",
+      "value": "Ramme i ramme"
+    },
+    {
+      "key": "Sandwich Frame",
+      "value": "Innramming fra sidene"
+    },
+    {
+      "key": "Subject Contrast",
+      "value": "Motivkontrast"
+    },
+    {
+      "key": "Negative Space",
+      "value": "Negativt rom"
+    },
+    {
+      "key": "Look and Lead Room",
+      "value": "Plass i blikk- og bevegelsesretningen"
+    },
+    {
+      "key": "Odd Number Arrangement",
+      "value": "Odde antall motiver"
+    },
+    {
+      "key": "Repetition and Rhythm",
+      "value": "Gjentakelse og rytme"
+    },
+    {
+      "key": "Eye Line and Headroom",
+      "value": "Øyelinje og plass over hodet"
+    },
+    {
+      "key": "Headshot",
+      "value": "Nærbilde av ansikt"
+    },
+    {
+      "key": "Bust Portrait",
+      "value": "Brystportrett"
+    },
+    {
+      "key": "Waist Up Portrait",
+      "value": "Portrett fra livet"
+    },
+    {
+      "key": "Full Body Portrait",
+      "value": "Helkroppsportrett"
+    },
+    {
+      "key": "Two Person Portrait",
+      "value": "Portrett av to personer"
+    },
+    {
+      "key": "Three Person Portrait",
+      "value": "Portrett av tre personer"
+    },
+    {
+      "key": "Composition Basics",
+      "value": "Grunnleggende komposisjon"
+    },
+    {
+      "key": "Lines and Shapes",
+      "value": "Linjer og former"
+    },
+    {
+      "key": "Composition Curves",
+      "value": "Komposisjonskurver"
+    },
+    {
+      "key": "Depth and Framing",
+      "value": "Dybde og innramming"
+    },
+    {
+      "key": "Space and Arrangement",
+      "value": "Rom og plassering"
+    },
+    {
+      "key": "Portrait Guides",
+      "value": "Portrettguider"
+    },
+    {
+      "key": "Composition Guides",
+      "value": "Komposisjonsguider"
+    },
+    {
+      "key": "Composition Display",
+      "value": "Vis guider"
+    },
+    {
+      "key": "Main Guide",
+      "value": "Hovedguide"
+    },
+    {
+      "key": "Secondary Guide",
+      "value": "Sekundær guide"
+    },
+    {
+      "key": "Guide Type",
+      "value": "Velg komposisjon"
+    },
+    {
+      "key": "Guide Appearance",
+      "value": "Utseende"
+    },
+    {
+      "key": "Reset All Guides",
+      "value": "Tilbakestill alt"
+    },
+    {
+      "key": "Reset Guide Placement",
+      "value": "Tilbakestill plassering"
+    },
+    {
+      "key": "Guide White",
+      "value": "Hvit"
+    },
+    {
+      "key": "Guide Black",
+      "value": "Svart"
+    },
+    {
+      "key": "Guide Yellow",
+      "value": "Gul"
+    },
+    {
+      "key": "Guide Cyan",
+      "value": "Cyan"
+    },
+    {
+      "key": "Guide Magenta",
+      "value": "Magenta"
+    },
+    {
+      "key": "Guide Green",
+      "value": "Grønn"
+    },
+    {
+      "key": "Guide Center",
+      "value": "Midten"
+    },
+    {
+      "key": "Guide Top",
+      "value": "Øverst"
+    },
+    {
+      "key": "Guide Bottom",
+      "value": "Nederst"
+    },
+    {
+      "key": "Guide Left",
+      "value": "Venstre"
+    },
+    {
+      "key": "Guide Right",
+      "value": "Høyre"
+    },
+    {
+      "key": "Guide Top Left",
+      "value": "Øverst til venstre"
+    },
+    {
+      "key": "Guide Top Right",
+      "value": "Øverst til høyre"
+    },
+    {
+      "key": "Guide Bottom Left",
+      "value": "Nederst til venstre"
+    },
+    {
+      "key": "Guide Bottom Right",
+      "value": "Nederst til høyre"
+    },
+    {
+      "key": "Guide Rotation 0",
+      "value": "Rotasjon 0°"
+    },
+    {
+      "key": "Guide Rotation 90",
+      "value": "Rotasjon 90°"
+    },
+    {
+      "key": "Guide Rotation 180",
+      "value": "Rotasjon 180°"
+    },
+    {
+      "key": "Guide Rotation 270",
+      "value": "Rotasjon 270°"
+    },
+    {
+      "key": "Guide Color",
+      "value": "Farge"
+    },
+    {
+      "key": "Guide Corners",
+      "value": "Hjørner"
+    },
+    {
+      "key": "Guide Horizontal Position",
+      "value": "Vannrett posisjon"
+    },
+    {
+      "key": "Guide Vertical Position",
+      "value": "Loddrett posisjon"
+    },
+    {
+      "key": "Guide Line Width",
+      "value": "Linjetykkelse"
+    },
+    {
+      "key": "Guide Mirror",
+      "value": "Speil vannrett"
+    },
+    {
+      "key": "Guide None",
+      "value": "Ingen"
+    },
+    {
+      "key": "Guide Opacity",
+      "value": "Ugjennomsiktighet"
+    },
+    {
+      "key": "Guide Orientation",
+      "value": "Retning"
+    },
+    {
+      "key": "Guide Position",
+      "value": "Plassering"
+    },
+    {
+      "key": "Guide Scale",
+      "value": "Størrelse 50–150%"
+    }
+  ]
+}

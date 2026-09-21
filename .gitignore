@@ -57,6 +57,7 @@ sysinfo.txt
 *.apk
 *.aab
 *.unitypackage
+!Releases~/VRCLens_Multilingual_Localization_CompositionGuides.unitypackage
 
 # Crashlytics generated file
 Assets/StreamingAssets/crashlytics-build.properties

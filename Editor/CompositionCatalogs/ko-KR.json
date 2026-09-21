@@ -1,0 +1,310 @@
+{
+  "localeCode": "ko-KR",
+  "basis": "authored-translation-review-required",
+  "entries": [
+    {
+      "key": "Rule of Thirds",
+      "value": "삼분할"
+    },
+    {
+      "key": "Quarters Grid",
+      "value": "사분할 격자"
+    },
+    {
+      "key": "Bisection",
+      "value": "이분할"
+    },
+    {
+      "key": "Centered Subject",
+      "value": "중앙 구도"
+    },
+    {
+      "key": "Symmetry Axis",
+      "value": "대칭축"
+    },
+    {
+      "key": "Phi Grid",
+      "value": "황금비 격자"
+    },
+    {
+      "key": "Frame Diagonal",
+      "value": "화면 대각선"
+    },
+    {
+      "key": "Golden Triangle",
+      "value": "황금 삼각형"
+    },
+    {
+      "key": "Triangle Composition",
+      "value": "삼각형 구도"
+    },
+    {
+      "key": "X Composition",
+      "value": "X자 구도"
+    },
+    {
+      "key": "L Composition",
+      "value": "L자 구도"
+    },
+    {
+      "key": "V Composition",
+      "value": "V자 구도"
+    },
+    {
+      "key": "C Curve",
+      "value": "C자 곡선"
+    },
+    {
+      "key": "S Curve",
+      "value": "S자 곡선"
+    },
+    {
+      "key": "Fibonacci Spiral",
+      "value": "피보나치 나선"
+    },
+    {
+      "key": "Vanishing Point",
+      "value": "소실점"
+    },
+    {
+      "key": "Leading Lines",
+      "value": "시선 유도선"
+    },
+    {
+      "key": "Tunnel Frame",
+      "value": "터널 프레임"
+    },
+    {
+      "key": "Frame Within Frame",
+      "value": "프레임 속 프레임"
+    },
+    {
+      "key": "Sandwich Frame",
+      "value": "양옆 프레임"
+    },
+    {
+      "key": "Subject Contrast",
+      "value": "피사체 대비"
+    },
+    {
+      "key": "Negative Space",
+      "value": "여백"
+    },
+    {
+      "key": "Look and Lead Room",
+      "value": "시선·진행 방향 여백"
+    },
+    {
+      "key": "Odd Number Arrangement",
+      "value": "홀수 배치"
+    },
+    {
+      "key": "Repetition and Rhythm",
+      "value": "반복과 리듬"
+    },
+    {
+      "key": "Eye Line and Headroom",
+      "value": "눈높이와 머리 위 여백"
+    },
+    {
+      "key": "Headshot",
+      "value": "얼굴 클로즈업"
+    },
+    {
+      "key": "Bust Portrait",
+      "value": "가슴 위 인물"
+    },
+    {
+      "key": "Waist Up Portrait",
+      "value": "허리 위 인물"
+    },
+    {
+      "key": "Full Body Portrait",
+      "value": "전신 인물"
+    },
+    {
+      "key": "Two Person Portrait",
+      "value": "두 사람 배치"
+    },
+    {
+      "key": "Three Person Portrait",
+      "value": "세 사람 배치"
+    },
+    {
+      "key": "Composition Basics",
+      "value": "기본 구도"
+    },
+    {
+      "key": "Lines and Shapes",
+      "value": "선과 도형"
+    },
+    {
+      "key": "Composition Curves",
+      "value": "구도 곡선"
+    },
+    {
+      "key": "Depth and Framing",
+      "value": "깊이와 프레이밍"
+    },
+    {
+      "key": "Space and Arrangement",
+      "value": "여백과 배치"
+    },
+    {
+      "key": "Portrait Guides",
+      "value": "인물 가이드"
+    },
+    {
+      "key": "Composition Guides",
+      "value": "구도 가이드"
+    },
+    {
+      "key": "Composition Display",
+      "value": "가이드 표시"
+    },
+    {
+      "key": "Main Guide",
+      "value": "주 가이드"
+    },
+    {
+      "key": "Secondary Guide",
+      "value": "보조 가이드"
+    },
+    {
+      "key": "Guide Type",
+      "value": "구도 선택"
+    },
+    {
+      "key": "Guide Appearance",
+      "value": "모양"
+    },
+    {
+      "key": "Reset All Guides",
+      "value": "전체 설정 초기화"
+    },
+    {
+      "key": "Reset Guide Placement",
+      "value": "배치 초기화"
+    },
+    {
+      "key": "Guide White",
+      "value": "흰색"
+    },
+    {
+      "key": "Guide Black",
+      "value": "검정"
+    },
+    {
+      "key": "Guide Yellow",
+      "value": "노랑"
+    },
+    {
+      "key": "Guide Cyan",
+      "value": "시안"
+    },
+    {
+      "key": "Guide Magenta",
+      "value": "마젠타"
+    },
+    {
+      "key": "Guide Green",
+      "value": "초록"
+    },
+    {
+      "key": "Guide Center",
+      "value": "중앙"
+    },
+    {
+      "key": "Guide Top",
+      "value": "위"
+    },
+    {
+      "key": "Guide Bottom",
+      "value": "아래"
+    },
+    {
+      "key": "Guide Left",
+      "value": "왼쪽"
+    },
+    {
+      "key": "Guide Right",
+      "value": "오른쪽"
+    },
+    {
+      "key": "Guide Top Left",
+      "value": "왼쪽 위"
+    },
+    {
+      "key": "Guide Top Right",
+      "value": "오른쪽 위"
+    },
+    {
+      "key": "Guide Bottom Left",
+      "value": "왼쪽 아래"
+    },
+    {
+      "key": "Guide Bottom Right",
+      "value": "오른쪽 아래"
+    },
+    {
+      "key": "Guide Rotation 0",
+      "value": "회전 0°"
+    },
+    {
+      "key": "Guide Rotation 90",
+      "value": "회전 90°"
+    },
+    {
+      "key": "Guide Rotation 180",
+      "value": "회전 180°"
+    },
+    {
+      "key": "Guide Rotation 270",
+      "value": "회전 270°"
+    },
+    {
+      "key": "Guide Color",
+      "value": "색상"
+    },
+    {
+      "key": "Guide Corners",
+      "value": "네 모서리"
+    },
+    {
+      "key": "Guide Horizontal Position",
+      "value": "가로 위치"
+    },
+    {
+      "key": "Guide Vertical Position",
+      "value": "세로 위치"
+    },
+    {
+      "key": "Guide Line Width",
+      "value": "선 두께"
+    },
+    {
+      "key": "Guide Mirror",
+      "value": "좌우 반전"
+    },
+    {
+      "key": "Guide None",
+      "value": "없음"
+    },
+    {
+      "key": "Guide Opacity",
+      "value": "불투명도"
+    },
+    {
+      "key": "Guide Orientation",
+      "value": "방향"
+    },
+    {
+      "key": "Guide Position",
+      "value": "배치"
+    },
+    {
+      "key": "Guide Scale",
+      "value": "크기 50–150%"
+    }
+  ]
+}

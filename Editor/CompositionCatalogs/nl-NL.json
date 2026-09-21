@@ -1,0 +1,310 @@
+{
+  "localeCode": "nl-NL",
+  "basis": "authored-translation-review-required",
+  "entries": [
+    {
+      "key": "Rule of Thirds",
+      "value": "Regel van derden"
+    },
+    {
+      "key": "Quarters Grid",
+      "value": "Kwartenraster"
+    },
+    {
+      "key": "Bisection",
+      "value": "Halvering"
+    },
+    {
+      "key": "Centered Subject",
+      "value": "Gecentreerd onderwerp"
+    },
+    {
+      "key": "Symmetry Axis",
+      "value": "Symmetrieas"
+    },
+    {
+      "key": "Phi Grid",
+      "value": "Gulden-snederaster"
+    },
+    {
+      "key": "Frame Diagonal",
+      "value": "Beelddiagonaal"
+    },
+    {
+      "key": "Golden Triangle",
+      "value": "Gouden driehoek"
+    },
+    {
+      "key": "Triangle Composition",
+      "value": "Driehoekscompositie"
+    },
+    {
+      "key": "X Composition",
+      "value": "X-compositie"
+    },
+    {
+      "key": "L Composition",
+      "value": "L-compositie"
+    },
+    {
+      "key": "V Composition",
+      "value": "V-compositie"
+    },
+    {
+      "key": "C Curve",
+      "value": "C-curve"
+    },
+    {
+      "key": "S Curve",
+      "value": "S-curve"
+    },
+    {
+      "key": "Fibonacci Spiral",
+      "value": "Fibonacci-spiraal"
+    },
+    {
+      "key": "Vanishing Point",
+      "value": "Verdwijnpunt"
+    },
+    {
+      "key": "Leading Lines",
+      "value": "Leidende lijnen"
+    },
+    {
+      "key": "Tunnel Frame",
+      "value": "Tunnelkader"
+    },
+    {
+      "key": "Frame Within Frame",
+      "value": "Kader in kader"
+    },
+    {
+      "key": "Sandwich Frame",
+      "value": "Zijdelingse omlijsting"
+    },
+    {
+      "key": "Subject Contrast",
+      "value": "Onderwerpcontrast"
+    },
+    {
+      "key": "Negative Space",
+      "value": "Negatieve ruimte"
+    },
+    {
+      "key": "Look and Lead Room",
+      "value": "Kijk- en bewegingsruimte"
+    },
+    {
+      "key": "Odd Number Arrangement",
+      "value": "Oneven aantal onderwerpen"
+    },
+    {
+      "key": "Repetition and Rhythm",
+      "value": "Herhaling en ritme"
+    },
+    {
+      "key": "Eye Line and Headroom",
+      "value": "Ooglijn en hoofdruimte"
+    },
+    {
+      "key": "Headshot",
+      "value": "Close-up van gezicht"
+    },
+    {
+      "key": "Bust Portrait",
+      "value": "Borstportret"
+    },
+    {
+      "key": "Waist Up Portrait",
+      "value": "Portret vanaf de taille"
+    },
+    {
+      "key": "Full Body Portrait",
+      "value": "Portret ten voeten uit"
+    },
+    {
+      "key": "Two Person Portrait",
+      "value": "Portret van twee personen"
+    },
+    {
+      "key": "Three Person Portrait",
+      "value": "Portret van drie personen"
+    },
+    {
+      "key": "Composition Basics",
+      "value": "Basiscompositie"
+    },
+    {
+      "key": "Lines and Shapes",
+      "value": "Lijnen en vormen"
+    },
+    {
+      "key": "Composition Curves",
+      "value": "Compositiecurven"
+    },
+    {
+      "key": "Depth and Framing",
+      "value": "Diepte en kadrering"
+    },
+    {
+      "key": "Space and Arrangement",
+      "value": "Ruimte en plaatsing"
+    },
+    {
+      "key": "Portrait Guides",
+      "value": "Portrethulplijnen"
+    },
+    {
+      "key": "Composition Guides",
+      "value": "Compositiehulplijnen"
+    },
+    {
+      "key": "Composition Display",
+      "value": "Hulplijnen tonen"
+    },
+    {
+      "key": "Main Guide",
+      "value": "Primaire hulplijn"
+    },
+    {
+      "key": "Secondary Guide",
+      "value": "Secundaire hulplijn"
+    },
+    {
+      "key": "Guide Type",
+      "value": "Compositie kiezen"
+    },
+    {
+      "key": "Guide Appearance",
+      "value": "Weergave"
+    },
+    {
+      "key": "Reset All Guides",
+      "value": "Alles herstellen"
+    },
+    {
+      "key": "Reset Guide Placement",
+      "value": "Plaatsing herstellen"
+    },
+    {
+      "key": "Guide White",
+      "value": "Wit"
+    },
+    {
+      "key": "Guide Black",
+      "value": "Zwart"
+    },
+    {
+      "key": "Guide Yellow",
+      "value": "Geel"
+    },
+    {
+      "key": "Guide Cyan",
+      "value": "Cyaan"
+    },
+    {
+      "key": "Guide Magenta",
+      "value": "Magenta"
+    },
+    {
+      "key": "Guide Green",
+      "value": "Groen"
+    },
+    {
+      "key": "Guide Center",
+      "value": "Midden"
+    },
+    {
+      "key": "Guide Top",
+      "value": "Boven"
+    },
+    {
+      "key": "Guide Bottom",
+      "value": "Onder"
+    },
+    {
+      "key": "Guide Left",
+      "value": "Links"
+    },
+    {
+      "key": "Guide Right",
+      "value": "Rechts"
+    },
+    {
+      "key": "Guide Top Left",
+      "value": "Linksboven"
+    },
+    {
+      "key": "Guide Top Right",
+      "value": "Rechtsboven"
+    },
+    {
+      "key": "Guide Bottom Left",
+      "value": "Linksonder"
+    },
+    {
+      "key": "Guide Bottom Right",
+      "value": "Rechtsonder"
+    },
+    {
+      "key": "Guide Rotation 0",
+      "value": "Rotatie 0°"
+    },
+    {
+      "key": "Guide Rotation 90",
+      "value": "Rotatie 90°"
+    },
+    {
+      "key": "Guide Rotation 180",
+      "value": "Rotatie 180°"
+    },
+    {
+      "key": "Guide Rotation 270",
+      "value": "Rotatie 270°"
+    },
+    {
+      "key": "Guide Color",
+      "value": "Kleur"
+    },
+    {
+      "key": "Guide Corners",
+      "value": "Hoeken"
+    },
+    {
+      "key": "Guide Horizontal Position",
+      "value": "Horizontale positie"
+    },
+    {
+      "key": "Guide Vertical Position",
+      "value": "Verticale positie"
+    },
+    {
+      "key": "Guide Line Width",
+      "value": "Lijndikte"
+    },
+    {
+      "key": "Guide Mirror",
+      "value": "Horizontaal spiegelen"
+    },
+    {
+      "key": "Guide None",
+      "value": "Geen"
+    },
+    {
+      "key": "Guide Opacity",
+      "value": "Dekking"
+    },
+    {
+      "key": "Guide Orientation",
+      "value": "Oriëntatie"
+    },
+    {
+      "key": "Guide Position",
+      "value": "Plaatsing"
+    },
+    {
+      "key": "Guide Scale",
+      "value": "Grootte 50–150%"
+    }
+  ]
+}

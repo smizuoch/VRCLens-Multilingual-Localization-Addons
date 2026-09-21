@@ -54,6 +54,8 @@ namespace VRCLensCustom
                 VRCLensAdditionalCatalogs.ValidateData);
             TryValidation("legacy catalog terminology/output agreement", issues,
                 VRCLensLegacyTerminology.Validate);
+            TryValidation("composition catalogs/scope/standalone compatibility", issues,
+                VRCLensCompositionLocalization.Validate);
 
             var profiles = VRCLensLocalizationRegistry.Profiles;
             var requiredLocales = new[] { "ja-JP", "zh-Hans-CN", "zh-Hant-TW", "ko-KR" }

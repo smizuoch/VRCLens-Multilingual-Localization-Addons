@@ -1,0 +1,310 @@
+{
+  "localeCode": "tr-TR",
+  "basis": "authored-translation-review-required",
+  "entries": [
+    {
+      "key": "Rule of Thirds",
+      "value": "Üçler kuralı"
+    },
+    {
+      "key": "Quarters Grid",
+      "value": "Dörde bölünmüş ızgara"
+    },
+    {
+      "key": "Bisection",
+      "value": "İkiye bölme"
+    },
+    {
+      "key": "Centered Subject",
+      "value": "Ortalanmış konu"
+    },
+    {
+      "key": "Symmetry Axis",
+      "value": "Simetri ekseni"
+    },
+    {
+      "key": "Phi Grid",
+      "value": "Altın oran ızgarası"
+    },
+    {
+      "key": "Frame Diagonal",
+      "value": "Kare köşegeni"
+    },
+    {
+      "key": "Golden Triangle",
+      "value": "Altın üçgen"
+    },
+    {
+      "key": "Triangle Composition",
+      "value": "Üçgen kompozisyon"
+    },
+    {
+      "key": "X Composition",
+      "value": "X kompozisyonu"
+    },
+    {
+      "key": "L Composition",
+      "value": "L kompozisyonu"
+    },
+    {
+      "key": "V Composition",
+      "value": "V kompozisyonu"
+    },
+    {
+      "key": "C Curve",
+      "value": "C eğrisi"
+    },
+    {
+      "key": "S Curve",
+      "value": "S eğrisi"
+    },
+    {
+      "key": "Fibonacci Spiral",
+      "value": "Fibonacci spirali"
+    },
+    {
+      "key": "Vanishing Point",
+      "value": "Kaçış noktası"
+    },
+    {
+      "key": "Leading Lines",
+      "value": "Yönlendirici çizgiler"
+    },
+    {
+      "key": "Tunnel Frame",
+      "value": "Tünel çerçevesi"
+    },
+    {
+      "key": "Frame Within Frame",
+      "value": "Çerçeve içinde çerçeve"
+    },
+    {
+      "key": "Sandwich Frame",
+      "value": "Yanlardan çerçeveleme"
+    },
+    {
+      "key": "Subject Contrast",
+      "value": "Konular arası karşıtlık"
+    },
+    {
+      "key": "Negative Space",
+      "value": "Negatif alan"
+    },
+    {
+      "key": "Look and Lead Room",
+      "value": "Bakış ve hareket yönü boşluğu"
+    },
+    {
+      "key": "Odd Number Arrangement",
+      "value": "Tek sayılı yerleşim"
+    },
+    {
+      "key": "Repetition and Rhythm",
+      "value": "Tekrar ve ritim"
+    },
+    {
+      "key": "Eye Line and Headroom",
+      "value": "Göz çizgisi ve baş boşluğu"
+    },
+    {
+      "key": "Headshot",
+      "value": "Yüz yakın planı"
+    },
+    {
+      "key": "Bust Portrait",
+      "value": "Göğüs portresi"
+    },
+    {
+      "key": "Waist Up Portrait",
+      "value": "Belden yukarı portre"
+    },
+    {
+      "key": "Full Body Portrait",
+      "value": "Tam boy portre"
+    },
+    {
+      "key": "Two Person Portrait",
+      "value": "İki kişilik portre"
+    },
+    {
+      "key": "Three Person Portrait",
+      "value": "Üç kişilik portre"
+    },
+    {
+      "key": "Composition Basics",
+      "value": "Temel kompozisyon"
+    },
+    {
+      "key": "Lines and Shapes",
+      "value": "Çizgiler ve şekiller"
+    },
+    {
+      "key": "Composition Curves",
+      "value": "Kompozisyon eğrileri"
+    },
+    {
+      "key": "Depth and Framing",
+      "value": "Derinlik ve çerçeveleme"
+    },
+    {
+      "key": "Space and Arrangement",
+      "value": "Alan ve yerleşim"
+    },
+    {
+      "key": "Portrait Guides",
+      "value": "Portre kılavuzları"
+    },
+    {
+      "key": "Composition Guides",
+      "value": "Kompozisyon kılavuzları"
+    },
+    {
+      "key": "Composition Display",
+      "value": "Kılavuzları göster"
+    },
+    {
+      "key": "Main Guide",
+      "value": "Ana kılavuz"
+    },
+    {
+      "key": "Secondary Guide",
+      "value": "İkincil kılavuz"
+    },
+    {
+      "key": "Guide Type",
+      "value": "Kompozisyon seç"
+    },
+    {
+      "key": "Guide Appearance",
+      "value": "Görünüm"
+    },
+    {
+      "key": "Reset All Guides",
+      "value": "Tümünü sıfırla"
+    },
+    {
+      "key": "Reset Guide Placement",
+      "value": "Yerleşimi sıfırla"
+    },
+    {
+      "key": "Guide White",
+      "value": "Beyaz"
+    },
+    {
+      "key": "Guide Black",
+      "value": "Siyah"
+    },
+    {
+      "key": "Guide Yellow",
+      "value": "Sarı"
+    },
+    {
+      "key": "Guide Cyan",
+      "value": "Camgöbeği"
+    },
+    {
+      "key": "Guide Magenta",
+      "value": "Macenta"
+    },
+    {
+      "key": "Guide Green",
+      "value": "Yeşil"
+    },
+    {
+      "key": "Guide Center",
+      "value": "Orta"
+    },
+    {
+      "key": "Guide Top",
+      "value": "Üst"
+    },
+    {
+      "key": "Guide Bottom",
+      "value": "Alt"
+    },
+    {
+      "key": "Guide Left",
+      "value": "Sol"
+    },
+    {
+      "key": "Guide Right",
+      "value": "Sağ"
+    },
+    {
+      "key": "Guide Top Left",
+      "value": "Sol üst"
+    },
+    {
+      "key": "Guide Top Right",
+      "value": "Sağ üst"
+    },
+    {
+      "key": "Guide Bottom Left",
+      "value": "Sol alt"
+    },
+    {
+      "key": "Guide Bottom Right",
+      "value": "Sağ alt"
+    },
+    {
+      "key": "Guide Rotation 0",
+      "value": "Döndürme 0°"
+    },
+    {
+      "key": "Guide Rotation 90",
+      "value": "Döndürme 90°"
+    },
+    {
+      "key": "Guide Rotation 180",
+      "value": "Döndürme 180°"
+    },
+    {
+      "key": "Guide Rotation 270",
+      "value": "Döndürme 270°"
+    },
+    {
+      "key": "Guide Color",
+      "value": "Renk"
+    },
+    {
+      "key": "Guide Corners",
+      "value": "Köşeler"
+    },
+    {
+      "key": "Guide Horizontal Position",
+      "value": "Yatay konum"
+    },
+    {
+      "key": "Guide Vertical Position",
+      "value": "Dikey konum"
+    },
+    {
+      "key": "Guide Line Width",
+      "value": "Çizgi kalınlığı"
+    },
+    {
+      "key": "Guide Mirror",
+      "value": "Yatay yansıt"
+    },
+    {
+      "key": "Guide None",
+      "value": "Yok"
+    },
+    {
+      "key": "Guide Opacity",
+      "value": "Opaklık"
+    },
+    {
+      "key": "Guide Orientation",
+      "value": "Yön"
+    },
+    {
+      "key": "Guide Position",
+      "value": "Yerleşim"
+    },
+    {
+      "key": "Guide Scale",
+      "value": "Boyut 50–150%"
+    }
+  ]
+}

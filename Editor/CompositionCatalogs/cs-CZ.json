@@ -1,0 +1,310 @@
+{
+  "localeCode": "cs-CZ",
+  "basis": "authored-translation-review-required",
+  "entries": [
+    {
+      "key": "Rule of Thirds",
+      "value": "Pravidlo třetin"
+    },
+    {
+      "key": "Quarters Grid",
+      "value": "Mřížka čtvrtin"
+    },
+    {
+      "key": "Bisection",
+      "value": "Rozdělení na poloviny"
+    },
+    {
+      "key": "Centered Subject",
+      "value": "Objekt uprostřed"
+    },
+    {
+      "key": "Symmetry Axis",
+      "value": "Osa souměrnosti"
+    },
+    {
+      "key": "Phi Grid",
+      "value": "Mřížka zlatého řezu"
+    },
+    {
+      "key": "Frame Diagonal",
+      "value": "Úhlopříčka snímku"
+    },
+    {
+      "key": "Golden Triangle",
+      "value": "Zlatý trojúhelník"
+    },
+    {
+      "key": "Triangle Composition",
+      "value": "Trojúhelníková kompozice"
+    },
+    {
+      "key": "X Composition",
+      "value": "Kompozice X"
+    },
+    {
+      "key": "L Composition",
+      "value": "Kompozice L"
+    },
+    {
+      "key": "V Composition",
+      "value": "Kompozice V"
+    },
+    {
+      "key": "C Curve",
+      "value": "Křivka C"
+    },
+    {
+      "key": "S Curve",
+      "value": "Křivka S"
+    },
+    {
+      "key": "Fibonacci Spiral",
+      "value": "Fibonacciho spirála"
+    },
+    {
+      "key": "Vanishing Point",
+      "value": "Úběžník"
+    },
+    {
+      "key": "Leading Lines",
+      "value": "Vodicí linie"
+    },
+    {
+      "key": "Tunnel Frame",
+      "value": "Tunelový rám"
+    },
+    {
+      "key": "Frame Within Frame",
+      "value": "Rám v rámu"
+    },
+    {
+      "key": "Sandwich Frame",
+      "value": "Boční orámování"
+    },
+    {
+      "key": "Subject Contrast",
+      "value": "Kontrast objektů"
+    },
+    {
+      "key": "Negative Space",
+      "value": "Negativní prostor"
+    },
+    {
+      "key": "Look and Lead Room",
+      "value": "Prostor ve směru pohledu a pohybu"
+    },
+    {
+      "key": "Odd Number Arrangement",
+      "value": "Lichý počet objektů"
+    },
+    {
+      "key": "Repetition and Rhythm",
+      "value": "Opakování a rytmus"
+    },
+    {
+      "key": "Eye Line and Headroom",
+      "value": "Linie očí a prostor nad hlavou"
+    },
+    {
+      "key": "Headshot",
+      "value": "Detail obličeje"
+    },
+    {
+      "key": "Bust Portrait",
+      "value": "Portrét po prsa"
+    },
+    {
+      "key": "Waist Up Portrait",
+      "value": "Portrét od pasu"
+    },
+    {
+      "key": "Full Body Portrait",
+      "value": "Celá postava"
+    },
+    {
+      "key": "Two Person Portrait",
+      "value": "Portrét dvou osob"
+    },
+    {
+      "key": "Three Person Portrait",
+      "value": "Portrét tří osob"
+    },
+    {
+      "key": "Composition Basics",
+      "value": "Základy kompozice"
+    },
+    {
+      "key": "Lines and Shapes",
+      "value": "Linie a tvary"
+    },
+    {
+      "key": "Composition Curves",
+      "value": "Kompoziční křivky"
+    },
+    {
+      "key": "Depth and Framing",
+      "value": "Hloubka a rámování"
+    },
+    {
+      "key": "Space and Arrangement",
+      "value": "Prostor a rozmístění"
+    },
+    {
+      "key": "Portrait Guides",
+      "value": "Portrétní vodítka"
+    },
+    {
+      "key": "Composition Guides",
+      "value": "Kompoziční vodítka"
+    },
+    {
+      "key": "Composition Display",
+      "value": "Zobrazit vodítka"
+    },
+    {
+      "key": "Main Guide",
+      "value": "Hlavní vodítko"
+    },
+    {
+      "key": "Secondary Guide",
+      "value": "Vedlejší vodítko"
+    },
+    {
+      "key": "Guide Type",
+      "value": "Vybrat kompozici"
+    },
+    {
+      "key": "Guide Appearance",
+      "value": "Vzhled"
+    },
+    {
+      "key": "Reset All Guides",
+      "value": "Obnovit vše"
+    },
+    {
+      "key": "Reset Guide Placement",
+      "value": "Obnovit umístění"
+    },
+    {
+      "key": "Guide White",
+      "value": "Bílá"
+    },
+    {
+      "key": "Guide Black",
+      "value": "Černá"
+    },
+    {
+      "key": "Guide Yellow",
+      "value": "Žlutá"
+    },
+    {
+      "key": "Guide Cyan",
+      "value": "Azurová"
+    },
+    {
+      "key": "Guide Magenta",
+      "value": "Purpurová"
+    },
+    {
+      "key": "Guide Green",
+      "value": "Zelená"
+    },
+    {
+      "key": "Guide Center",
+      "value": "Střed"
+    },
+    {
+      "key": "Guide Top",
+      "value": "Nahoře"
+    },
+    {
+      "key": "Guide Bottom",
+      "value": "Dole"
+    },
+    {
+      "key": "Guide Left",
+      "value": "Vlevo"
+    },
+    {
+      "key": "Guide Right",
+      "value": "Vpravo"
+    },
+    {
+      "key": "Guide Top Left",
+      "value": "Vlevo nahoře"
+    },
+    {
+      "key": "Guide Top Right",
+      "value": "Vpravo nahoře"
+    },
+    {
+      "key": "Guide Bottom Left",
+      "value": "Vlevo dole"
+    },
+    {
+      "key": "Guide Bottom Right",
+      "value": "Vpravo dole"
+    },
+    {
+      "key": "Guide Rotation 0",
+      "value": "Otočení 0°"
+    },
+    {
+      "key": "Guide Rotation 90",
+      "value": "Otočení 90°"
+    },
+    {
+      "key": "Guide Rotation 180",
+      "value": "Otočení 180°"
+    },
+    {
+      "key": "Guide Rotation 270",
+      "value": "Otočení 270°"
+    },
+    {
+      "key": "Guide Color",
+      "value": "Barva"
+    },
+    {
+      "key": "Guide Corners",
+      "value": "Rohy"
+    },
+    {
+      "key": "Guide Horizontal Position",
+      "value": "Vodorovná poloha"
+    },
+    {
+      "key": "Guide Vertical Position",
+      "value": "Svislá poloha"
+    },
+    {
+      "key": "Guide Line Width",
+      "value": "Tloušťka čáry"
+    },
+    {
+      "key": "Guide Mirror",
+      "value": "Vodorovně zrcadlit"
+    },
+    {
+      "key": "Guide None",
+      "value": "Žádné"
+    },
+    {
+      "key": "Guide Opacity",
+      "value": "Krytí"
+    },
+    {
+      "key": "Guide Orientation",
+      "value": "Orientace"
+    },
+    {
+      "key": "Guide Position",
+      "value": "Umístění"
+    },
+    {
+      "key": "Guide Scale",
+      "value": "Velikost 50–150%"
+    }
+  ]
+}

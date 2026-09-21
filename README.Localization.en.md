@@ -1,4 +1,11 @@
 # VRCLens Multilingual Localization Add-ons
+
+Standalone Composition Guides support adds 76 labels for all 26 locales. Existing language prefabs,
+including Japanese, select the guide language as well. A selected localization overrides the guide's
+built-in Japanese/English setting on the build copy. No localization prefab means the standalone
+language setting remains in effect. Additional non-Japanese translations are authored drafts pending
+native review; Japanese matches the supplied author's labels.
+See [compatibility notes](Documentation/COMPOSITION_GUIDES_COMPATIBILITY.md).
 [日本語版 (README.Localization.md)](README.Localization.md)
 
 This VRCFury add-on translates the VRCLens Expressions Menu and any installed

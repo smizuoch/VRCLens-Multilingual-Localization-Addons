@@ -1,0 +1,310 @@
+{
+  "localeCode": "hu-HU",
+  "basis": "authored-translation-review-required",
+  "entries": [
+    {
+      "key": "Rule of Thirds",
+      "value": "Harmadolás"
+    },
+    {
+      "key": "Quarters Grid",
+      "value": "Negyedelő rács"
+    },
+    {
+      "key": "Bisection",
+      "value": "Felezés"
+    },
+    {
+      "key": "Centered Subject",
+      "value": "Középre helyezett téma"
+    },
+    {
+      "key": "Symmetry Axis",
+      "value": "Szimmetriatengely"
+    },
+    {
+      "key": "Phi Grid",
+      "value": "Aranymetszéses rács"
+    },
+    {
+      "key": "Frame Diagonal",
+      "value": "Képátló"
+    },
+    {
+      "key": "Golden Triangle",
+      "value": "Aranyháromszög"
+    },
+    {
+      "key": "Triangle Composition",
+      "value": "Háromszög-kompozíció"
+    },
+    {
+      "key": "X Composition",
+      "value": "X-kompozíció"
+    },
+    {
+      "key": "L Composition",
+      "value": "L-kompozíció"
+    },
+    {
+      "key": "V Composition",
+      "value": "V-kompozíció"
+    },
+    {
+      "key": "C Curve",
+      "value": "C-görbe"
+    },
+    {
+      "key": "S Curve",
+      "value": "S-görbe"
+    },
+    {
+      "key": "Fibonacci Spiral",
+      "value": "Fibonacci-spirál"
+    },
+    {
+      "key": "Vanishing Point",
+      "value": "Enyészpont"
+    },
+    {
+      "key": "Leading Lines",
+      "value": "Vezetővonalak"
+    },
+    {
+      "key": "Tunnel Frame",
+      "value": "Alagútkeret"
+    },
+    {
+      "key": "Frame Within Frame",
+      "value": "Keret a keretben"
+    },
+    {
+      "key": "Sandwich Frame",
+      "value": "Oldalsó keretezés"
+    },
+    {
+      "key": "Subject Contrast",
+      "value": "Témák kontrasztja"
+    },
+    {
+      "key": "Negative Space",
+      "value": "Negatív tér"
+    },
+    {
+      "key": "Look and Lead Room",
+      "value": "Tér a tekintet és mozgás irányában"
+    },
+    {
+      "key": "Odd Number Arrangement",
+      "value": "Páratlan számú téma"
+    },
+    {
+      "key": "Repetition and Rhythm",
+      "value": "Ismétlés és ritmus"
+    },
+    {
+      "key": "Eye Line and Headroom",
+      "value": "Szemvonal és fejtér"
+    },
+    {
+      "key": "Headshot",
+      "value": "Arcközeli"
+    },
+    {
+      "key": "Bust Portrait",
+      "value": "Mellkép"
+    },
+    {
+      "key": "Waist Up Portrait",
+      "value": "Deréktól felfelé portré"
+    },
+    {
+      "key": "Full Body Portrait",
+      "value": "Egész alakos portré"
+    },
+    {
+      "key": "Two Person Portrait",
+      "value": "Kétszemélyes portré"
+    },
+    {
+      "key": "Three Person Portrait",
+      "value": "Háromszemélyes portré"
+    },
+    {
+      "key": "Composition Basics",
+      "value": "Alapkompozíciók"
+    },
+    {
+      "key": "Lines and Shapes",
+      "value": "Vonalak és alakzatok"
+    },
+    {
+      "key": "Composition Curves",
+      "value": "Kompozíciós görbék"
+    },
+    {
+      "key": "Depth and Framing",
+      "value": "Mélység és keretezés"
+    },
+    {
+      "key": "Space and Arrangement",
+      "value": "Tér és elrendezés"
+    },
+    {
+      "key": "Portrait Guides",
+      "value": "Portrésegédletek"
+    },
+    {
+      "key": "Composition Guides",
+      "value": "Kompozíciós segédletek"
+    },
+    {
+      "key": "Composition Display",
+      "value": "Segédletek megjelenítése"
+    },
+    {
+      "key": "Main Guide",
+      "value": "Fő segédlet"
+    },
+    {
+      "key": "Secondary Guide",
+      "value": "Másodlagos segédlet"
+    },
+    {
+      "key": "Guide Type",
+      "value": "Kompozíció kiválasztása"
+    },
+    {
+      "key": "Guide Appearance",
+      "value": "Megjelenés"
+    },
+    {
+      "key": "Reset All Guides",
+      "value": "Minden visszaállítása"
+    },
+    {
+      "key": "Reset Guide Placement",
+      "value": "Elhelyezés visszaállítása"
+    },
+    {
+      "key": "Guide White",
+      "value": "Fehér"
+    },
+    {
+      "key": "Guide Black",
+      "value": "Fekete"
+    },
+    {
+      "key": "Guide Yellow",
+      "value": "Sárga"
+    },
+    {
+      "key": "Guide Cyan",
+      "value": "Cián"
+    },
+    {
+      "key": "Guide Magenta",
+      "value": "Bíbor"
+    },
+    {
+      "key": "Guide Green",
+      "value": "Zöld"
+    },
+    {
+      "key": "Guide Center",
+      "value": "Közép"
+    },
+    {
+      "key": "Guide Top",
+      "value": "Fent"
+    },
+    {
+      "key": "Guide Bottom",
+      "value": "Lent"
+    },
+    {
+      "key": "Guide Left",
+      "value": "Bal"
+    },
+    {
+      "key": "Guide Right",
+      "value": "Jobb"
+    },
+    {
+      "key": "Guide Top Left",
+      "value": "Bal felső"
+    },
+    {
+      "key": "Guide Top Right",
+      "value": "Jobb felső"
+    },
+    {
+      "key": "Guide Bottom Left",
+      "value": "Bal alsó"
+    },
+    {
+      "key": "Guide Bottom Right",
+      "value": "Jobb alsó"
+    },
+    {
+      "key": "Guide Rotation 0",
+      "value": "Forgatás 0°"
+    },
+    {
+      "key": "Guide Rotation 90",
+      "value": "Forgatás 90°"
+    },
+    {
+      "key": "Guide Rotation 180",
+      "value": "Forgatás 180°"
+    },
+    {
+      "key": "Guide Rotation 270",
+      "value": "Forgatás 270°"
+    },
+    {
+      "key": "Guide Color",
+      "value": "Szín"
+    },
+    {
+      "key": "Guide Corners",
+      "value": "Sarkok"
+    },
+    {
+      "key": "Guide Horizontal Position",
+      "value": "Vízszintes helyzet"
+    },
+    {
+      "key": "Guide Vertical Position",
+      "value": "Függőleges helyzet"
+    },
+    {
+      "key": "Guide Line Width",
+      "value": "Vonalvastagság"
+    },
+    {
+      "key": "Guide Mirror",
+      "value": "Vízszintes tükrözés"
+    },
+    {
+      "key": "Guide None",
+      "value": "Nincs"
+    },
+    {
+      "key": "Guide Opacity",
+      "value": "Fedettség"
+    },
+    {
+      "key": "Guide Orientation",
+      "value": "Tájolás"
+    },
+    {
+      "key": "Guide Position",
+      "value": "Elhelyezés"
+    },
+    {
+      "key": "Guide Scale",
+      "value": "Méret 50–150%"
+    }
+  ]
+}

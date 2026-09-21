@@ -1,0 +1,310 @@
+{
+  "localeCode": "fi-FI",
+  "basis": "authored-translation-review-required",
+  "entries": [
+    {
+      "key": "Rule of Thirds",
+      "value": "Kolmanneksen sääntö"
+    },
+    {
+      "key": "Quarters Grid",
+      "value": "Neljännesruudukko"
+    },
+    {
+      "key": "Bisection",
+      "value": "Puolitus"
+    },
+    {
+      "key": "Centered Subject",
+      "value": "Keskitetty kohde"
+    },
+    {
+      "key": "Symmetry Axis",
+      "value": "Symmetria-akseli"
+    },
+    {
+      "key": "Phi Grid",
+      "value": "Kultaisen leikkauksen ruudukko"
+    },
+    {
+      "key": "Frame Diagonal",
+      "value": "Kuvan lävistäjä"
+    },
+    {
+      "key": "Golden Triangle",
+      "value": "Kultainen kolmio"
+    },
+    {
+      "key": "Triangle Composition",
+      "value": "Kolmiosommittelu"
+    },
+    {
+      "key": "X Composition",
+      "value": "X-sommittelu"
+    },
+    {
+      "key": "L Composition",
+      "value": "L-sommittelu"
+    },
+    {
+      "key": "V Composition",
+      "value": "V-sommittelu"
+    },
+    {
+      "key": "C Curve",
+      "value": "C-kaari"
+    },
+    {
+      "key": "S Curve",
+      "value": "S-kaari"
+    },
+    {
+      "key": "Fibonacci Spiral",
+      "value": "Fibonaccin spiraali"
+    },
+    {
+      "key": "Vanishing Point",
+      "value": "Pakopiste"
+    },
+    {
+      "key": "Leading Lines",
+      "value": "Johdattelevat linjat"
+    },
+    {
+      "key": "Tunnel Frame",
+      "value": "Tunnelikehys"
+    },
+    {
+      "key": "Frame Within Frame",
+      "value": "Kehys kehyksessä"
+    },
+    {
+      "key": "Sandwich Frame",
+      "value": "Sivukehystys"
+    },
+    {
+      "key": "Subject Contrast",
+      "value": "Kohteiden kontrasti"
+    },
+    {
+      "key": "Negative Space",
+      "value": "Negatiivinen tila"
+    },
+    {
+      "key": "Look and Lead Room",
+      "value": "Katse- ja liikesuunnan tila"
+    },
+    {
+      "key": "Odd Number Arrangement",
+      "value": "Pariton määrä kohteita"
+    },
+    {
+      "key": "Repetition and Rhythm",
+      "value": "Toisto ja rytmi"
+    },
+    {
+      "key": "Eye Line and Headroom",
+      "value": "Silmien linja ja päävara"
+    },
+    {
+      "key": "Headshot",
+      "value": "Kasvojen lähikuva"
+    },
+    {
+      "key": "Bust Portrait",
+      "value": "Rintakuva"
+    },
+    {
+      "key": "Waist Up Portrait",
+      "value": "Puolivartalokuva"
+    },
+    {
+      "key": "Full Body Portrait",
+      "value": "Kokovartalokuva"
+    },
+    {
+      "key": "Two Person Portrait",
+      "value": "Kahden henkilön kuva"
+    },
+    {
+      "key": "Three Person Portrait",
+      "value": "Kolmen henkilön kuva"
+    },
+    {
+      "key": "Composition Basics",
+      "value": "Perussommittelu"
+    },
+    {
+      "key": "Lines and Shapes",
+      "value": "Linjat ja muodot"
+    },
+    {
+      "key": "Composition Curves",
+      "value": "Sommittelukaaret"
+    },
+    {
+      "key": "Depth and Framing",
+      "value": "Syvyys ja kehystys"
+    },
+    {
+      "key": "Space and Arrangement",
+      "value": "Tila ja asettelu"
+    },
+    {
+      "key": "Portrait Guides",
+      "value": "Muotokuvan apuviivat"
+    },
+    {
+      "key": "Composition Guides",
+      "value": "Sommittelun apuviivat"
+    },
+    {
+      "key": "Composition Display",
+      "value": "Näytä apuviivat"
+    },
+    {
+      "key": "Main Guide",
+      "value": "Pääapuviiva"
+    },
+    {
+      "key": "Secondary Guide",
+      "value": "Toinen apuviiva"
+    },
+    {
+      "key": "Guide Type",
+      "value": "Valitse sommittelu"
+    },
+    {
+      "key": "Guide Appearance",
+      "value": "Ulkoasu"
+    },
+    {
+      "key": "Reset All Guides",
+      "value": "Palauta kaikki"
+    },
+    {
+      "key": "Reset Guide Placement",
+      "value": "Palauta asettelu"
+    },
+    {
+      "key": "Guide White",
+      "value": "Valkoinen"
+    },
+    {
+      "key": "Guide Black",
+      "value": "Musta"
+    },
+    {
+      "key": "Guide Yellow",
+      "value": "Keltainen"
+    },
+    {
+      "key": "Guide Cyan",
+      "value": "Syaani"
+    },
+    {
+      "key": "Guide Magenta",
+      "value": "Magenta"
+    },
+    {
+      "key": "Guide Green",
+      "value": "Vihreä"
+    },
+    {
+      "key": "Guide Center",
+      "value": "Keskellä"
+    },
+    {
+      "key": "Guide Top",
+      "value": "Ylhäällä"
+    },
+    {
+      "key": "Guide Bottom",
+      "value": "Alhaalla"
+    },
+    {
+      "key": "Guide Left",
+      "value": "Vasemmalla"
+    },
+    {
+      "key": "Guide Right",
+      "value": "Oikealla"
+    },
+    {
+      "key": "Guide Top Left",
+      "value": "Vasemmalla ylhäällä"
+    },
+    {
+      "key": "Guide Top Right",
+      "value": "Oikealla ylhäällä"
+    },
+    {
+      "key": "Guide Bottom Left",
+      "value": "Vasemmalla alhaalla"
+    },
+    {
+      "key": "Guide Bottom Right",
+      "value": "Oikealla alhaalla"
+    },
+    {
+      "key": "Guide Rotation 0",
+      "value": "Kierto 0°"
+    },
+    {
+      "key": "Guide Rotation 90",
+      "value": "Kierto 90°"
+    },
+    {
+      "key": "Guide Rotation 180",
+      "value": "Kierto 180°"
+    },
+    {
+      "key": "Guide Rotation 270",
+      "value": "Kierto 270°"
+    },
+    {
+      "key": "Guide Color",
+      "value": "Väri"
+    },
+    {
+      "key": "Guide Corners",
+      "value": "Kulmat"
+    },
+    {
+      "key": "Guide Horizontal Position",
+      "value": "Vaakasijainti"
+    },
+    {
+      "key": "Guide Vertical Position",
+      "value": "Pystysijainti"
+    },
+    {
+      "key": "Guide Line Width",
+      "value": "Viivan paksuus"
+    },
+    {
+      "key": "Guide Mirror",
+      "value": "Peilaa vaakasuunnassa"
+    },
+    {
+      "key": "Guide None",
+      "value": "Ei mitään"
+    },
+    {
+      "key": "Guide Opacity",
+      "value": "Peittävyys"
+    },
+    {
+      "key": "Guide Orientation",
+      "value": "Suunta"
+    },
+    {
+      "key": "Guide Position",
+      "value": "Asettelu"
+    },
+    {
+      "key": "Guide Scale",
+      "value": "Koko 50–150%"
+    }
+  ]
+}

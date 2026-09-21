@@ -1,0 +1,310 @@
+{
+  "localeCode": "bg-BG",
+  "basis": "authored-translation-review-required",
+  "entries": [
+    {
+      "key": "Rule of Thirds",
+      "value": "Правило на третините"
+    },
+    {
+      "key": "Quarters Grid",
+      "value": "Мрежа на четвъртини"
+    },
+    {
+      "key": "Bisection",
+      "value": "Разделяне наполовина"
+    },
+    {
+      "key": "Centered Subject",
+      "value": "Центриран обект"
+    },
+    {
+      "key": "Symmetry Axis",
+      "value": "Ос на симетрия"
+    },
+    {
+      "key": "Phi Grid",
+      "value": "Мрежа на златното сечение"
+    },
+    {
+      "key": "Frame Diagonal",
+      "value": "Диагонал на кадъра"
+    },
+    {
+      "key": "Golden Triangle",
+      "value": "Златен триъгълник"
+    },
+    {
+      "key": "Triangle Composition",
+      "value": "Триъгълна композиция"
+    },
+    {
+      "key": "X Composition",
+      "value": "X-композиция"
+    },
+    {
+      "key": "L Composition",
+      "value": "L-композиция"
+    },
+    {
+      "key": "V Composition",
+      "value": "V-композиция"
+    },
+    {
+      "key": "C Curve",
+      "value": "C-образна крива"
+    },
+    {
+      "key": "S Curve",
+      "value": "S-образна крива"
+    },
+    {
+      "key": "Fibonacci Spiral",
+      "value": "Спирала на Фибоначи"
+    },
+    {
+      "key": "Vanishing Point",
+      "value": "Точка на изчезване"
+    },
+    {
+      "key": "Leading Lines",
+      "value": "Водещи линии"
+    },
+    {
+      "key": "Tunnel Frame",
+      "value": "Тунелна рамка"
+    },
+    {
+      "key": "Frame Within Frame",
+      "value": "Рамка в рамката"
+    },
+    {
+      "key": "Sandwich Frame",
+      "value": "Странично рамкиране"
+    },
+    {
+      "key": "Subject Contrast",
+      "value": "Контраст между обекти"
+    },
+    {
+      "key": "Negative Space",
+      "value": "Негативно пространство"
+    },
+    {
+      "key": "Look and Lead Room",
+      "value": "Пространство по посока на погледа и движението"
+    },
+    {
+      "key": "Odd Number Arrangement",
+      "value": "Нечетен брой обекти"
+    },
+    {
+      "key": "Repetition and Rhythm",
+      "value": "Повторение и ритъм"
+    },
+    {
+      "key": "Eye Line and Headroom",
+      "value": "Линия на очите и място над главата"
+    },
+    {
+      "key": "Headshot",
+      "value": "Близък план на лицето"
+    },
+    {
+      "key": "Bust Portrait",
+      "value": "Портрет до гърдите"
+    },
+    {
+      "key": "Waist Up Portrait",
+      "value": "Портрет до кръста"
+    },
+    {
+      "key": "Full Body Portrait",
+      "value": "Портрет в цял ръст"
+    },
+    {
+      "key": "Two Person Portrait",
+      "value": "Портрет на двама"
+    },
+    {
+      "key": "Three Person Portrait",
+      "value": "Портрет на трима"
+    },
+    {
+      "key": "Composition Basics",
+      "value": "Основи на композицията"
+    },
+    {
+      "key": "Lines and Shapes",
+      "value": "Линии и форми"
+    },
+    {
+      "key": "Composition Curves",
+      "value": "Композиционни криви"
+    },
+    {
+      "key": "Depth and Framing",
+      "value": "Дълбочина и рамкиране"
+    },
+    {
+      "key": "Space and Arrangement",
+      "value": "Пространство и подредба"
+    },
+    {
+      "key": "Portrait Guides",
+      "value": "Портретни водачи"
+    },
+    {
+      "key": "Composition Guides",
+      "value": "Композиционни водачи"
+    },
+    {
+      "key": "Composition Display",
+      "value": "Показване на водачите"
+    },
+    {
+      "key": "Main Guide",
+      "value": "Основен водач"
+    },
+    {
+      "key": "Secondary Guide",
+      "value": "Допълнителен водач"
+    },
+    {
+      "key": "Guide Type",
+      "value": "Избор на композиция"
+    },
+    {
+      "key": "Guide Appearance",
+      "value": "Външен вид"
+    },
+    {
+      "key": "Reset All Guides",
+      "value": "Нулиране на всичко"
+    },
+    {
+      "key": "Reset Guide Placement",
+      "value": "Нулиране на подредбата"
+    },
+    {
+      "key": "Guide White",
+      "value": "Бяло"
+    },
+    {
+      "key": "Guide Black",
+      "value": "Черно"
+    },
+    {
+      "key": "Guide Yellow",
+      "value": "Жълто"
+    },
+    {
+      "key": "Guide Cyan",
+      "value": "Циан"
+    },
+    {
+      "key": "Guide Magenta",
+      "value": "Магента"
+    },
+    {
+      "key": "Guide Green",
+      "value": "Зелено"
+    },
+    {
+      "key": "Guide Center",
+      "value": "Център"
+    },
+    {
+      "key": "Guide Top",
+      "value": "Горе"
+    },
+    {
+      "key": "Guide Bottom",
+      "value": "Долу"
+    },
+    {
+      "key": "Guide Left",
+      "value": "Ляво"
+    },
+    {
+      "key": "Guide Right",
+      "value": "Дясно"
+    },
+    {
+      "key": "Guide Top Left",
+      "value": "Горе вляво"
+    },
+    {
+      "key": "Guide Top Right",
+      "value": "Горе вдясно"
+    },
+    {
+      "key": "Guide Bottom Left",
+      "value": "Долу вляво"
+    },
+    {
+      "key": "Guide Bottom Right",
+      "value": "Долу вдясно"
+    },
+    {
+      "key": "Guide Rotation 0",
+      "value": "Завъртане 0°"
+    },
+    {
+      "key": "Guide Rotation 90",
+      "value": "Завъртане 90°"
+    },
+    {
+      "key": "Guide Rotation 180",
+      "value": "Завъртане 180°"
+    },
+    {
+      "key": "Guide Rotation 270",
+      "value": "Завъртане 270°"
+    },
+    {
+      "key": "Guide Color",
+      "value": "Цвят"
+    },
+    {
+      "key": "Guide Corners",
+      "value": "Ъгли"
+    },
+    {
+      "key": "Guide Horizontal Position",
+      "value": "Хоризонтална позиция"
+    },
+    {
+      "key": "Guide Vertical Position",
+      "value": "Вертикална позиция"
+    },
+    {
+      "key": "Guide Line Width",
+      "value": "Дебелина на линията"
+    },
+    {
+      "key": "Guide Mirror",
+      "value": "Хоризонтално отражение"
+    },
+    {
+      "key": "Guide None",
+      "value": "Няма"
+    },
+    {
+      "key": "Guide Opacity",
+      "value": "Непрозрачност"
+    },
+    {
+      "key": "Guide Orientation",
+      "value": "Ориентация"
+    },
+    {
+      "key": "Guide Position",
+      "value": "Подредба"
+    },
+    {
+      "key": "Guide Scale",
+      "value": "Размер 50–150%"
+    }
+  ]
+}

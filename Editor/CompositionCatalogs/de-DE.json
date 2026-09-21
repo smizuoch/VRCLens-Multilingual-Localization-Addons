@@ -1,0 +1,310 @@
+{
+  "localeCode": "de-DE",
+  "basis": "authored-translation-review-required",
+  "entries": [
+    {
+      "key": "Rule of Thirds",
+      "value": "Drittelregel"
+    },
+    {
+      "key": "Quarters Grid",
+      "value": "Viertelraster"
+    },
+    {
+      "key": "Bisection",
+      "value": "Halbierung"
+    },
+    {
+      "key": "Centered Subject",
+      "value": "Zentriertes Motiv"
+    },
+    {
+      "key": "Symmetry Axis",
+      "value": "Symmetrieachse"
+    },
+    {
+      "key": "Phi Grid",
+      "value": "Raster des goldenen Schnitts"
+    },
+    {
+      "key": "Frame Diagonal",
+      "value": "Bilddiagonale"
+    },
+    {
+      "key": "Golden Triangle",
+      "value": "Goldenes Dreieck"
+    },
+    {
+      "key": "Triangle Composition",
+      "value": "Dreieckskomposition"
+    },
+    {
+      "key": "X Composition",
+      "value": "X-Komposition"
+    },
+    {
+      "key": "L Composition",
+      "value": "L-Komposition"
+    },
+    {
+      "key": "V Composition",
+      "value": "V-Komposition"
+    },
+    {
+      "key": "C Curve",
+      "value": "C-Kurve"
+    },
+    {
+      "key": "S Curve",
+      "value": "S-Kurve"
+    },
+    {
+      "key": "Fibonacci Spiral",
+      "value": "Fibonacci-Spirale"
+    },
+    {
+      "key": "Vanishing Point",
+      "value": "Fluchtpunkt"
+    },
+    {
+      "key": "Leading Lines",
+      "value": "Führungslinien"
+    },
+    {
+      "key": "Tunnel Frame",
+      "value": "Tunnelrahmen"
+    },
+    {
+      "key": "Frame Within Frame",
+      "value": "Rahmen im Rahmen"
+    },
+    {
+      "key": "Sandwich Frame",
+      "value": "Seitliche Einrahmung"
+    },
+    {
+      "key": "Subject Contrast",
+      "value": "Motivkontrast"
+    },
+    {
+      "key": "Negative Space",
+      "value": "Negativer Raum"
+    },
+    {
+      "key": "Look and Lead Room",
+      "value": "Raum in Blick- und Bewegungsrichtung"
+    },
+    {
+      "key": "Odd Number Arrangement",
+      "value": "Ungerade Anordnung"
+    },
+    {
+      "key": "Repetition and Rhythm",
+      "value": "Wiederholung und Rhythmus"
+    },
+    {
+      "key": "Eye Line and Headroom",
+      "value": "Augenlinie und Kopfraum"
+    },
+    {
+      "key": "Headshot",
+      "value": "Gesichtsnahaufnahme"
+    },
+    {
+      "key": "Bust Portrait",
+      "value": "Brustbild"
+    },
+    {
+      "key": "Waist Up Portrait",
+      "value": "Porträt ab der Taille"
+    },
+    {
+      "key": "Full Body Portrait",
+      "value": "Ganzkörperporträt"
+    },
+    {
+      "key": "Two Person Portrait",
+      "value": "Zweierporträt"
+    },
+    {
+      "key": "Three Person Portrait",
+      "value": "Dreierporträt"
+    },
+    {
+      "key": "Composition Basics",
+      "value": "Grundkompositionen"
+    },
+    {
+      "key": "Lines and Shapes",
+      "value": "Linien und Formen"
+    },
+    {
+      "key": "Composition Curves",
+      "value": "Kompositionskurven"
+    },
+    {
+      "key": "Depth and Framing",
+      "value": "Tiefe und Einrahmung"
+    },
+    {
+      "key": "Space and Arrangement",
+      "value": "Raum und Anordnung"
+    },
+    {
+      "key": "Portrait Guides",
+      "value": "Porträthilfen"
+    },
+    {
+      "key": "Composition Guides",
+      "value": "Kompositionshilfen"
+    },
+    {
+      "key": "Composition Display",
+      "value": "Hilfen anzeigen"
+    },
+    {
+      "key": "Main Guide",
+      "value": "Haupthilfe"
+    },
+    {
+      "key": "Secondary Guide",
+      "value": "Zusatzhilfe"
+    },
+    {
+      "key": "Guide Type",
+      "value": "Komposition wählen"
+    },
+    {
+      "key": "Guide Appearance",
+      "value": "Darstellung"
+    },
+    {
+      "key": "Reset All Guides",
+      "value": "Alles zurücksetzen"
+    },
+    {
+      "key": "Reset Guide Placement",
+      "value": "Platzierung zurücksetzen"
+    },
+    {
+      "key": "Guide White",
+      "value": "Weiß"
+    },
+    {
+      "key": "Guide Black",
+      "value": "Schwarz"
+    },
+    {
+      "key": "Guide Yellow",
+      "value": "Gelb"
+    },
+    {
+      "key": "Guide Cyan",
+      "value": "Cyan"
+    },
+    {
+      "key": "Guide Magenta",
+      "value": "Magenta"
+    },
+    {
+      "key": "Guide Green",
+      "value": "Grün"
+    },
+    {
+      "key": "Guide Center",
+      "value": "Mitte"
+    },
+    {
+      "key": "Guide Top",
+      "value": "Oben"
+    },
+    {
+      "key": "Guide Bottom",
+      "value": "Unten"
+    },
+    {
+      "key": "Guide Left",
+      "value": "Links"
+    },
+    {
+      "key": "Guide Right",
+      "value": "Rechts"
+    },
+    {
+      "key": "Guide Top Left",
+      "value": "Oben links"
+    },
+    {
+      "key": "Guide Top Right",
+      "value": "Oben rechts"
+    },
+    {
+      "key": "Guide Bottom Left",
+      "value": "Unten links"
+    },
+    {
+      "key": "Guide Bottom Right",
+      "value": "Unten rechts"
+    },
+    {
+      "key": "Guide Rotation 0",
+      "value": "Drehung 0°"
+    },
+    {
+      "key": "Guide Rotation 90",
+      "value": "Drehung 90°"
+    },
+    {
+      "key": "Guide Rotation 180",
+      "value": "Drehung 180°"
+    },
+    {
+      "key": "Guide Rotation 270",
+      "value": "Drehung 270°"
+    },
+    {
+      "key": "Guide Color",
+      "value": "Farbe"
+    },
+    {
+      "key": "Guide Corners",
+      "value": "Ecken"
+    },
+    {
+      "key": "Guide Horizontal Position",
+      "value": "Horizontale Position"
+    },
+    {
+      "key": "Guide Vertical Position",
+      "value": "Vertikale Position"
+    },
+    {
+      "key": "Guide Line Width",
+      "value": "Linienstärke"
+    },
+    {
+      "key": "Guide Mirror",
+      "value": "Horizontal spiegeln"
+    },
+    {
+      "key": "Guide None",
+      "value": "Keine"
+    },
+    {
+      "key": "Guide Opacity",
+      "value": "Deckkraft"
+    },
+    {
+      "key": "Guide Orientation",
+      "value": "Ausrichtung"
+    },
+    {
+      "key": "Guide Position",
+      "value": "Platzierung"
+    },
+    {
+      "key": "Guide Scale",
+      "value": "Größe 50–150%"
+    }
+  ]
+}

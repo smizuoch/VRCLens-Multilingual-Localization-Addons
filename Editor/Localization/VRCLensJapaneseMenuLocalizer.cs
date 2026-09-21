@@ -694,8 +694,11 @@ namespace VRCLensCustom
         }
 
         private static string LocalizeFavoriteQualifier(string english,
-                                                         VRCLensLocalizationCatalog catalog)
+                                                         VRCLensLocalizationCatalog catalog,
+                                                         VRCExpressionsMenu.Control control)
         {
+            if (VRCLensCompositionLocalization.TryQualifier(control, english, catalog.LocaleCode,
+                                                            out var composition)) return composition;
             switch (english)
             {
                 case "Drop": return catalog.CameraPinDrop;
@@ -801,7 +804,7 @@ namespace VRCLensCustom
                                                 StringComparison.Ordinal);
             if (wasQualified && !string.IsNullOrWhiteSpace(token.ParentLabel))
             {
-                string parent = LocalizeFavoriteQualifier(token.ParentLabel.Trim(), catalog);
+                string parent = LocalizeFavoriteQualifier(token.ParentLabel.Trim(), catalog, control);
                 return string.IsNullOrEmpty(parent) ? leaf : parent + " " + leaf;
             }
             return leaf;
@@ -1362,6 +1365,7 @@ namespace VRCLensCustom
             if (name.Length == 0) return false;
 
             var prefixes = catalog.KnownNames.Keys.Concat(new[] { "Drop" })
+                .Concat(VRCLensCompositionLocalization.Keys)
                 .Distinct(StringComparer.Ordinal)
                 .Where(prefix => name.StartsWith(prefix + " ", StringComparison.Ordinal))
                 .OrderByDescending(prefix => prefix.Length);
@@ -1383,9 +1387,11 @@ namespace VRCLensCustom
                     if (!recognized) continue;
                 }
 
-                string localizedPrefix = LocalizeFavoriteQualifier(prefix, catalog);
+                string localizedPrefix = LocalizeFavoriteQualifier(prefix, catalog, control);
                 if (string.Equals(localizedPrefix, prefix, StringComparison.Ordinal)
-                    && prefix != "Drop" && !catalog.KnownNames.ContainsKey(prefix))
+                    && prefix != "Drop" && !catalog.KnownNames.ContainsKey(prefix)
+                    && !VRCLensCompositionLocalization.TryQualifier(control, prefix,
+                        catalog.LocaleCode, out _))
                     continue;
                 localized = localizedPrefix + " " + localizedSuffix;
                 return true;
@@ -1843,12 +1849,15 @@ namespace VRCLensCustom
                    && (labelIndex == 1 || labelIndex == 3);
         }
 
-        private static bool TryLocalizedName(VRCExpressionsMenu.Control control,
+        internal static bool TryLocalizedName(VRCExpressionsMenu.Control control,
                                              VRCLensLocalizationCatalog catalog,
                                              out string localized)
         {
             localized = null;
             if (control == null) return false;
+
+            if (VRCLensCompositionLocalization.TryName(control, catalog.LocaleCode, out localized))
+                return true;
 
             string functionalBlank;
             if (TryFunctionalBlankName(control, catalog, out functionalBlank))
@@ -2084,6 +2093,16 @@ namespace VRCLensCustom
                     ValidateMenuAssets("Assets/VRCLens_Custom/Mods", false,
                                        failures, catalog, ref addOnMenuCount,
                                        ref functionalBlanks, ref layoutSpacers);
+                }
+
+                if (AssetDatabase.IsValidFolder(VRCLensCompositionLocalization.MenuFolder))
+                {
+                    int compositionMenus = 0;
+                    ValidateMenuAssets(VRCLensCompositionLocalization.MenuFolder, false,
+                                       failures, catalog, ref compositionMenus,
+                                       ref functionalBlanks, ref layoutSpacers);
+                    if (compositionMenus == 0)
+                        failures.Add(locale + "Composition Guides contains no readable menu assets");
                 }
 
                 if (baseMenuCount != 22)
@@ -2659,6 +2678,20 @@ namespace VRCLensCustom
                 var catalog = VRCLensLocalizationCatalog.ForLocale(profile.LocaleCode);
                 var menu = ScriptableObject.CreateInstance<VRCExpressionsMenu>();
                 made.Add(menu);
+                var composition = Control("Composition Guides Rule of Thirds",
+                    VRCExpressionsMenu.Control.ControlType.Button, "VRCL_Custom/CompositionASelectTrigger", 2);
+                VRCLensCompositionLocalization.TryQualifier(composition, "Composition Guides", profile.LocaleCode, out var qualifier);
+                VRCLensCompositionLocalization.TryQualifier(composition, "Rule of Thirds", profile.LocaleCode, out var leaf);
+                if (!TryLocalizedFavoriteQualifiedName(composition, catalog, out var qualified)
+                    || qualified != qualifier + " " + leaf)
+                    throw new InvalidOperationException(profile.LocaleCode + " composition Favorite qualifier failed");
+                menu.controls.Add(composition);
+                BeginFavoriteBridge(avatar, profile);
+                TagFavoriteControl(avatar, composition, "CompositionThirds", "Rule of Thirds", "Composition Guides", "My Guide");
+                RestoreFavoriteTokens(avatar, menu, catalog, out _, out _);
+                if (composition.name != "My Guide")
+                    throw new InvalidOperationException(profile.LocaleCode + " composition Favorite alias changed");
+                EndFavoriteBridge(avatar);
                 var blankAlias = Control(
                     "Drone Move Camera", VRCExpressionsMenu.Control.ControlType.TwoAxisPuppet,
                     FeatureToggle, 212, "VRCFaceBlendH", "VRCFaceBlendV");
